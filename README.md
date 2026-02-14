@@ -103,8 +103,9 @@ make clean-all      # remove all generated files
 
 ---
 
-## Disclaimer
+# Disclaimer
 
-This project is provided for anti-fingerprinting and privacy research purposes only for the purpose of font metric spoofing. These fonts are the property of their respective copyright holders (Microsoft, Apple, etc.). All fonts are the intellectual property of their respective owners.
+> [!WARNING]
+> This project is provided for anti-fingerprinting and privacy research purposes only for the purpose of font metric spoofing. These fonts are the property of their respective copyright holders (Microsoft, Apple, etc.). All fonts are the intellectual property of their respective owners.
 
 ---
