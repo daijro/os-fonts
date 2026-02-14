@@ -27,7 +27,6 @@ for font, ppem, strike, glyph_name in tqdm(glyphs, desc="Processing", unit="glyp
             img = img.convert("RGBA")
             r, g, b, a = img.split()
             a = a.point(lambda x: 255 if x > 0 else 0)
-            # Force standard 32-bit RGBA output
             out = Image.new("RGBA", (w, h), (0, 0, 0, 0))
             black = Image.new("RGBA", (w, h), (0, 0, 0, 255))
             out.paste(black, mask=a)
