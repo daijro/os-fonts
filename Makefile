@@ -10,7 +10,7 @@ win11:
 manifest:
 	python3 merge.py
 
-clean:
+clean-temp:
 	python3 win11/download_utils.py clean
 
 clean-all: clean
