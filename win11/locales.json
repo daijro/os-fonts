@@ -1,0 +1,1282 @@
+{
+  "core": [
+    "Arial",
+    "Bahnschrift",
+    "Calibri",
+    "Cambria",
+    "Cambria Math",
+    "Candara",
+    "Comic Sans MS",
+    "Consolas",
+    "Constantia",
+    "Corbel",
+    "Courier New",
+    "Ebrima",
+    "Franklin Gothic Medium",
+    "Gabriola",
+    "Gadugi",
+    "Georgia",
+    "Impact",
+    "Ink Free",
+    "Javanese Text",
+    "Leelawadee UI",
+    "MS UI Gothic",
+    "MV Boli",
+    "Marlett",
+    "Microsoft Himalaya",
+    "Microsoft JhengHei UI",
+    "Microsoft New Tai Lue",
+    "Microsoft PhagsPa",
+    "Microsoft Sans Serif",
+    "Microsoft Tai Le",
+    "Microsoft YaHei UI",
+    "Microsoft Yi Baiti",
+    "Mongolian Baiti",
+    "Myanmar Text",
+    "Palatino Linotype",
+    "Segoe Fluent Icons",
+    "Segoe MDL2 Assets",
+    "Segoe Print",
+    "Segoe Script",
+    "Segoe UI",
+    "Segoe UI Emoji",
+    "Segoe UI Historic",
+    "Segoe UI Symbol",
+    "Segoe UI Variable",
+    "SimSun-ExtB",
+    "Sitka",
+    "Sylfaen",
+    "Symbol",
+    "Tahoma",
+    "Times New Roman",
+    "Trebuchet MS",
+    "Verdana",
+    "Webdings",
+    "Wingdings",
+    "Yu Gothic UI",
+    "\u5b8b\u4f53",
+    "\u5fae\u8edf\u6b63\u9ed1\u9ad4",
+    "\u5fae\u8f6f\u96c5\u9ed1",
+    "\u65b0\u5b8b\u4f53",
+    "\u65b0\u7d30\u660e\u9ad4-ExtB",
+    "\u6e38\u30b4\u30b7\u30c3\u30af",
+    "\u7d30\u660e\u9ad4-ExtB",
+    "\u7d30\u660e\u9ad4_HKSCS-ExtB",
+    "\u7d30\u660e\u9ad4_MSCS-ExtB",
+    "\ub9d1\uc740 \uace0\ub515",
+    "\uff2d\uff33 \u30b4\u30b7\u30c3\u30af",
+    "\uff2d\uff33 \uff30\u30b4\u30b7\u30c3\u30af"
+  ],
+  "am": [
+    "Nyala"
+  ],
+  "am-ET": [
+    "Nyala"
+  ],
+  "ar": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ar-AE": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ar-BH": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ar-DJ": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ar-DZ": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ar-EG": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ar-ER": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ar-IL": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ar-IQ": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ar-JO": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ar-KM": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ar-KW": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ar-LB": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ar-LY": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ar-MA": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ar-MR": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ar-OM": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ar-PS": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ar-QA": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ar-SA": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ar-SD": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ar-SO": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ar-SS": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ar-SY": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ar-TD": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ar-TN": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ar-YE": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "arc-Syrc": [
+    "Estrangelo Edessa"
+  ],
+  "arz-Arab": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "as": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "as-IN": [
+    "Shonar Bangla",
+    "Vrinda"
+  ],
+  "bh-Deva": [
+    "Aparajita",
+    "Kokila",
+    "Mangal",
+    "Sanskrit Text",
+    "Utsaah"
+  ],
+  "bn": [
+    "Shonar Bangla",
+    "Vrinda"
+  ],
+  "bn-BD": [
+    "Shonar Bangla",
+    "Vrinda"
+  ],
+  "bn-IN": [
+    "Shonar Bangla",
+    "Vrinda"
+  ],
+  "bpy-Beng": [
+    "Shonar Bangla",
+    "Vrinda"
+  ],
+  "brx": [
+    "Aparajita",
+    "Kokila",
+    "Mangal",
+    "Sanskrit Text",
+    "Utsaah"
+  ],
+  "brx-Deva": [
+    "Aparajita",
+    "Kokila",
+    "Mangal",
+    "Sanskrit Text",
+    "Utsaah"
+  ],
+  "brx-IN": [
+    "Aparajita",
+    "Kokila",
+    "Mangal",
+    "Sanskrit Text",
+    "Utsaah"
+  ],
+  "byn": [
+    "Nyala"
+  ],
+  "byn-ER": [
+    "Nyala"
+  ],
+  "byn-Ethi": [
+    "Nyala"
+  ],
+  "chr-Cher": [
+    "Plantagenet Cherokee"
+  ],
+  "chr-Cher-US": [
+    "Plantagenet Cherokee"
+  ],
+  "ckb-Arab": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "cmn-Hans": [
+    "\u4eff\u5b8b",
+    "\u6977\u4f53",
+    "\u7b49\u7ebf",
+    "\u9ed1\u4f53"
+  ],
+  "cmn-Hant": [
+    "DFKai-SB",
+    "\u65b0\u7d30\u660e\u9ad4",
+    "\u7d30\u660e\u9ad4",
+    "\u7d30\u660e\u9ad4_HKSCS",
+    "\u7d30\u660e\u9ad4_MSCS"
+  ],
+  "eu": [
+    "Arial Nova",
+    "Georgia Pro",
+    "Gill Sans Nova",
+    "Neue Haas Grotesk Text Pro",
+    "Rockwell Nova",
+    "Verdana Pro"
+  ],
+  "fa": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "fa-AF": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "fa-IR": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "gan-Hans": [
+    "\u4eff\u5b8b",
+    "\u6977\u4f53",
+    "\u7b49\u7ebf",
+    "\u9ed1\u4f53"
+  ],
+  "glk-Arab": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "gu": [
+    "Shruti"
+  ],
+  "gu-IN": [
+    "Shruti"
+  ],
+  "ha-Arab": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "hak-Hans": [
+    "\u4eff\u5b8b",
+    "\u6977\u4f53",
+    "\u7b49\u7ebf",
+    "\u9ed1\u4f53"
+  ],
+  "hak-Hant": [
+    "DFKai-SB",
+    "\u65b0\u7d30\u660e\u9ad4",
+    "\u7d30\u660e\u9ad4",
+    "\u7d30\u660e\u9ad4_HKSCS",
+    "\u7d30\u660e\u9ad4_MSCS"
+  ],
+  "he": [
+    "Aharoni",
+    "David",
+    "FrankRuehl",
+    "Gisha",
+    "Levenim MT",
+    "Miriam",
+    "Miriam Fixed",
+    "Narkisim",
+    "Rod"
+  ],
+  "he-IL": [
+    "Aharoni",
+    "David",
+    "FrankRuehl",
+    "Gisha",
+    "Levenim MT",
+    "Miriam",
+    "Miriam Fixed",
+    "Narkisim",
+    "Rod"
+  ],
+  "hi": [
+    "Aparajita",
+    "Kokila",
+    "Mangal",
+    "Sanskrit Text",
+    "Utsaah"
+  ],
+  "hi-IN": [
+    "Aparajita",
+    "Kokila",
+    "Mangal",
+    "Sanskrit Text",
+    "Utsaah"
+  ],
+  "iu-Cans": [
+    "Euphemia"
+  ],
+  "iu-Cans-CA": [
+    "Euphemia"
+  ],
+  "ja": [
+    "BIZ UDP\u30b4\u30b7\u30c3\u30af",
+    "BIZ UDP\u660e\u671d",
+    "BIZ UD\u30b4\u30b7\u30c3\u30af",
+    "BIZ UD\u660e\u671d",
+    "Meiryo UI",
+    "UD \u30c7\u30b8\u30bf\u30eb \u6559\u79d1\u66f8\u4f53 N",
+    "UD \u30c7\u30b8\u30bf\u30eb \u6559\u79d1\u66f8\u4f53 NK",
+    "UD \u30c7\u30b8\u30bf\u30eb \u6559\u79d1\u66f8\u4f53 NP",
+    "\u30e1\u30a4\u30ea\u30aa",
+    "\u6e38\u660e\u671d",
+    "\uff2d\uff33 \u660e\u671d",
+    "\uff2d\uff33 \uff30\u660e\u671d"
+  ],
+  "ja-JP": [
+    "BIZ UDP\u30b4\u30b7\u30c3\u30af",
+    "BIZ UDP\u660e\u671d",
+    "BIZ UD\u30b4\u30b7\u30c3\u30af",
+    "BIZ UD\u660e\u671d",
+    "Meiryo UI",
+    "UD \u30c7\u30b8\u30bf\u30eb \u6559\u79d1\u66f8\u4f53 N",
+    "UD \u30c7\u30b8\u30bf\u30eb \u6559\u79d1\u66f8\u4f53 NK",
+    "UD \u30c7\u30b8\u30bf\u30eb \u6559\u79d1\u66f8\u4f53 NP",
+    "\u30e1\u30a4\u30ea\u30aa",
+    "\u6e38\u660e\u671d",
+    "\uff2d\uff33 \u660e\u671d",
+    "\uff2d\uff33 \uff30\u660e\u671d"
+  ],
+  "km": [
+    "DaunPenh",
+    "Khmer UI",
+    "MoolBoran"
+  ],
+  "km-KH": [
+    "DaunPenh",
+    "Khmer UI",
+    "MoolBoran"
+  ],
+  "kn": [
+    "Tunga"
+  ],
+  "kn-IN": [
+    "Tunga"
+  ],
+  "ko": [
+    "\uad74\ub9bc",
+    "\uad74\ub9bc\uccb4",
+    "\uad81\uc11c",
+    "\uad81\uc11c\uccb4",
+    "\ub3cb\uc6c0",
+    "\ub3cb\uc6c0\uccb4",
+    "\ubc14\ud0d5",
+    "\ubc14\ud0d5\uccb4"
+  ],
+  "ko-KR": [
+    "\uad74\ub9bc",
+    "\uad74\ub9bc\uccb4",
+    "\uad81\uc11c",
+    "\uad81\uc11c\uccb4",
+    "\ub3cb\uc6c0",
+    "\ub3cb\uc6c0\uccb4",
+    "\ubc14\ud0d5",
+    "\ubc14\ud0d5\uccb4"
+  ],
+  "ks-Arab": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ks-Arab-IN": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ks-Deva": [
+    "Aparajita",
+    "Kokila",
+    "Mangal",
+    "Sanskrit Text",
+    "Utsaah"
+  ],
+  "ku-Arab": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ku-Arab-IQ": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "lo": [
+    "DokChampa",
+    "Lao UI"
+  ],
+  "lo-LA": [
+    "DokChampa",
+    "Lao UI"
+  ],
+  "lzh-Hant": [
+    "DFKai-SB",
+    "\u65b0\u7d30\u660e\u9ad4",
+    "\u7d30\u660e\u9ad4",
+    "\u7d30\u660e\u9ad4_HKSCS",
+    "\u7d30\u660e\u9ad4_MSCS"
+  ],
+  "mai": [
+    "Aparajita",
+    "Kokila",
+    "Mangal",
+    "Sanskrit Text",
+    "Utsaah"
+  ],
+  "ml": [
+    "Kartika"
+  ],
+  "ml-IN": [
+    "Kartika"
+  ],
+  "mr": [
+    "Aparajita",
+    "Kokila",
+    "Mangal",
+    "Sanskrit Text",
+    "Utsaah"
+  ],
+  "mr-IN": [
+    "Aparajita",
+    "Kokila",
+    "Mangal",
+    "Sanskrit Text",
+    "Utsaah"
+  ],
+  "mzn-Arab": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ne": [
+    "Aparajita",
+    "Kokila",
+    "Mangal",
+    "Sanskrit Text",
+    "Utsaah"
+  ],
+  "ne-IN": [
+    "Aparajita",
+    "Kokila",
+    "Mangal",
+    "Sanskrit Text",
+    "Utsaah"
+  ],
+  "ne-NP": [
+    "Aparajita",
+    "Kokila",
+    "Mangal",
+    "Sanskrit Text",
+    "Utsaah"
+  ],
+  "new-Deva": [
+    "Aparajita",
+    "Kokila",
+    "Mangal",
+    "Sanskrit Text",
+    "Utsaah"
+  ],
+  "or": [
+    "Kalinga"
+  ],
+  "or-IN": [
+    "Kalinga"
+  ],
+  "pa": [
+    "Raavi"
+  ],
+  "pa-Arab": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "pa-Arab-PK": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "pa-Guru": [
+    "Raavi"
+  ],
+  "pa-IN": [
+    "Raavi"
+  ],
+  "pi-Deva": [
+    "Aparajita",
+    "Kokila",
+    "Mangal",
+    "Sanskrit Text",
+    "Utsaah"
+  ],
+  "pnb-Arab": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "prs": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "prs-AF": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "prs-Arab": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ps": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ps-AF": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "sa": [
+    "Aparajita",
+    "Kokila",
+    "Mangal",
+    "Sanskrit Text",
+    "Utsaah"
+  ],
+  "sa-Deva": [
+    "Aparajita",
+    "Kokila",
+    "Mangal",
+    "Sanskrit Text",
+    "Utsaah"
+  ],
+  "sa-IN": [
+    "Aparajita",
+    "Kokila",
+    "Mangal",
+    "Sanskrit Text",
+    "Utsaah"
+  ],
+  "sd-Arab": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "sd-Arab-PK": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "si": [
+    "Iskoola Pota"
+  ],
+  "si-LK": [
+    "Iskoola Pota"
+  ],
+  "syr": [
+    "Estrangelo Edessa"
+  ],
+  "syr-SY": [
+    "Estrangelo Edessa"
+  ],
+  "syr-Syrc": [
+    "Estrangelo Edessa"
+  ],
+  "ta": [
+    "Latha",
+    "Vijaya"
+  ],
+  "ta-IN": [
+    "Latha",
+    "Vijaya"
+  ],
+  "ta-LK": [
+    "Latha",
+    "Vijaya"
+  ],
+  "ta-MY": [
+    "Latha",
+    "Vijaya"
+  ],
+  "ta-SG": [
+    "Latha",
+    "Vijaya"
+  ],
+  "te": [
+    "Gautami",
+    "Vani"
+  ],
+  "te-IN": [
+    "Gautami",
+    "Vani"
+  ],
+  "th": [
+    "Angsana New",
+    "AngsanaUPC",
+    "Browallia New",
+    "BrowalliaUPC",
+    "Cordia New",
+    "CordiaUPC",
+    "DilleniaUPC",
+    "EucrosiaUPC",
+    "FreesiaUPC",
+    "IrisUPC",
+    "JasmineUPC",
+    "KodchiangUPC",
+    "Leelawadee",
+    "LilyUPC"
+  ],
+  "th-TH": [
+    "Angsana New",
+    "AngsanaUPC",
+    "Browallia New",
+    "BrowalliaUPC",
+    "Cordia New",
+    "CordiaUPC",
+    "DilleniaUPC",
+    "EucrosiaUPC",
+    "FreesiaUPC",
+    "IrisUPC",
+    "JasmineUPC",
+    "KodchiangUPC",
+    "Leelawadee",
+    "LilyUPC"
+  ],
+  "ti": [
+    "Nyala"
+  ],
+  "ti-ER": [
+    "Nyala"
+  ],
+  "ti-ET": [
+    "Nyala"
+  ],
+  "tig": [
+    "Nyala"
+  ],
+  "tig-ER": [
+    "Nyala"
+  ],
+  "tig-Ethi": [
+    "Nyala"
+  ],
+  "tk-Arab": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ug": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ug-Arab": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ug-CN": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ur": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ur-IN": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ur-PK": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "uz-Arab": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "uz-Arab-AF": [
+    "Aldhabi",
+    "Andalus",
+    "Arabic Typesetting",
+    "Microsoft Uighur",
+    "Sakkal Majalla",
+    "Simplified Arabic",
+    "Simplified Arabic Fixed",
+    "Traditional Arabic",
+    "Urdu Typesetting"
+  ],
+  "ve-Ethi": [
+    "Nyala"
+  ],
+  "wal": [
+    "Nyala"
+  ],
+  "wal-ET": [
+    "Nyala"
+  ],
+  "wal-Ethi": [
+    "Nyala"
+  ],
+  "wuu-Hans": [
+    "\u4eff\u5b8b",
+    "\u6977\u4f53",
+    "\u7b49\u7ebf",
+    "\u9ed1\u4f53"
+  ],
+  "yi": [
+    "Aharoni",
+    "David",
+    "FrankRuehl",
+    "Gisha",
+    "Levenim MT",
+    "Miriam",
+    "Miriam Fixed",
+    "Narkisim",
+    "Rod"
+  ],
+  "yue-Hans": [
+    "\u4eff\u5b8b",
+    "\u6977\u4f53",
+    "\u7b49\u7ebf",
+    "\u9ed1\u4f53"
+  ],
+  "zh-CN": [
+    "\u4eff\u5b8b",
+    "\u6977\u4f53",
+    "\u7b49\u7ebf",
+    "\u9ed1\u4f53"
+  ],
+  "zh-HK": [
+    "DFKai-SB",
+    "\u65b0\u7d30\u660e\u9ad4",
+    "\u7d30\u660e\u9ad4",
+    "\u7d30\u660e\u9ad4_HKSCS",
+    "\u7d30\u660e\u9ad4_MSCS"
+  ],
+  "zh-Hans": [
+    "\u4eff\u5b8b",
+    "\u6977\u4f53",
+    "\u7b49\u7ebf",
+    "\u9ed1\u4f53"
+  ],
+  "zh-Hant": [
+    "DFKai-SB",
+    "\u65b0\u7d30\u660e\u9ad4",
+    "\u7d30\u660e\u9ad4",
+    "\u7d30\u660e\u9ad4_HKSCS",
+    "\u7d30\u660e\u9ad4_MSCS"
+  ],
+  "zh-MO": [
+    "DFKai-SB",
+    "\u65b0\u7d30\u660e\u9ad4",
+    "\u7d30\u660e\u9ad4",
+    "\u7d30\u660e\u9ad4_HKSCS",
+    "\u7d30\u660e\u9ad4_MSCS"
+  ],
+  "zh-SG": [
+    "\u4eff\u5b8b",
+    "\u6977\u4f53",
+    "\u7b49\u7ebf",
+    "\u9ed1\u4f53"
+  ],
+  "zh-TW": [
+    "DFKai-SB",
+    "\u65b0\u7d30\u660e\u9ad4",
+    "\u7d30\u660e\u9ad4",
+    "\u7d30\u660e\u9ad4_HKSCS",
+    "\u7d30\u660e\u9ad4_MSCS"
+  ],
+  "zh-gan-Hans": [
+    "\u4eff\u5b8b",
+    "\u6977\u4f53",
+    "\u7b49\u7ebf",
+    "\u9ed1\u4f53"
+  ],
+  "zh-hak-Hans": [
+    "\u4eff\u5b8b",
+    "\u6977\u4f53",
+    "\u7b49\u7ebf",
+    "\u9ed1\u4f53"
+  ],
+  "zh-hak-Hant": [
+    "DFKai-SB",
+    "\u65b0\u7d30\u660e\u9ad4",
+    "\u7d30\u660e\u9ad4",
+    "\u7d30\u660e\u9ad4_HKSCS",
+    "\u7d30\u660e\u9ad4_MSCS"
+  ],
+  "zh-lzh-Hant": [
+    "DFKai-SB",
+    "\u65b0\u7d30\u660e\u9ad4",
+    "\u7d30\u660e\u9ad4",
+    "\u7d30\u660e\u9ad4_HKSCS",
+    "\u7d30\u660e\u9ad4_MSCS"
+  ],
+  "zh-wuu-Hans": [
+    "\u4eff\u5b8b",
+    "\u6977\u4f53",
+    "\u7b49\u7ebf",
+    "\u9ed1\u4f53"
+  ],
+  "zh-yue-Hans": [
+    "\u4eff\u5b8b",
+    "\u6977\u4f53",
+    "\u7b49\u7ebf",
+    "\u9ed1\u4f53"
+  ],
+  "zh-yue-Hant": [
+    "DFKai-SB",
+    "\u65b0\u7d30\u660e\u9ad4",
+    "\u7d30\u660e\u9ad4",
+    "\u7d30\u660e\u9ad4_HKSCS",
+    "\u7d30\u660e\u9ad4_MSCS"
+  ]
+}

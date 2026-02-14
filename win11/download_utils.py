@@ -459,7 +459,7 @@ def cmd_extract(args):
     """
     extract fonts from downloaded packages into output directory
     """
-    output_dir = WIN11_DIR / "fonts"
+    output_dir = WIN11_DIR / WINDOWS_VERSION
     extraction_map_path = WIN11_DIR / "extraction.json"
     fontlist_path = WIN11_DIR.parent.parent / "ms_docs" / "win11.md"
 

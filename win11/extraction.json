@@ -1,0 +1,2831 @@
+{
+  "Microsoft-Windows-LanguageFeatures-Fonts-Arab-Package-amd64.cab": [
+    {
+      "file": "aldhabi6_85.ttf",
+      "family": "Aldhabi",
+      "subfamily": "Normal",
+      "version": "Version 6.85",
+      "sha256": "4df3d3959c7d9a4c708052d99b0103ed076015a9dde160f9d32a7c520c960fd7"
+    },
+    {
+      "file": "andlso6_84.ttf",
+      "family": "Andalus",
+      "subfamily": "Normal",
+      "version": "Version 6.84",
+      "sha256": "9b8dc4323dc148795c5737a7a036f2bade5978eddce975ff6e1c180010770f8a"
+    },
+    {
+      "file": "arabtype6_84.ttf",
+      "family": "Arabic Typesetting",
+      "subfamily": "Normal",
+      "version": "Version 6.84",
+      "sha256": "101ae78fa1d91abdc629391d6bc7d5ee3421e3bc8640a0b5f4e17b20936be8e9"
+    },
+    {
+      "file": "majalla6_86.ttf",
+      "family": "Sakkal Majalla",
+      "subfamily": "Normal",
+      "version": "Version 6.86",
+      "sha256": "5efde17f7a74655c34e29d8d88fba2caf261d1dcc7b828615653976b7c0ed0ba"
+    },
+    {
+      "file": "majallab6_86.ttf",
+      "family": "Sakkal Majalla",
+      "subfamily": "Gras",
+      "version": "Version 6.86",
+      "sha256": "df26828a562643bcb8e9b4d757d47e0213998db0f35e4cee08ec5ff5f87fd431"
+    },
+    {
+      "file": "msuighub7_00.ttf",
+      "family": "Microsoft Uighur",
+      "subfamily": "Gras",
+      "version": "Version 7.00",
+      "sha256": "8ad214f1919b2cb8a7583cf2019a4e72bae182dfce0b5738c1780b2ab62d8f57"
+    },
+    {
+      "file": "msuighur7_00.ttf",
+      "family": "Microsoft Uighur",
+      "subfamily": "Normal",
+      "version": "Version 7.00",
+      "sha256": "b7d31a1a0b8b26ae3233044e646a4ce37061cec96a265ecd00f4c57d3cbba58f"
+    },
+    {
+      "file": "simpbdo6_98.ttf",
+      "family": "Simplified Arabic",
+      "subfamily": "Gras",
+      "version": "Version 6.98",
+      "sha256": "5ab73bd7957d0ac0b5cacd18ebcf19af6d0718da081c8c6942726f94b3c408bc"
+    },
+    {
+      "file": "simpfxo6_84.ttf",
+      "family": "Simplified Arabic Fixed",
+      "subfamily": "Normal",
+      "version": "Version 6.84",
+      "sha256": "756d4b800772da4ba298a6ddaaa6b3aa8fc68b63a1b20e5999b98f64122a3fdb"
+    },
+    {
+      "file": "simpo6_98.ttf",
+      "family": "Simplified Arabic",
+      "subfamily": "Normal",
+      "version": "Version 6.98",
+      "sha256": "08900f011f18f184047044bf4087857d6842d7f7126c0b88035447ba9bd37e30"
+    },
+    {
+      "file": "tradbdo6_84.ttf",
+      "family": "Traditional Arabic",
+      "subfamily": "Gras",
+      "version": "Version 6.84",
+      "sha256": "2a186f9e29d246b282645f963664b04d99dde16f7b8f8e5e5cf2c230f620d6d5"
+    },
+    {
+      "file": "trado6_84.ttf",
+      "family": "Traditional Arabic",
+      "subfamily": "Normal",
+      "version": "Version 6.84",
+      "sha256": "efd0c380676a4e49af7f2c2a8cc2f20a8727903609cdc1a26853eedbbb9611bf"
+    },
+    {
+      "file": "urdtype6_86.ttf",
+      "family": "Urdu Typesetting",
+      "subfamily": "Normal",
+      "version": "Version 6.86",
+      "sha256": "9b513ddff9dc34b31cb8e93e48e5db9ff7ef0aad18abc1b4da2c0bd800cb7bde"
+    },
+    {
+      "file": "urdtypeb6_86.ttf",
+      "family": "Urdu Typesetting",
+      "subfamily": "Gras",
+      "version": "Version 6.86",
+      "sha256": "681f35684afe5d945691d2c45d7f025e5b7e1a3e2f504ec298cd9b59be3b689d"
+    }
+  ],
+  "Microsoft-Windows-LanguageFeatures-Fonts-Beng-Package-amd64.cab": [
+    {
+      "file": "shonar6_90.ttf",
+      "family": "Shonar Bangla",
+      "subfamily": "Normal",
+      "version": "Version 6.90",
+      "sha256": "819e614972126b01c3f75bf1b2aa89c59270788c47582782315bcf803a832924"
+    },
+    {
+      "file": "shonarb6_90.ttf",
+      "family": "Shonar Bangla",
+      "subfamily": "Gras",
+      "version": "Version 6.90",
+      "sha256": "20316d16c79d7c48389d2342d88bac140029f61b9003011f4fa0b159c534590e"
+    },
+    {
+      "file": "vrinda6_90.ttf",
+      "family": "Vrinda",
+      "subfamily": "Normal",
+      "version": "Version 6.90",
+      "sha256": "8d24f28334c99fa903795114be7336ae0f49d68388498198c6b81fcc8123d05a"
+    },
+    {
+      "file": "vrindab6_90.ttf",
+      "family": "Vrinda",
+      "subfamily": "Gras",
+      "version": "Version 6.90",
+      "sha256": "2b93956bfa8af7907388be83b8a06c190ee47dc0e7b53a099b0a48f88c5fccd8"
+    }
+  ],
+  "Microsoft-Windows-LanguageFeatures-Fonts-Cans-Package-amd64.cab": [
+    {
+      "file": "euphemia5_10.ttf",
+      "family": "Euphemia",
+      "subfamily": "Regular",
+      "version": "Version 5.10",
+      "sha256": "8d5e91944a4e048c6167bb29c76ccf5740172b36d1201bf29a73afd8489fe164"
+    }
+  ],
+  "Microsoft-Windows-LanguageFeatures-Fonts-Cher-Package-amd64.cab": [
+    {
+      "file": "plantc5_10.ttf",
+      "family": "Plantagenet Cherokee",
+      "subfamily": "Regular",
+      "version": "Version 5.10",
+      "sha256": "eb90e62e98b570df10d99bbf32ee94025e4a9743bb4010b984fbbbe5b13ff418"
+    }
+  ],
+  "Microsoft-Windows-LanguageFeatures-Fonts-Deva-Package-amd64.cab": [
+    {
+      "file": "aparaj6_91.ttf",
+      "family": "Aparajita",
+      "subfamily": "Normal",
+      "version": "Version 6.91",
+      "sha256": "6b6c663b1654d4116e1c3500e62e0b48c07c0625a1cfe36dca1fd419a6067c30"
+    },
+    {
+      "file": "aparajb6_91.ttf",
+      "family": "Aparajita",
+      "subfamily": "Gras",
+      "version": "Version 6.91",
+      "sha256": "a1cb96ae8168edd2795c068501cb7a1d3df7265de37771d90147241528fac559"
+    },
+    {
+      "file": "aparajbi6_91.ttf",
+      "family": "Aparajita",
+      "subfamily": "Gras Italique",
+      "version": "Version 6.91",
+      "sha256": "6df5d5164191a413dc83ef3934041398b52692a2def9ed2030d6328c5d3dbeea"
+    },
+    {
+      "file": "aparaji6_91.ttf",
+      "family": "Aparajita",
+      "subfamily": "Italique",
+      "version": "Version 6.91",
+      "sha256": "21508a0305a83376f7d23cacb76c802a1c3305ac2f73c4e0b4c988946ee7e400"
+    },
+    {
+      "file": "kokila6_91.ttf",
+      "family": "Kokila",
+      "subfamily": "Normal",
+      "version": "Version 6.91",
+      "sha256": "ac52eb7e57b0dea829ceb6d476566faf42b9d435f0fc1f97d55a75459be0acdb"
+    },
+    {
+      "file": "kokilab6_91.ttf",
+      "family": "Kokila",
+      "subfamily": "Gras",
+      "version": "Version 6.91",
+      "sha256": "0a10b51acd4f8c45459af5c3e160c65fa870749ab00c893361a77612b0be1377"
+    },
+    {
+      "file": "kokilabi6_91.ttf",
+      "family": "Kokila",
+      "subfamily": "Gras Italique",
+      "version": "Version 6.91",
+      "sha256": "b397c0c0cd3fa823614d46fba21e911b1dbabcc33c63f88cb2b7e4949254e798"
+    },
+    {
+      "file": "kokilai6_91.ttf",
+      "family": "Kokila",
+      "subfamily": "Italique",
+      "version": "Version 6.91",
+      "sha256": "d969aec8611220f29a51e2fe58ba43d650e76a9b865fe9b5c9fa695c4c038592"
+    },
+    {
+      "file": "mangal6_91.ttf",
+      "family": "Mangal",
+      "subfamily": "Normal",
+      "version": "Version 6.91",
+      "sha256": "d3c37c04314c6d2cd4949119ce1b979eb029af3979dd9c366f1b8097b71d47ed"
+    },
+    {
+      "file": "mangalb6_91.ttf",
+      "family": "Mangal",
+      "subfamily": "Gras",
+      "version": "Version 6.91",
+      "sha256": "c7a90d300a722fffc5a83704f81090e786633c4db86ffafcf9a0b0ee96246120"
+    },
+    {
+      "file": "sanskr1_03.ttf",
+      "family": "Sanskrit Text",
+      "subfamily": "Normal",
+      "version": "Version 1.03",
+      "sha256": "6d8b9c3629f7c56b9107ffc94eb5054e602a90068d3bfd2f5f949ff5447dc212"
+    },
+    {
+      "file": "utsaah6_91.ttf",
+      "family": "Utsaah",
+      "subfamily": "Normal",
+      "version": "Version 6.91",
+      "sha256": "277465a30f5076bb71afe28fdf7da0f05a65ffd505e9be8b83f46c01dccd414d"
+    },
+    {
+      "file": "utsaahb6_91.ttf",
+      "family": "Utsaah",
+      "subfamily": "Gras",
+      "version": "Version 6.91",
+      "sha256": "ba6f0cd51ea9efc4d8fbe24ee0345dd65975ee5c3ba8724a160eee5c78bb7bf4"
+    },
+    {
+      "file": "utsaahbi6_91.ttf",
+      "family": "Utsaah",
+      "subfamily": "Gras Italique",
+      "version": "Version 6.91",
+      "sha256": "9721a77067ae3cfbfd72009e86a736e24ad1c505da776db7353913f55c2e87ea"
+    },
+    {
+      "file": "utsaahi6_91.ttf",
+      "family": "Utsaah",
+      "subfamily": "Italique",
+      "version": "Version 6.91",
+      "sha256": "a7b617f83c3d969ce16be91b5fea4155c1180eaf86bfa63f5f6945402b36efbf"
+    }
+  ],
+  "Microsoft-Windows-LanguageFeatures-Fonts-Ethi-Package-amd64.cab": [
+    {
+      "file": "nyala5_05.ttf",
+      "family": "Nyala",
+      "subfamily": "Regular",
+      "version": "Version 5.05",
+      "sha256": "19cf85b190ef9cd121926554b1656e4edcdcd423f1784273da01e05e5824e712"
+    }
+  ],
+  "Microsoft-Windows-LanguageFeatures-Fonts-Gujr-Package-amd64.cab": [
+    {
+      "file": "shruti6_90.ttf",
+      "family": "Shruti",
+      "subfamily": "Normal",
+      "version": "Version 6.90",
+      "sha256": "3a1749a8f64fa56dda7ea76194b55cb6a37b387099f16d72458f7e340c5f4d6e"
+    },
+    {
+      "file": "shrutib6_90.ttf",
+      "family": "Shruti",
+      "subfamily": "Gras",
+      "version": "Version 6.90",
+      "sha256": "8231f49a026c7cb4eba3e8f5fbc8331e6a53a5bdd59964ee9d36cf45b37e26ee"
+    }
+  ],
+  "Microsoft-Windows-LanguageFeatures-Fonts-Guru-Package-amd64.cab": [
+    {
+      "file": "raavi6_91.ttf",
+      "family": "Raavi",
+      "subfamily": "Normal",
+      "version": "Version 6.91",
+      "sha256": "aba1579ef29ec6e9fd4a5576c0065b4fa8546450bee7918ace96979fb6d029be"
+    },
+    {
+      "file": "raavib6_91.ttf",
+      "family": "Raavi",
+      "subfamily": "Gras",
+      "version": "Version 6.91",
+      "sha256": "cbc7b9539a176da428ec0755a8073e86fb7a97a90a17469aa8be40d850e64206"
+    }
+  ],
+  "Microsoft-Windows-LanguageFeatures-Fonts-Hans-Package-amd64.cab": [
+    {
+      "file": "deng1_22.ttf",
+      "family": "\u7b49\u7ebf",
+      "subfamily": "Regular",
+      "version": "Version 1.22",
+      "sha256": "e051009b42b454352a90ae0c9b8adb58bbdbcd168768750b35bc3357510de141"
+    },
+    {
+      "file": "dengb1_22.ttf",
+      "family": "\u7b49\u7ebf",
+      "subfamily": "Bold",
+      "version": "Version 1.22",
+      "sha256": "236df24be867e527bdf810d00eb5c38f18244e776238a9f5ca937363267a9169"
+    },
+    {
+      "file": "dengl1_22.ttf",
+      "family": "\u7b49\u7ebf",
+      "subfamily": "Light",
+      "version": "Version 1.22",
+      "sha256": "3ae7cf364a29b9da69eff7333decb88e577c262c5847df2510e37695e25a8395"
+    },
+    {
+      "file": "simfang5_02.ttf",
+      "family": "\u4eff\u5b8b",
+      "subfamily": "Normal",
+      "version": "Version 5.02",
+      "sha256": "eda36eecde18b26627f4abcfe5ccfaae65da43edb2c47e7e631b30b3a6fa8af8"
+    },
+    {
+      "file": "simhei5_04.ttf",
+      "family": "\u9ed1\u4f53",
+      "subfamily": "Normal",
+      "version": "Version 5.04",
+      "sha256": "356495b9b8fbe3b8818d8ea8602e9e28bf94ac4134d7c6c2cc3c33639ed36718"
+    },
+    {
+      "file": "simkai5_02.ttf",
+      "family": "\u6977\u4f53",
+      "subfamily": "Normal",
+      "version": "Version 5.02",
+      "sha256": "a6acf69a7a6e8a4cba014266036eca8629560038cc50783f46917748fabefbe5"
+    }
+  ],
+  "Microsoft-Windows-LanguageFeatures-Fonts-Hant-Package-amd64.cab": [
+    {
+      "file": "kaiu5_02.ttf",
+      "family": "DFKai-SB",
+      "subfamily": "Regular",
+      "version": "Version 5.02",
+      "sha256": "d5cb3539cd9cab3d38fccc5e04c42b6adc11d7dcf87bea624f1b269c6c360c6d"
+    },
+    {
+      "file": "mingliu7_10.ttc",
+      "family": "\u7d30\u660e\u9ad4",
+      "subfamily": "Regular",
+      "version": "Version 7.10",
+      "sha256": "d7857c403c7c79a4de93a11a22c8b0fedc077762e173a8b80b950c0b1e9caacc"
+    },
+    {
+      "file": "mingliu7_10.ttc",
+      "family": "\u65b0\u7d30\u660e\u9ad4",
+      "subfamily": "Regular",
+      "version": "Version 7.10",
+      "sha256": "d7857c403c7c79a4de93a11a22c8b0fedc077762e173a8b80b950c0b1e9caacc"
+    },
+    {
+      "file": "mingliu7_10.ttc",
+      "family": "\u7d30\u660e\u9ad4_HKSCS",
+      "subfamily": "Regular",
+      "version": "Version 7.10",
+      "sha256": "d7857c403c7c79a4de93a11a22c8b0fedc077762e173a8b80b950c0b1e9caacc"
+    },
+    {
+      "file": "mingliu7_10.ttc",
+      "family": "\u7d30\u660e\u9ad4_MSCS",
+      "subfamily": "Regular",
+      "version": "Version 7.10",
+      "sha256": "d7857c403c7c79a4de93a11a22c8b0fedc077762e173a8b80b950c0b1e9caacc"
+    }
+  ],
+  "Microsoft-Windows-LanguageFeatures-Fonts-Hebr-Package-amd64.cab": [
+    {
+      "file": "ahronbd6_02.ttf",
+      "family": "Aharoni",
+      "subfamily": "Gras",
+      "version": "Version 6.02",
+      "sha256": "73a54b44eebaa18eea4ab9877e3621024af08a4f0f6741af77bd8bf3a90e7283"
+    },
+    {
+      "file": "david6_01.ttf",
+      "family": "David",
+      "subfamily": "Normal",
+      "version": "Version 6.01",
+      "sha256": "02106cfb319ebdb7d3db30d5d8ecbd5def0225d4445932b56b00e6b509a39308"
+    },
+    {
+      "file": "davidbd6_01.ttf",
+      "family": "David",
+      "subfamily": "Gras",
+      "version": "Version 6.01",
+      "sha256": "60232ab659a84fd42931b2e799d18892788e3b7132259f4c593b92780a4b3545"
+    },
+    {
+      "file": "frank6_01.ttf",
+      "family": "FrankRuehl",
+      "subfamily": "Normal",
+      "version": "Version 6.01",
+      "sha256": "6de498b2ef2fd7c87a62aafedd7473d95919faaf6a9dfa7557bb45f38f70490b"
+    },
+    {
+      "file": "gisha6_01.ttf",
+      "family": "Gisha",
+      "subfamily": "Normal",
+      "version": "Version 6.01",
+      "sha256": "4b6ef4d01d25efc221e790d49d86461addd3cc314a70039b1f7be6c11def7b82"
+    },
+    {
+      "file": "gishabd6_01.ttf",
+      "family": "Gisha",
+      "subfamily": "Gras",
+      "version": "Version 6.01",
+      "sha256": "8a0ca710b27ef0bdb23caed1b8510d210833b622f93115af56d2f103ef8608d6"
+    },
+    {
+      "file": "lvnm6_01.ttf",
+      "family": "Levenim MT",
+      "subfamily": "Normal",
+      "version": "Version 6.01",
+      "sha256": "ef80de39ccc3e62677100f8d9afc0dca88e0c672ebdaa927f64eb4c997dff1b8"
+    },
+    {
+      "file": "lvnmbd6_01.ttf",
+      "family": "Levenim MT",
+      "subfamily": "Gras",
+      "version": "Version 6.01",
+      "sha256": "eb38e0dc76405b52d5f231f4317f2d345627c7fdcfa2a465f0564fa0b6fa37c5"
+    },
+    {
+      "file": "mriam6_01.ttf",
+      "family": "Miriam",
+      "subfamily": "Normal",
+      "version": "Version 6.01",
+      "sha256": "999036a4cc3913a6135840e9ee65642a997370978bbadd07849e088ea902770c"
+    },
+    {
+      "file": "mriamc6_01.ttf",
+      "family": "Miriam Fixed",
+      "subfamily": "Normal",
+      "version": "Version 6.01",
+      "sha256": "eaf277e294f14192281ac12a7f624ff85b707741ba8ceb5d41e5817988f2b395"
+    },
+    {
+      "file": "nrkis6_01.ttf",
+      "family": "Narkisim",
+      "subfamily": "Normal",
+      "version": "Version 6.01",
+      "sha256": "c488427dfa955b8d2c705141259d38eca410d5844b3b66ae8538d487aa5e880e"
+    },
+    {
+      "file": "rod6_01.ttf",
+      "family": "Rod",
+      "subfamily": "Normal",
+      "version": "Version 6.01",
+      "sha256": "f0829cbc0877c03ac2800840c2363c264b32f0ca9da53cf0d0dd1510f5071c71"
+    }
+  ],
+  "Microsoft-Windows-LanguageFeatures-Fonts-Jpan-Package-amd64.cab": [
+    {
+      "file": "biz-udgothicb2_01.ttc",
+      "family": "BIZ UD\u30b4\u30b7\u30c3\u30af",
+      "subfamily": "Bold",
+      "version": "Version 2.01",
+      "sha256": "6a00072387ec6ec94eaaecf2520806749945a68ef9d81af891dae8223af36484"
+    },
+    {
+      "file": "biz-udgothicb2_01.ttc",
+      "family": "BIZ UDP\u30b4\u30b7\u30c3\u30af",
+      "subfamily": "Bold",
+      "version": "Version 2.01",
+      "sha256": "6a00072387ec6ec94eaaecf2520806749945a68ef9d81af891dae8223af36484"
+    },
+    {
+      "file": "biz-udgothicr2_01.ttc",
+      "family": "BIZ UD\u30b4\u30b7\u30c3\u30af",
+      "subfamily": "Regular",
+      "version": "Version 2.01",
+      "sha256": "ddcfc7ab74c8bd08b397d4677f7604b4ea9df66a8c22917ccc8d50fa0824d4c1"
+    },
+    {
+      "file": "biz-udgothicr2_01.ttc",
+      "family": "BIZ UDP\u30b4\u30b7\u30c3\u30af",
+      "subfamily": "Regular",
+      "version": "Version 2.01",
+      "sha256": "ddcfc7ab74c8bd08b397d4677f7604b4ea9df66a8c22917ccc8d50fa0824d4c1"
+    },
+    {
+      "file": "biz-udminchom2_02.ttc",
+      "family": "BIZ UD\u660e\u671d",
+      "subfamily": "Medium",
+      "version": "Version 2.02",
+      "sha256": "f3a149f2459f61a4dc310e3f2454f068cded470ef886cfe39969c92f9a95c847"
+    },
+    {
+      "file": "biz-udminchom2_02.ttc",
+      "family": "BIZ UDP\u660e\u671d",
+      "subfamily": "Medium",
+      "version": "Version 2.02",
+      "sha256": "f3a149f2459f61a4dc310e3f2454f068cded470ef886cfe39969c92f9a95c847"
+    },
+    {
+      "file": "meiryo6_51.ttc",
+      "family": "\u30e1\u30a4\u30ea\u30aa",
+      "subfamily": "Normal",
+      "version": "Version 6.51",
+      "sha256": "457b306f719a002f1d037b2a3942f2abfa8a55d7bb109bf8950341a3129adb46"
+    },
+    {
+      "file": "meiryo6_51.ttc",
+      "family": "\u30e1\u30a4\u30ea\u30aa",
+      "subfamily": "Italique",
+      "version": "Version 6.51",
+      "sha256": "457b306f719a002f1d037b2a3942f2abfa8a55d7bb109bf8950341a3129adb46"
+    },
+    {
+      "file": "meiryo6_51.ttc",
+      "family": "Meiryo UI",
+      "subfamily": "Normal",
+      "version": "Version 6.51",
+      "sha256": "457b306f719a002f1d037b2a3942f2abfa8a55d7bb109bf8950341a3129adb46"
+    },
+    {
+      "file": "meiryo6_51.ttc",
+      "family": "Meiryo UI",
+      "subfamily": "Italique",
+      "version": "Version 6.51",
+      "sha256": "457b306f719a002f1d037b2a3942f2abfa8a55d7bb109bf8950341a3129adb46"
+    },
+    {
+      "file": "meiryob6_51.ttc",
+      "family": "\u30e1\u30a4\u30ea\u30aa",
+      "subfamily": "Gras",
+      "version": "Version 6.51",
+      "sha256": "7d54f5a6a4202dae7b54d5a854770cb4fecd33f8975c0996e89c6ce31f4b0808"
+    },
+    {
+      "file": "meiryob6_51.ttc",
+      "family": "\u30e1\u30a4\u30ea\u30aa",
+      "subfamily": "Gras Italique",
+      "version": "Version 6.51",
+      "sha256": "7d54f5a6a4202dae7b54d5a854770cb4fecd33f8975c0996e89c6ce31f4b0808"
+    },
+    {
+      "file": "meiryob6_51.ttc",
+      "family": "Meiryo UI",
+      "subfamily": "Gras",
+      "version": "Version 6.51",
+      "sha256": "7d54f5a6a4202dae7b54d5a854770cb4fecd33f8975c0996e89c6ce31f4b0808"
+    },
+    {
+      "file": "meiryob6_51.ttc",
+      "family": "Meiryo UI",
+      "subfamily": "Gras Italique",
+      "version": "Version 6.51",
+      "sha256": "7d54f5a6a4202dae7b54d5a854770cb4fecd33f8975c0996e89c6ce31f4b0808"
+    },
+    {
+      "file": "msmincho5_32.ttc",
+      "family": "\uff2d\uff33 \u660e\u671d",
+      "subfamily": "\u6a19\u6e96",
+      "version": "Version 5.32",
+      "sha256": "ceb8d745001f56b61ce768d84172d35bdf68e498423c9320dcb22e7c900944c2"
+    },
+    {
+      "file": "msmincho5_32.ttc",
+      "family": "\uff2d\uff33 \uff30\u660e\u671d",
+      "subfamily": "\u6a19\u6e96",
+      "version": "Version 5.32",
+      "sha256": "ceb8d745001f56b61ce768d84172d35bdf68e498423c9320dcb22e7c900944c2"
+    },
+    {
+      "file": "uddigikyokashon-b2_03.ttc",
+      "family": "UD \u30c7\u30b8\u30bf\u30eb \u6559\u79d1\u66f8\u4f53 N",
+      "subfamily": "Bold",
+      "version": "Version 2.03",
+      "sha256": "5cbf992f1c6590f30cb62e5871b781e8e6a6c8e9a42fea35eb76b52bb5c3fc5d"
+    },
+    {
+      "file": "uddigikyokashon-b2_03.ttc",
+      "family": "UD \u30c7\u30b8\u30bf\u30eb \u6559\u79d1\u66f8\u4f53 NP",
+      "subfamily": "Bold",
+      "version": "Version 2.03",
+      "sha256": "5cbf992f1c6590f30cb62e5871b781e8e6a6c8e9a42fea35eb76b52bb5c3fc5d"
+    },
+    {
+      "file": "uddigikyokashon-b2_03.ttc",
+      "family": "UD \u30c7\u30b8\u30bf\u30eb \u6559\u79d1\u66f8\u4f53 NK",
+      "subfamily": "Bold",
+      "version": "Version 2.03",
+      "sha256": "5cbf992f1c6590f30cb62e5871b781e8e6a6c8e9a42fea35eb76b52bb5c3fc5d"
+    },
+    {
+      "file": "uddigikyokashon-r2_03.ttc",
+      "family": "UD \u30c7\u30b8\u30bf\u30eb \u6559\u79d1\u66f8\u4f53 N",
+      "subfamily": "Regular",
+      "version": "Version 2.03",
+      "sha256": "563e3e2a3baa7c2681604f6a654d5f7353ef654c3cd4cce17caaddaa884f5f84"
+    },
+    {
+      "file": "uddigikyokashon-r2_03.ttc",
+      "family": "UD \u30c7\u30b8\u30bf\u30eb \u6559\u79d1\u66f8\u4f53 NP",
+      "subfamily": "Regular",
+      "version": "Version 2.03",
+      "sha256": "563e3e2a3baa7c2681604f6a654d5f7353ef654c3cd4cce17caaddaa884f5f84"
+    },
+    {
+      "file": "uddigikyokashon-r2_03.ttc",
+      "family": "UD \u30c7\u30b8\u30bf\u30eb \u6559\u79d1\u66f8\u4f53 NK",
+      "subfamily": "Regular",
+      "version": "Version 2.03",
+      "sha256": "563e3e2a3baa7c2681604f6a654d5f7353ef654c3cd4cce17caaddaa884f5f84"
+    },
+    {
+      "file": "yumin1_92.ttf",
+      "family": "\u6e38\u660e\u671d",
+      "subfamily": "Regular",
+      "version": "Version 1.92",
+      "sha256": "6d16c4f4f33f42f2d427857c207f732c5cd56bad43e31ad435b18758dc4758d7"
+    },
+    {
+      "file": "yumindb1_92.ttf",
+      "family": "\u6e38\u660e\u671d",
+      "subfamily": "Demibold",
+      "version": "Version 1.92",
+      "sha256": "4aaa147e17688b9ab3937d4a90f8559e93e9326ed29690b8f14aa71515c3eff9"
+    },
+    {
+      "file": "yuminl1_92.ttf",
+      "family": "\u6e38\u660e\u671d",
+      "subfamily": "Light",
+      "version": "Version 1.92",
+      "sha256": "a907d9169b20a52f552a7be3f6b65c5d734f41cb4257079671bdf258d72a7f11"
+    }
+  ],
+  "Microsoft-Windows-LanguageFeatures-Fonts-Khmr-Package-amd64.cab": [
+    {
+      "file": "daunpenh5_05.ttf",
+      "family": "DaunPenh",
+      "subfamily": "Normal",
+      "version": "Version 5.05",
+      "sha256": "3e236130c188e672fcf416b72655caa2b377accffbc30029b6540cc04699a08b"
+    },
+    {
+      "file": "khmerui5_05.ttf",
+      "family": "Khmer UI",
+      "subfamily": "Normal",
+      "version": "Version 5.05",
+      "sha256": "46c67d8e32d2cb0dbb56c491ebf06435f8f6fcbae7fbc8070b97936e288c8bd3"
+    },
+    {
+      "file": "khmeruib5_05.ttf",
+      "family": "Khmer UI",
+      "subfamily": "Gras",
+      "version": "Version 5.05",
+      "sha256": "9b0e5c299c60fd352762b8baa07429734bbaa06f2fd0ba1ca33add3678a6600a"
+    },
+    {
+      "file": "moolbor5_05.ttf",
+      "family": "MoolBoran",
+      "subfamily": "Normal",
+      "version": "Version 5.05",
+      "sha256": "324474e3547086f33b4227ebab8a2f3094b8cba90ae0991a5196c91729f5bccb"
+    }
+  ],
+  "Microsoft-Windows-LanguageFeatures-Fonts-Knda-Package-amd64.cab": [
+    {
+      "file": "tunga6_90.ttf",
+      "family": "Tunga",
+      "subfamily": "Normal",
+      "version": "Version 6.90",
+      "sha256": "9309a1d4343801fe85406e9324ef0ec8f82746c51d6d5e41f5cbb780f94e6a2a"
+    },
+    {
+      "file": "tungab6_90.ttf",
+      "family": "Tunga",
+      "subfamily": "Gras",
+      "version": "Version 6.90",
+      "sha256": "74691732d0aa9b34c88b8d020d6e43e66b207ee0b25584c60bf81c471a414c4b"
+    }
+  ],
+  "Microsoft-Windows-LanguageFeatures-Fonts-Kore-Package-amd64.cab": [
+    {
+      "file": "batang5_03.ttc",
+      "family": "\ubc14\ud0d5",
+      "subfamily": "Regular",
+      "version": "Version 5.03",
+      "sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "file": "batang5_03.ttc",
+      "family": "\ubc14\ud0d5\uccb4",
+      "subfamily": "Regular",
+      "version": "Version 5.03",
+      "sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "file": "batang5_03.ttc",
+      "family": "\uad81\uc11c",
+      "subfamily": "Regular",
+      "version": "Version 5.03",
+      "sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "file": "batang5_03.ttc",
+      "family": "\uad81\uc11c\uccb4",
+      "subfamily": "Regular",
+      "version": "Version 5.03",
+      "sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "file": "gulim5_04.ttc",
+      "family": "\uad74\ub9bc",
+      "subfamily": "Regular",
+      "version": "Version 5.04",
+      "sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "file": "gulim5_04.ttc",
+      "family": "\uad74\ub9bc\uccb4",
+      "subfamily": "Regular",
+      "version": "Version 5.04",
+      "sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "file": "gulim5_04.ttc",
+      "family": "\ub3cb\uc6c0",
+      "subfamily": "Regular",
+      "version": "Version 5.04",
+      "sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "file": "gulim5_04.ttc",
+      "family": "\ub3cb\uc6c0\uccb4",
+      "subfamily": "Regular",
+      "version": "Version 5.04",
+      "sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    }
+  ],
+  "Microsoft-Windows-LanguageFeatures-Fonts-Laoo-Package-amd64.cab": [
+    {
+      "file": "dokchamp5_06.ttf",
+      "family": "DokChampa",
+      "subfamily": "Regular",
+      "version": "Version 5.06",
+      "sha256": "39d47e9d076c26287c04a24ab3f3b3dd26af903f962b67fa67c940c8d646d0bd"
+    },
+    {
+      "file": "laoui5_06.ttf",
+      "family": "Lao UI",
+      "subfamily": "Regular",
+      "version": "Version 5.06",
+      "sha256": "4dbdbe1b4507b2b4d092245e6ff0787bd43bad4a3bbe77bad860fcf7a3ce706f"
+    },
+    {
+      "file": "laouib5_06.ttf",
+      "family": "Lao UI",
+      "subfamily": "Bold",
+      "version": "Version 5.06",
+      "sha256": "ece8cbe4f7afa680e05231fd46e519d14057d06d3d11c5ef6bda1ae32b2bb5ce"
+    }
+  ],
+  "Microsoft-Windows-LanguageFeatures-Fonts-Mlym-Package-amd64.cab": [
+    {
+      "file": "kartika6_90.ttf",
+      "family": "Kartika",
+      "subfamily": "Normal",
+      "version": "Version 6.90",
+      "sha256": "c4804c91224376f97bcab37083103c02fed960fbbbafa29420ac0fc1fb356b00"
+    },
+    {
+      "file": "kartikab6_90.ttf",
+      "family": "Kartika",
+      "subfamily": "Gras",
+      "version": "Version 6.90",
+      "sha256": "24ecc028331cdcbe4e0d090d6b5d66db9fa8978c1d6e652f99c30bf4bd5210f8"
+    }
+  ],
+  "Microsoft-Windows-LanguageFeatures-Fonts-Orya-Package-amd64.cab": [
+    {
+      "file": "kalinga6_90.ttf",
+      "family": "Kalinga",
+      "subfamily": "Normal",
+      "version": "Version 6.90",
+      "sha256": "398728876df03a2296f1d1620c219d012613dd3dd698364d1f00b1e79aa7a03d"
+    },
+    {
+      "file": "kalingab6_90.ttf",
+      "family": "Kalinga",
+      "subfamily": "Gras",
+      "version": "Version 6.90",
+      "sha256": "dc9060725f6489497e24d97b5d7e254f42e9e05567ee8f1f31f7b3fc63009ca9"
+    }
+  ],
+  "Microsoft-Windows-LanguageFeatures-Fonts-PanEuropeanSupplementalFonts-Package-amd64.cab": [
+    {
+      "file": "arialnova-bold1_06.ttf",
+      "family": "Arial Nova",
+      "subfamily": "Bold",
+      "version": "Version 1.06",
+      "sha256": "fc3b6db70e1e11bf375d315fce8890fab5e7679391dbe6c69d6903bfcc069748"
+    },
+    {
+      "file": "arialnova-bolditalic1_06.ttf",
+      "family": "Arial Nova",
+      "subfamily": "Bold Italic",
+      "version": "Version 1.06",
+      "sha256": "b697ea6f40257429150ee94241519593f9c1e97a4a7b960215a63a603104e67a"
+    },
+    {
+      "file": "arialnova-italic1_06.ttf",
+      "family": "Arial Nova",
+      "subfamily": "Italic",
+      "version": "Version 1.06",
+      "sha256": "7f5c69d29f1369e06fe2f3b335c51dc5a268eb92e4f6000ab5926dc9a69503bf"
+    },
+    {
+      "file": "arialnova-light1_06.ttf",
+      "family": "Arial Nova",
+      "subfamily": "Light",
+      "version": "Version 1.06",
+      "sha256": "058d1645d8da963d9a4b8fb6de27a9b6f5c8b787785dcb67e2370cde785c9da5"
+    },
+    {
+      "file": "arialnova-lightitalic1_06.ttf",
+      "family": "Arial Nova",
+      "subfamily": "Light Italic",
+      "version": "Version 1.06",
+      "sha256": "f7fe8aaf824b375ac18d98ce9e9fb021eaff524d7e92ac0e295208b5fca32089"
+    },
+    {
+      "file": "arialnova1_06.ttf",
+      "family": "Arial Nova",
+      "subfamily": "Regular",
+      "version": "Version 1.06",
+      "sha256": "2a26b4bb61d7be49a52f8b124f98a009552a7b05fc97800a9873f187f70f455c"
+    },
+    {
+      "file": "arialnovacond-bold1_06.ttf",
+      "family": "Arial Nova",
+      "subfamily": "Condensed Bold",
+      "version": "Version 1.06",
+      "sha256": "0c3801d68337cf4ebe0ebced46c40d72a7951a5cfe5d7ba9f9562d665a0b3c8d"
+    },
+    {
+      "file": "arialnovacond-bolditalic1_06.ttf",
+      "family": "Arial Nova",
+      "subfamily": "Condensed Bold Italic",
+      "version": "Version 1.06",
+      "sha256": "6fa1bc7f2399ac0acfede5f8316e1b143af519d6c01401a78cbd1b3d27fa97a1"
+    },
+    {
+      "file": "arialnovacond-italic1_06.ttf",
+      "family": "Arial Nova",
+      "subfamily": "Condensed Italic",
+      "version": "Version 1.06",
+      "sha256": "6e7dde971417ddc1f58864b14264bbd22cdacf7e0e3894371fdcf260576f0a54"
+    },
+    {
+      "file": "arialnovacond-light1_06.ttf",
+      "family": "Arial Nova",
+      "subfamily": "Condensed Light",
+      "version": "Version 1.06",
+      "sha256": "eeae9d08f1a69d3ca1d2b54ea460554d0dc75b96fd5346e71a71af20314cb6bb"
+    },
+    {
+      "file": "arialnovacond-lightitalic1_06.ttf",
+      "family": "Arial Nova",
+      "subfamily": "Condensed Light Italic",
+      "version": "Version 1.06",
+      "sha256": "1e5d405d4621f55f99f13f79f79de8102ec7f8ca10f0e0e59f165f127148afac"
+    },
+    {
+      "file": "arialnovacond1_06.ttf",
+      "family": "Arial Nova",
+      "subfamily": "Condensed",
+      "version": "Version 1.06",
+      "sha256": "61859e1adff89b3d99191d00297fc4bfab05b86a56b6a08bf4a7bad4d24c9bb6"
+    },
+    {
+      "file": "georgiapro-black6_14.ttf",
+      "family": "Georgia Pro",
+      "subfamily": "Black",
+      "version": "Version 6.14",
+      "sha256": "330e4ba7d299b071b37ea6409b33900eeb7dd0bb3e4ac57223fd6931d1c8cddc"
+    },
+    {
+      "file": "georgiapro-blackitalic6_14.ttf",
+      "family": "Georgia Pro",
+      "subfamily": "Black Italic",
+      "version": "Version 6.14",
+      "sha256": "b6a0c456c69a8c662525fd65a19b1988800880f96accb4844f70f65917f0251c"
+    },
+    {
+      "file": "georgiapro-bold6_14.ttf",
+      "family": "Georgia Pro",
+      "subfamily": "Bold",
+      "version": "Version 6.14",
+      "sha256": "ef9c48661c2c9d4ab124e1a0f7597f38f64f6f21fb6550e44cc7c33a5045a541"
+    },
+    {
+      "file": "georgiapro-bolditalic6_14.ttf",
+      "family": "Georgia Pro",
+      "subfamily": "Bold Italic",
+      "version": "Version 6.14",
+      "sha256": "d71cd8d4cf5440e58067aa07e50bb959f9515798b64d4b716c484f1816f641ae"
+    },
+    {
+      "file": "georgiapro-condblack6_14.ttf",
+      "family": "Georgia Pro",
+      "subfamily": "Cond Black",
+      "version": "Version 6.14",
+      "sha256": "1adfbd7270a43b3b6d896692f81814c4bb248bc0c7b905e98f69cda02c2bb04e"
+    },
+    {
+      "file": "georgiapro-condblackitalic6_14.ttf",
+      "family": "Georgia Pro",
+      "subfamily": "Cond Black Italic",
+      "version": "Version 6.14",
+      "sha256": "9718464e272e1fac4b758a707c7270bbbc80020d4ee0e4a99b096e830561f651"
+    },
+    {
+      "file": "georgiapro-condbold6_14.ttf",
+      "family": "Georgia Pro",
+      "subfamily": "Cond Bold",
+      "version": "Version 6.14",
+      "sha256": "4add7a3090db51193237b67a5cc6014b1cd332a10d5745974e0f56214c1512f9"
+    },
+    {
+      "file": "georgiapro-condbolditalic6_14.ttf",
+      "family": "Georgia Pro",
+      "subfamily": "Cond Bold Italic",
+      "version": "Version 6.14",
+      "sha256": "312206ef84f15a6c953d6476b91115fd6d39216ec0778fee72e7dcf8910eec81"
+    },
+    {
+      "file": "georgiapro-conditalic6_14.ttf",
+      "family": "Georgia Pro",
+      "subfamily": "Cond Italic",
+      "version": "Version 6.14",
+      "sha256": "d59892ef756fbf109d8b8a76a2e1d949491499a7483f82b094264b4703818b47"
+    },
+    {
+      "file": "georgiapro-condlight6_14.ttf",
+      "family": "Georgia Pro",
+      "subfamily": "Cond Light",
+      "version": "Version 6.14",
+      "sha256": "e794f45ccb930fc2483e5eadbb052b3a11185209faabff5b605df2d700b1c300"
+    },
+    {
+      "file": "georgiapro-condlightitalic6_14.ttf",
+      "family": "Georgia Pro",
+      "subfamily": "Cond Light Italic",
+      "version": "Version 6.14",
+      "sha256": "3e8c10ef6c25f21d61ab5fff0afcdf3bf01ba2abea280590b60836f7e5091de2"
+    },
+    {
+      "file": "georgiapro-condregular6_14.ttf",
+      "family": "Georgia Pro",
+      "subfamily": "Cond",
+      "version": "Version 6.14",
+      "sha256": "320286347586bdcb5f86546681fa0cc2cbb8b16097d387bb81a01b4a9fc87d77"
+    },
+    {
+      "file": "georgiapro-condsemibold6_14.ttf",
+      "family": "Georgia Pro",
+      "subfamily": "Cond Semibold",
+      "version": "Version 6.14",
+      "sha256": "64fe5ad4cd9127b5c23bbd8fc2bd79fb808ee277b03f6e6691314b9f26c1dd66"
+    },
+    {
+      "file": "georgiapro-condsemibolditalic6_14.ttf",
+      "family": "Georgia Pro",
+      "subfamily": "Cond Semibold Italic",
+      "version": "Version 6.14",
+      "sha256": "a85836cf30551bcca3c42b6d065f533627e1d23a8fdefcead55816b71ba5543b"
+    },
+    {
+      "file": "georgiapro-italic6_14.ttf",
+      "family": "Georgia Pro",
+      "subfamily": "Italic",
+      "version": "Version 6.14",
+      "sha256": "331409c9a1ea1ba780c9429b25433b073d0e34c924800998bef014b89f1b2943"
+    },
+    {
+      "file": "georgiapro-light6_14.ttf",
+      "family": "Georgia Pro",
+      "subfamily": "Light",
+      "version": "Version 6.14",
+      "sha256": "f7ddf8e410d6738019764398f002cc014e8357712af3f38a5f17837758af60ba"
+    },
+    {
+      "file": "georgiapro-lightitalic6_14.ttf",
+      "family": "Georgia Pro",
+      "subfamily": "Light Italic",
+      "version": "Version 6.14",
+      "sha256": "7f7d620849ef4c8057fbe35b1510d11457efa1291298e516b533c1c684fb9a83"
+    },
+    {
+      "file": "georgiapro-regular6_14.ttf",
+      "family": "Georgia Pro",
+      "subfamily": "Regular",
+      "version": "Version 6.14",
+      "sha256": "fb06ff2368ac10e97f475ca7fe2b2e4f9be4be4e9853ff3abd0ace5cd6f5f136"
+    },
+    {
+      "file": "georgiapro-semibold6_14.ttf",
+      "family": "Georgia Pro",
+      "subfamily": "Semibold",
+      "version": "Version 6.14",
+      "sha256": "3e9adc4b4b476351852bb7025ec8674a427435781bbf09be59a06b06e530ee49"
+    },
+    {
+      "file": "georgiapro-semibolditalic6_14.ttf",
+      "family": "Georgia Pro",
+      "subfamily": "Semibold Italic",
+      "version": "Version 6.14",
+      "sha256": "c8ad63741417c649743256e2c4cf4a6ffec09ccf8692871c0e4499184c9af0a2"
+    },
+    {
+      "file": "gillsansboitnova1_03.ttf",
+      "family": "Gill Sans Nova",
+      "subfamily": "Bold Italic",
+      "version": "Version 1.03;240920224221",
+      "sha256": "4074272e8a1713303f69f5e9ef09f4bf8cc02bf60bbcbde5696247a32b679c9b"
+    },
+    {
+      "file": "gillsansbonova1_03.ttf",
+      "family": "Gill Sans Nova",
+      "subfamily": "Bold",
+      "version": "Version 1.03;240920224221",
+      "sha256": "9263685a389921aaf5e6d85a25ab8a2075f1d7116f24cec0eea191c34b032366"
+    },
+    {
+      "file": "gillsanscondboitnova1_03.ttf",
+      "family": "Gill Sans Nova",
+      "subfamily": "Cond Bold Italic",
+      "version": "Version 1.03;240920224221",
+      "sha256": "b61cf43aec3a992da50084c14d9edeb1295603caa10dddbe7b0683d8fc4472ae"
+    },
+    {
+      "file": "gillsanscondbonova1_03.ttf",
+      "family": "Gill Sans Nova",
+      "subfamily": "Cond Bold",
+      "version": "Version 1.03;240920224221",
+      "sha256": "5dd5d058c1a47f5e29e22ba78dec418481e50213622453b22093a637b90387d0"
+    },
+    {
+      "file": "gillsanscondextraitnova1_03.ttf",
+      "family": "Gill Sans Nova",
+      "subfamily": "Cond XBd Italic",
+      "version": "Version 1.03;240920224221",
+      "sha256": "609c78a1c21045c91b64bfebd69d88594d30ce46a6908fc29a315448d79b605c"
+    },
+    {
+      "file": "gillsanscondextranova1_03.ttf",
+      "family": "Gill Sans Nova",
+      "subfamily": "Cond XBd",
+      "version": "Version 1.03;240920224221",
+      "sha256": "45a8078eb9f1c162f8d8f00cbc3b74a0abc9a9103e09b3adb486c0753227b483"
+    },
+    {
+      "file": "gillsansconditnova1_03.ttf",
+      "family": "Gill Sans Nova",
+      "subfamily": "Cond Italic",
+      "version": "Version 1.03;240920224221",
+      "sha256": "2ef75b0be61a86a96439907e106f6e5e4fbd7c0fdf5ef35d9a86462351725020"
+    },
+    {
+      "file": "gillsanscondlightitnova1_03.ttf",
+      "family": "Gill Sans Nova",
+      "subfamily": "Cond Lt Italic",
+      "version": "Version 1.03;240920224221",
+      "sha256": "a02eb3b4cb3cdf8218dedd89c7ac669b2a7252d607c989abe60a25542dee6c13"
+    },
+    {
+      "file": "gillsanscondlightnova1_03.ttf",
+      "family": "Gill Sans Nova",
+      "subfamily": "Cond Lt",
+      "version": "Version 1.03;240920224221",
+      "sha256": "e22a72890fffe76bb1bb3c04d726ce0e1735b879e64c6ec92820f472396aa7a0"
+    },
+    {
+      "file": "gillsanscondnova1_03.ttf",
+      "family": "Gill Sans Nova",
+      "subfamily": "Cond",
+      "version": "Version 1.03;240920224221",
+      "sha256": "95f98e0da34eab9c61ef16c882c5538810a567baff24f29bfbbc8a871bbf93d4"
+    },
+    {
+      "file": "gillsanscondultrabonova1_03.ttf",
+      "family": "Gill Sans Nova",
+      "subfamily": "Cond Ultra Bold",
+      "version": "Version 1.03;240920224221",
+      "sha256": "e4bd3381d03a53ae4e47361d97a9c62e0dba9cc6047e5757c89b36fad8cb9414"
+    },
+    {
+      "file": "gillsansitnova1_03.ttf",
+      "family": "Gill Sans Nova",
+      "subfamily": "Italic",
+      "version": "Version 1.03;240920224221",
+      "sha256": "c2908233c009663203c71c5e142ea5bdaf3ce31971bc347263da6c7ce4f86476"
+    },
+    {
+      "file": "gillsanslightitnova1_03.ttf",
+      "family": "Gill Sans Nova",
+      "subfamily": "Light Italic",
+      "version": "Version 1.03;240920224221",
+      "sha256": "b4d5e2971c7c0d3e1f32da2827c427959a67e2cbcce4deeeace3f659a6ac3c95"
+    },
+    {
+      "file": "gillsanslightnova1_03.ttf",
+      "family": "Gill Sans Nova",
+      "subfamily": "Light",
+      "version": "Version 1.03;240920224221",
+      "sha256": "262f8a91f2773217c5fdcdf4a624733896bb0c89e7f8d27c90ba34fd2b9d4328"
+    },
+    {
+      "file": "gillsansnova1_03.ttf",
+      "family": "Gill Sans Nova",
+      "subfamily": "Regular",
+      "version": "Version 1.03;240920224221",
+      "sha256": "e4a748456692df40635a5174d23ab6f8dffd7655d9daedde20cdbed11ca1c7e7"
+    },
+    {
+      "file": "gillsansultrabonova1_03.ttf",
+      "family": "Gill Sans Nova",
+      "subfamily": "Ultra Bold",
+      "version": "Version 1.03;240920224221",
+      "sha256": "10e2c04679b044140c5b3f5dd94df6d32712c349eb8a9898c234a0e800666a9a"
+    },
+    {
+      "file": "nhaasgrotesktxpro-it1_00.ttf",
+      "family": "Neue Haas Grotesk Text Pro",
+      "subfamily": "Italic",
+      "version": "Version 1.00",
+      "sha256": "9acfae05976aa6b4b67a1a4c385e0532b65c7c459b81d185634b5409f71468f5"
+    },
+    {
+      "file": "nhaasgrotesktxpro-rg1_00.ttf",
+      "family": "Neue Haas Grotesk Text Pro",
+      "subfamily": "Regular",
+      "version": "Version 1.00",
+      "sha256": "8818c1183fb5451d64eac41a8b3780dfcd6fa640d81c7d250b0cf2e6553c598b"
+    },
+    {
+      "file": "rockwellnova-bold1_04.ttf",
+      "family": "Rockwell Nova",
+      "subfamily": "Bold",
+      "version": "Version 1.04",
+      "sha256": "250a96a0cd1c257e9711cf22908028d4fa2a02b0f3accc5e2ee539dfb7f81137"
+    },
+    {
+      "file": "rockwellnova-bolditalic1_04.ttf",
+      "family": "Rockwell Nova",
+      "subfamily": "Bold Italic",
+      "version": "Version 1.04",
+      "sha256": "5eab0bce6cd324a198f04b079583c20383a7ae8c88c55d1da969a9c41a16635d"
+    },
+    {
+      "file": "rockwellnova-extrabold1_04.ttf",
+      "family": "Rockwell Nova",
+      "subfamily": "Extra Bold",
+      "version": "Version 1.04",
+      "sha256": "7c253ce5601cf342116af85a6f61ef2eda016a669142e2909e8ed54dd626cf10"
+    },
+    {
+      "file": "rockwellnova-extrabolditalic1_04.ttf",
+      "family": "Rockwell Nova",
+      "subfamily": "Extra Bold Italic",
+      "version": "Version 1.04",
+      "sha256": "a62ccd5002d2c59906878a9d731bc42364144116520a8f1d2024da6a2287d01a"
+    },
+    {
+      "file": "rockwellnova-italic1_04.ttf",
+      "family": "Rockwell Nova",
+      "subfamily": "Italic",
+      "version": "Version 1.04",
+      "sha256": "69503ce641b265584f671ff9bc763e1740ef95bc47860d651de919c80a3aba81"
+    },
+    {
+      "file": "rockwellnova-light1_04.ttf",
+      "family": "Rockwell Nova",
+      "subfamily": "Light",
+      "version": "Version 1.04",
+      "sha256": "6ee3a6b900f7459ce05a6a99e38a732f15536e6e4be5a1f7a463660dbae8a808"
+    },
+    {
+      "file": "rockwellnova-lightitalic1_04.ttf",
+      "family": "Rockwell Nova",
+      "subfamily": "Light Italic",
+      "version": "Version 1.04",
+      "sha256": "c2e2d45ee00c8372e33ecad0049a158841d3c8ef81a24d827ca45680f3239084"
+    },
+    {
+      "file": "rockwellnova1_04.ttf",
+      "family": "Rockwell Nova",
+      "subfamily": "Regular",
+      "version": "Version 1.04",
+      "sha256": "b338139558d3c80ef04438f5586bcaec85b8896498dbe8e325ea57455263a938"
+    },
+    {
+      "file": "rockwellnovacond-bold1_04.ttf",
+      "family": "Rockwell Nova",
+      "subfamily": "Condensed Bold",
+      "version": "Version 1.04",
+      "sha256": "5a70408fa429f51a5b4e8bd0a0c554bf943a2424b79ac390808cc1a73cf86657"
+    },
+    {
+      "file": "rockwellnovacond-bolditalic1_04.ttf",
+      "family": "Rockwell Nova",
+      "subfamily": "Condensed Bold Italic",
+      "version": "Version 1.04",
+      "sha256": "0d5336136a4ef54393ce1ed590158b7cb4414193763ff062f7d0f1bb004f9650"
+    },
+    {
+      "file": "rockwellnovacond-italic1_04.ttf",
+      "family": "Rockwell Nova",
+      "subfamily": "Condensed Italic",
+      "version": "Version 1.04",
+      "sha256": "adb026155384086bb80fb9b3925993043a2708a811da6660f0024810e8cd77e5"
+    },
+    {
+      "file": "rockwellnovacond-light1_04.ttf",
+      "family": "Rockwell Nova",
+      "subfamily": "Condensed Light",
+      "version": "Version 1.04",
+      "sha256": "763db1e894e528b55e064e66211c750f9a9bb6bab17da36d65884d0ca773e00c"
+    },
+    {
+      "file": "rockwellnovacond-lightitalic1_04.ttf",
+      "family": "Rockwell Nova",
+      "subfamily": "Condensed Light Italic",
+      "version": "Version 1.04",
+      "sha256": "bae5736c25cceb91ea2dfed060a19beca954b3da617544379a4714893076bb31"
+    },
+    {
+      "file": "rockwellnovacond1_04.ttf",
+      "family": "Rockwell Nova",
+      "subfamily": "Condensed",
+      "version": "Version 1.04",
+      "sha256": "d845bacebd9dd283ba8fb9dac0e7109afbc065975637b557dffcc9bca6654810"
+    },
+    {
+      "file": "verdanapro-black6_16.ttf",
+      "family": "Verdana Pro",
+      "subfamily": "Black",
+      "version": "Version 6.16",
+      "sha256": "07110ebc8b5cb61d9185f49ff11a076a4683dbf6ffefb771e539c8cf7780df21"
+    },
+    {
+      "file": "verdanapro-blackitalic6_16.ttf",
+      "family": "Verdana Pro",
+      "subfamily": "Black Italic",
+      "version": "Version 6.16",
+      "sha256": "4078b74836d792eddfa8e176e9868a111b0c5e90da852b318eef5a6615d80d0d"
+    },
+    {
+      "file": "verdanapro-bold6_16.ttf",
+      "family": "Verdana Pro",
+      "subfamily": "Bold",
+      "version": "Version 6.16",
+      "sha256": "2cbcd009b344ceef57ea19adcbcb604117a61c5413082eb7fa35fd8ef4bfa9eb"
+    },
+    {
+      "file": "verdanapro-bolditalic6_16.ttf",
+      "family": "Verdana Pro",
+      "subfamily": "Bold Italic",
+      "version": "Version 6.16",
+      "sha256": "2cb4bb0803e24bb2456d92ff059ff40720cbfa40cba6660337baa4a53391df3f"
+    },
+    {
+      "file": "verdanapro-condblack6_16.ttf",
+      "family": "Verdana Pro",
+      "subfamily": "Cond Black",
+      "version": "Version 6.16",
+      "sha256": "eaec98c18c9ef61f2ddffaa82aeb4a63f4c6c340cfa9f0d0c4ff099bfa6177a6"
+    },
+    {
+      "file": "verdanapro-condblackitalic6_16.ttf",
+      "family": "Verdana Pro",
+      "subfamily": "Cond Black Italic",
+      "version": "Version 6.16",
+      "sha256": "546d4189561a0d6a402359e3d6751d93bf0f16ba347c10ce55cd3b59a77f63a3"
+    },
+    {
+      "file": "verdanapro-condbold6_16.ttf",
+      "family": "Verdana Pro",
+      "subfamily": "Cond Bold",
+      "version": "Version 6.16",
+      "sha256": "123c47ecc276e2776ce7db6b533ef6cdf913bd741ff11b29c7423cb9814407be"
+    },
+    {
+      "file": "verdanapro-condbolditalic6_16.ttf",
+      "family": "Verdana Pro",
+      "subfamily": "Cond Bold Italic",
+      "version": "Version 6.16",
+      "sha256": "a25890becbba17c1e6eef1ce532ae45c016fae6f75fab9003ae52638d31d45ac"
+    },
+    {
+      "file": "verdanapro-conditalic6_16.ttf",
+      "family": "Verdana Pro",
+      "subfamily": "Cond Italic",
+      "version": "Version 6.16",
+      "sha256": "5794ad5a201830bc36d2937c9a6bf4afaad50439378a83f368b1f8f97a069241"
+    },
+    {
+      "file": "verdanapro-condlight6_16.ttf",
+      "family": "Verdana Pro",
+      "subfamily": "Cond Light",
+      "version": "Version 6.16",
+      "sha256": "945aaaffbab5505d05748299ff0bc96aabc62c48540826af2735d2830b93c7b1"
+    },
+    {
+      "file": "verdanapro-condlightitalic6_16.ttf",
+      "family": "Verdana Pro",
+      "subfamily": "Cond Light Italic",
+      "version": "Version 6.16",
+      "sha256": "5df8fbb6d1cadbb2d2c74d3e56931bf5aca635644c1b336d157603a22da1df89"
+    },
+    {
+      "file": "verdanapro-condregular6_16.ttf",
+      "family": "Verdana Pro",
+      "subfamily": "Cond",
+      "version": "Version 6.16",
+      "sha256": "dfb7873f9dee6650ea7b6b74241db0ab50d81ef4b9096dbf2500d87d2ed27624"
+    },
+    {
+      "file": "verdanapro-condsemibold6_16.ttf",
+      "family": "Verdana Pro",
+      "subfamily": "Cond Semibold",
+      "version": "Version 6.16",
+      "sha256": "720468834477feb81288a7d0e693291ee39064b1567a058f622702f9aa960841"
+    },
+    {
+      "file": "verdanapro-condsemibolditalic6_16.ttf",
+      "family": "Verdana Pro",
+      "subfamily": "Cond Semibold Italic",
+      "version": "Version 6.16",
+      "sha256": "c51809bd5224fdee918be220e90616842d7415e8b3c45d03adcc926c04a9c4f0"
+    },
+    {
+      "file": "verdanapro-italic6_16.ttf",
+      "family": "Verdana Pro",
+      "subfamily": "Italic",
+      "version": "Version 6.16",
+      "sha256": "4199fc21d5af09fc3fdef2a7cdac52231aaf0c11a8d77f8285bd2006d984945c"
+    },
+    {
+      "file": "verdanapro-light6_16.ttf",
+      "family": "Verdana Pro",
+      "subfamily": "Light",
+      "version": "Version 6.16",
+      "sha256": "913c42e0ece5ef4ca60f902b0d248ab10d3d794cb230a5c00a3f62bebb91224c"
+    },
+    {
+      "file": "verdanapro-lightitalic6_16.ttf",
+      "family": "Verdana Pro",
+      "subfamily": "Light Italic",
+      "version": "Version 6.16",
+      "sha256": "c320242e731ff493652a1f37b4338dadfdcc43a95c0305bbaa955631c75eda83"
+    },
+    {
+      "file": "verdanapro-regular6_16.ttf",
+      "family": "Verdana Pro",
+      "subfamily": "Regular",
+      "version": "Version 6.16",
+      "sha256": "0d4ed308cacb3ab3c1bc37a603839b41b6796a5ba50e45993f447a2507f3e2cc"
+    },
+    {
+      "file": "verdanapro-semibold6_16.ttf",
+      "family": "Verdana Pro",
+      "subfamily": "Semibold",
+      "version": "Version 6.16",
+      "sha256": "44ba03567615970c1e3aeb71741a0c332009e706df2a5106dfb5320240e6b613"
+    },
+    {
+      "file": "verdanapro-semibolditalic6_16.ttf",
+      "family": "Verdana Pro",
+      "subfamily": "Semibold Italic",
+      "version": "Version 6.16",
+      "sha256": "4f1d1dcc55c47cd0d696b68f0ca823966b0a9999ce980a6ec3df02cdf5c1db5c"
+    }
+  ],
+  "Microsoft-Windows-LanguageFeatures-Fonts-Sinh-Package-amd64.cab": [
+    {
+      "file": "iskpota6_96.ttf",
+      "family": "Iskoola Pota",
+      "subfamily": "Normal",
+      "version": "Version 6.96",
+      "sha256": "80550cd00894ac00e8d35ce61b8d85fb277c7fceefd239052eb1360456b79019"
+    },
+    {
+      "file": "iskpotab6_96.ttf",
+      "family": "Iskoola Pota",
+      "subfamily": "Gras",
+      "version": "Version 6.96",
+      "sha256": "33c6cfa3b3791a5d2a8f0b986f818ea367987eb27e462f30fa3f0b36adf0a393"
+    }
+  ],
+  "Microsoft-Windows-LanguageFeatures-Fonts-Syrc-Package-amd64.cab": [
+    {
+      "file": "estre6_85.ttf",
+      "family": "Estrangelo Edessa",
+      "subfamily": "Normal",
+      "version": "Version 6.85",
+      "sha256": "ec065febb1eb31e9396d18b0694bdcc6af69cb5fbc5ca7771a3e1484b71988f5"
+    }
+  ],
+  "Microsoft-Windows-LanguageFeatures-Fonts-Taml-Package-amd64.cab": [
+    {
+      "file": "latha6_90.ttf",
+      "family": "Latha",
+      "subfamily": "Normal",
+      "version": "Version 6.90",
+      "sha256": "a2a54053c23520b95236416e2b001bd488ebc8c75e6c6436a70edacdaaba1cb5"
+    },
+    {
+      "file": "lathab6_90.ttf",
+      "family": "Latha",
+      "subfamily": "Gras",
+      "version": "Version 6.90",
+      "sha256": "f91f3f796d00452aeb95fff4a19491c35b1c40499ba537a90367bf58b92ef828"
+    },
+    {
+      "file": "vijaya6_90.ttf",
+      "family": "Vijaya",
+      "subfamily": "Normal",
+      "version": "Version 6.90",
+      "sha256": "c0372c8f7ac42e4f1890e994543b92b4d5949c578f1fa11e3ffedb38d05f1e82"
+    },
+    {
+      "file": "vijayab6_90.ttf",
+      "family": "Vijaya",
+      "subfamily": "Gras",
+      "version": "Version 6.90",
+      "sha256": "9861194ddae2b487c2cfde9d716f8c6d77bc7cdd9b0e38ae75b650f0b89b8546"
+    }
+  ],
+  "Microsoft-Windows-LanguageFeatures-Fonts-Telu-Package-amd64.cab": [
+    {
+      "file": "gautami6_90.ttf",
+      "family": "Gautami",
+      "subfamily": "Normal",
+      "version": "Version 6.90",
+      "sha256": "a015cf70b48ed882b7d95c91fa0d3c3a458c711fd5ac2eabc97da50a0e2b6f1b"
+    },
+    {
+      "file": "gautamib6_90.ttf",
+      "family": "Gautami",
+      "subfamily": "Gras",
+      "version": "Version 6.90",
+      "sha256": "30c983cea22859619f8dcb53857ba728ca74d82ce646207caff31262ec7f40b5"
+    },
+    {
+      "file": "vani6_91.ttf",
+      "family": "Vani",
+      "subfamily": "Normal",
+      "version": "Version 6.91",
+      "sha256": "02c2765ce36754c68c0445b0fd938a669b957fe8497f805591b6928b01573029"
+    },
+    {
+      "file": "vanib6_91.ttf",
+      "family": "Vani",
+      "subfamily": "Gras",
+      "version": "Version 6.91",
+      "sha256": "8b7cc61a64647ec3dabc0fdc91c412d39dc1a7269277e54e1159070456f4efbe"
+    }
+  ],
+  "Microsoft-Windows-LanguageFeatures-Fonts-Thai-Package-amd64.cab": [
+    {
+      "file": "angsana5_06.ttc",
+      "family": "Angsana New",
+      "subfamily": "Normal",
+      "version": "Version 5.06",
+      "sha256": "2aa45686653f0440d130f96c9520b32d1f40c328c1ac35efc47c0f9fe9bf1ec5"
+    },
+    {
+      "file": "angsana5_06.ttc",
+      "family": "Angsana New",
+      "subfamily": "Gras",
+      "version": "Version 5.06",
+      "sha256": "2aa45686653f0440d130f96c9520b32d1f40c328c1ac35efc47c0f9fe9bf1ec5"
+    },
+    {
+      "file": "angsana5_06.ttc",
+      "family": "Angsana New",
+      "subfamily": "Gras Italique",
+      "version": "Version 5.06",
+      "sha256": "2aa45686653f0440d130f96c9520b32d1f40c328c1ac35efc47c0f9fe9bf1ec5"
+    },
+    {
+      "file": "angsana5_06.ttc",
+      "family": "Angsana New",
+      "subfamily": "Italique",
+      "version": "Version 5.06",
+      "sha256": "2aa45686653f0440d130f96c9520b32d1f40c328c1ac35efc47c0f9fe9bf1ec5"
+    },
+    {
+      "file": "angsana5_06.ttc",
+      "family": "AngsanaUPC",
+      "subfamily": "Normal",
+      "version": "Version 5.06",
+      "sha256": "2aa45686653f0440d130f96c9520b32d1f40c328c1ac35efc47c0f9fe9bf1ec5"
+    },
+    {
+      "file": "angsana5_06.ttc",
+      "family": "AngsanaUPC",
+      "subfamily": "Gras",
+      "version": "Version 5.06",
+      "sha256": "2aa45686653f0440d130f96c9520b32d1f40c328c1ac35efc47c0f9fe9bf1ec5"
+    },
+    {
+      "file": "angsana5_06.ttc",
+      "family": "AngsanaUPC",
+      "subfamily": "Gras Italique",
+      "version": "Version 5.06",
+      "sha256": "2aa45686653f0440d130f96c9520b32d1f40c328c1ac35efc47c0f9fe9bf1ec5"
+    },
+    {
+      "file": "angsana5_06.ttc",
+      "family": "AngsanaUPC",
+      "subfamily": "Italique",
+      "version": "Version 5.06",
+      "sha256": "2aa45686653f0440d130f96c9520b32d1f40c328c1ac35efc47c0f9fe9bf1ec5"
+    },
+    {
+      "file": "browalia5_05.ttc",
+      "family": "Browallia New",
+      "subfamily": "Normal",
+      "version": "Version 5.05",
+      "sha256": "0a8a88f66122f92bde4e128fb09d2cbad0709372e1887bca86c61fc845c8f846"
+    },
+    {
+      "file": "browalia5_05.ttc",
+      "family": "Browallia New",
+      "subfamily": "Gras",
+      "version": "Version 5.05",
+      "sha256": "0a8a88f66122f92bde4e128fb09d2cbad0709372e1887bca86c61fc845c8f846"
+    },
+    {
+      "file": "browalia5_05.ttc",
+      "family": "Browallia New",
+      "subfamily": "Gras Italique",
+      "version": "Version 5.05",
+      "sha256": "0a8a88f66122f92bde4e128fb09d2cbad0709372e1887bca86c61fc845c8f846"
+    },
+    {
+      "file": "browalia5_05.ttc",
+      "family": "Browallia New",
+      "subfamily": "Italique",
+      "version": "Version 5.05",
+      "sha256": "0a8a88f66122f92bde4e128fb09d2cbad0709372e1887bca86c61fc845c8f846"
+    },
+    {
+      "file": "browalia5_05.ttc",
+      "family": "BrowalliaUPC",
+      "subfamily": "Normal",
+      "version": "Version 5.05",
+      "sha256": "0a8a88f66122f92bde4e128fb09d2cbad0709372e1887bca86c61fc845c8f846"
+    },
+    {
+      "file": "browalia5_05.ttc",
+      "family": "BrowalliaUPC",
+      "subfamily": "Gras",
+      "version": "Version 5.05",
+      "sha256": "0a8a88f66122f92bde4e128fb09d2cbad0709372e1887bca86c61fc845c8f846"
+    },
+    {
+      "file": "browalia5_05.ttc",
+      "family": "BrowalliaUPC",
+      "subfamily": "Gras Italique",
+      "version": "Version 5.05",
+      "sha256": "0a8a88f66122f92bde4e128fb09d2cbad0709372e1887bca86c61fc845c8f846"
+    },
+    {
+      "file": "browalia5_05.ttc",
+      "family": "BrowalliaUPC",
+      "subfamily": "Italique",
+      "version": "Version 5.05",
+      "sha256": "0a8a88f66122f92bde4e128fb09d2cbad0709372e1887bca86c61fc845c8f846"
+    },
+    {
+      "file": "cordia5_06.ttc",
+      "family": "Cordia New",
+      "subfamily": "Normal",
+      "version": "Version 5.06",
+      "sha256": "dc6caa7f3602807f5e989e6784e6376cd5d68aeb824a4c2432a0532c4a402546"
+    },
+    {
+      "file": "cordia5_06.ttc",
+      "family": "Cordia New",
+      "subfamily": "Gras",
+      "version": "Version 5.06",
+      "sha256": "dc6caa7f3602807f5e989e6784e6376cd5d68aeb824a4c2432a0532c4a402546"
+    },
+    {
+      "file": "cordia5_06.ttc",
+      "family": "Cordia New",
+      "subfamily": "Gras Italique",
+      "version": "Version 5.06",
+      "sha256": "dc6caa7f3602807f5e989e6784e6376cd5d68aeb824a4c2432a0532c4a402546"
+    },
+    {
+      "file": "cordia5_06.ttc",
+      "family": "Cordia New",
+      "subfamily": "Italique",
+      "version": "Version 5.06",
+      "sha256": "dc6caa7f3602807f5e989e6784e6376cd5d68aeb824a4c2432a0532c4a402546"
+    },
+    {
+      "file": "cordia5_06.ttc",
+      "family": "CordiaUPC",
+      "subfamily": "Normal",
+      "version": "Version 5.06",
+      "sha256": "dc6caa7f3602807f5e989e6784e6376cd5d68aeb824a4c2432a0532c4a402546"
+    },
+    {
+      "file": "cordia5_06.ttc",
+      "family": "CordiaUPC",
+      "subfamily": "Gras",
+      "version": "Version 5.06",
+      "sha256": "dc6caa7f3602807f5e989e6784e6376cd5d68aeb824a4c2432a0532c4a402546"
+    },
+    {
+      "file": "cordia5_06.ttc",
+      "family": "CordiaUPC",
+      "subfamily": "Gras Italique",
+      "version": "Version 5.06",
+      "sha256": "dc6caa7f3602807f5e989e6784e6376cd5d68aeb824a4c2432a0532c4a402546"
+    },
+    {
+      "file": "cordia5_06.ttc",
+      "family": "CordiaUPC",
+      "subfamily": "Italique",
+      "version": "Version 5.06",
+      "sha256": "dc6caa7f3602807f5e989e6784e6376cd5d68aeb824a4c2432a0532c4a402546"
+    },
+    {
+      "file": "leelawad5_06.ttf",
+      "family": "Leelawadee",
+      "subfamily": "Normal",
+      "version": "Version 5.06",
+      "sha256": "4bbcda89375cac003f4fea06ec83934716cad0c63061447cc173b7d5c363b5be"
+    },
+    {
+      "file": "leelawdb5_06.ttf",
+      "family": "Leelawadee",
+      "subfamily": "Gras",
+      "version": "Version 5.06",
+      "sha256": "d24b407201bd5f95c7e18f8161e00e3371aa4a0c64e1f08cac7afe35e7d1a025"
+    },
+    {
+      "file": "upcdb5_05.ttf",
+      "family": "DilleniaUPC",
+      "subfamily": "Gras",
+      "version": "Version 5.05",
+      "sha256": "3faa1151ad1223e67d5239e1a720dd393852eff0b14e1738afce9b2a4f73881f"
+    },
+    {
+      "file": "upcdbi5_05.ttf",
+      "family": "DilleniaUPC",
+      "subfamily": "Gras Italique",
+      "version": "Version 5.05",
+      "sha256": "a679d8abfb4e2604aa120a2c5a0e64885a175a8b20aa4278820ad699f1f6f19d"
+    },
+    {
+      "file": "upcdi5_05.ttf",
+      "family": "DilleniaUPC",
+      "subfamily": "Italique",
+      "version": "Version 5.05",
+      "sha256": "12e8f0c460e8ce547822cb81dd4576497c0fce7f999def6066275a8723c1c8d1"
+    },
+    {
+      "file": "upcdl5_05.ttf",
+      "family": "DilleniaUPC",
+      "subfamily": "Normal",
+      "version": "Version 5.05",
+      "sha256": "b2cd4d6d863303015403b042830d13571ed04466fc37fb2e62b4ce8b763b9331"
+    },
+    {
+      "file": "upceb5_05.ttf",
+      "family": "EucrosiaUPC",
+      "subfamily": "Gras",
+      "version": "Version 5.05",
+      "sha256": "79127ea561e584bac407a13094840be7d01f9b367ec3a085a6dc9c99c55d9c57"
+    },
+    {
+      "file": "upcebi5_05.ttf",
+      "family": "EucrosiaUPC",
+      "subfamily": "Gras Italique",
+      "version": "Version 5.05",
+      "sha256": "3eea7179edd165ca1fe484873992c2cc7a464ac5455187b4eab7f21ed7101531"
+    },
+    {
+      "file": "upcei5_05.ttf",
+      "family": "EucrosiaUPC",
+      "subfamily": "Italique",
+      "version": "Version 5.05",
+      "sha256": "86e920262186f7bce252da236fe2390ad899b833fc76079fa927b8eb43d93e71"
+    },
+    {
+      "file": "upcel5_05.ttf",
+      "family": "EucrosiaUPC",
+      "subfamily": "Normal",
+      "version": "Version 5.05",
+      "sha256": "9e673dbabc23a65a102a24afedb6e69d0cc3c1a7f32f54cb30a269de7645f814"
+    },
+    {
+      "file": "upcfb5_05.ttf",
+      "family": "FreesiaUPC",
+      "subfamily": "Gras",
+      "version": "Version 5.05",
+      "sha256": "d7a89012876127f1bf9938aa5278ec8a439e2b4b54f33093240abca8c135b29b"
+    },
+    {
+      "file": "upcfbi5_05.ttf",
+      "family": "FreesiaUPC",
+      "subfamily": "Gras Italique",
+      "version": "Version 5.05",
+      "sha256": "11fd393dec8b38813c38562253ef5c33bdc8ad7e0272f10ab2da96f584b07fcd"
+    },
+    {
+      "file": "upcfi5_05.ttf",
+      "family": "FreesiaUPC",
+      "subfamily": "Italique",
+      "version": "Version 5.05",
+      "sha256": "6119dba806cb36feb47fc5526ff77a3f20b074320293308c2479c21683c059f4"
+    },
+    {
+      "file": "upcfl5_05.ttf",
+      "family": "FreesiaUPC",
+      "subfamily": "Normal",
+      "version": "Version 5.05",
+      "sha256": "d70a6787ceead297c17ea5ae0fa91dc2820e457247bd189c1bcdee960714c178"
+    },
+    {
+      "file": "upcib5_05.ttf",
+      "family": "IrisUPC",
+      "subfamily": "Gras",
+      "version": "Version 5.05",
+      "sha256": "d89c60cd47139df9f2ed9da25373745093c8083b60bab7be2b58c4889d6c7dfa"
+    },
+    {
+      "file": "upcibi5_05.ttf",
+      "family": "IrisUPC",
+      "subfamily": "Gras Italique",
+      "version": "Version 5.05",
+      "sha256": "3a82a38db99e10d6f1ae76c76b3f2577f53504b295f851620138f1776cb0f2d2"
+    },
+    {
+      "file": "upcii5_05.ttf",
+      "family": "IrisUPC",
+      "subfamily": "Italique",
+      "version": "Version 5.05",
+      "sha256": "d5dc8ad7ca34a756dfcfe4820954ef94730f693adabaa188da85cf23309e4bf2"
+    },
+    {
+      "file": "upcil5_05.ttf",
+      "family": "IrisUPC",
+      "subfamily": "Normal",
+      "version": "Version 5.05",
+      "sha256": "317eeb886d0db46596d211e398f64c4a1df8f9707e66ddb4d4b3c3b8faf80899"
+    },
+    {
+      "file": "upcjb5_05.ttf",
+      "family": "JasmineUPC",
+      "subfamily": "Gras",
+      "version": "Version 5.05",
+      "sha256": "e32c2c5fc9e2a1442f0c2a644eb569da1c299002a19646eea7cc52f8b2e48726"
+    },
+    {
+      "file": "upcjbi5_05.ttf",
+      "family": "JasmineUPC",
+      "subfamily": "Gras Italique",
+      "version": "Version 5.05",
+      "sha256": "ebbb8c5ecb4c54709f1fd0a5cbd1ff85095284ca14d4ce918824b1b4323583d6"
+    },
+    {
+      "file": "upcji5_05.ttf",
+      "family": "JasmineUPC",
+      "subfamily": "Italique",
+      "version": "Version 5.05",
+      "sha256": "08d0b28ea2672b69ef3ce974cedac03fb93718bbfc44a145c3b6eb14e0ee8fbb"
+    },
+    {
+      "file": "upcjl5_05.ttf",
+      "family": "JasmineUPC",
+      "subfamily": "Normal",
+      "version": "Version 5.05",
+      "sha256": "8cd1347126ff73a389bc180cb3cd89e943fb8562a89aff1240df988bb3a90cfb"
+    },
+    {
+      "file": "upckb5_05.ttf",
+      "family": "KodchiangUPC",
+      "subfamily": "Gras",
+      "version": "Version 5.05",
+      "sha256": "a379cbb1d88efa19a03e38a50eb7f10245d5dabe654acaae23908e5180639a11"
+    },
+    {
+      "file": "upckbi5_05.ttf",
+      "family": "KodchiangUPC",
+      "subfamily": "Gras Italique",
+      "version": "Version 5.05",
+      "sha256": "cf9fdfa376dc2bb66921ffe09591aa10add64bfc4779e223a396e39f23be5f6f"
+    },
+    {
+      "file": "upcki5_05.ttf",
+      "family": "KodchiangUPC",
+      "subfamily": "Italique",
+      "version": "Version 5.05",
+      "sha256": "01eb2b1566f6b339658c97068d063d7de2ee2948d14709d9d3994c2c5ccf3838"
+    },
+    {
+      "file": "upckl5_05.ttf",
+      "family": "KodchiangUPC",
+      "subfamily": "Normal",
+      "version": "Version 5.05",
+      "sha256": "a210518d99798c36869e686b0fe2b2fc16c0c5935c58033e4044935f6fd9e2f0"
+    },
+    {
+      "file": "upclb5_05.ttf",
+      "family": "LilyUPC",
+      "subfamily": "Gras",
+      "version": "Version 5.05",
+      "sha256": "76bc67b2b121b434e797f9fcdeebc2054fe1dc13341e8394dcd07786aa02c638"
+    },
+    {
+      "file": "upclbi5_05.ttf",
+      "family": "LilyUPC",
+      "subfamily": "Gras Italique",
+      "version": "Version 5.05",
+      "sha256": "eabd7553f81c3f6dd3e1a19c99ae42507a671c5e43e209079e5126e56fbd012f"
+    },
+    {
+      "file": "upcli5_05.ttf",
+      "family": "LilyUPC",
+      "subfamily": "Italique",
+      "version": "Version 5.05",
+      "sha256": "3434e1afce64009242304c74fee161b99d11d813440cbda7cb73e97eb45b62eb"
+    },
+    {
+      "file": "upcll5_05.ttf",
+      "family": "LilyUPC",
+      "subfamily": "Normal",
+      "version": "Version 5.05",
+      "sha256": "7c3f899e07d771322c2155b3482e73b7a474f5d6b5262bc537d103ce3eb1950c"
+    }
+  ],
+  "Microsoft-Windows-Client-Desktop-Required-Package.esd": [
+    {
+      "file": "arial7_04.ttf",
+      "family": "Arial",
+      "subfamily": "Normal",
+      "version": "Version 7.04",
+      "sha256": "05c7da5fe195e04d76bbe4f22b7829ebc142f957066449f68d59afbb2d446b33"
+    },
+    {
+      "file": "arialbd7_04.ttf",
+      "family": "Arial",
+      "subfamily": "Gras",
+      "version": "Version 7.04",
+      "sha256": "6d0bdab8b0df09ac995061647100a8f8d4ef8cc965d0d7ebb057e5d278b0030a"
+    },
+    {
+      "file": "arialbi7_04.ttf",
+      "family": "Arial",
+      "subfamily": "Gras Italique",
+      "version": "Version 7.04",
+      "sha256": "9efe7ff2096181f613247508768c18aade2fcb6f8b604c10915ef833b0ae953e"
+    },
+    {
+      "file": "ariali7_04.ttf",
+      "family": "Arial",
+      "subfamily": "Italique",
+      "version": "Version 7.04",
+      "sha256": "fd16ddcf71dfa7c3c1c9511e58e6485058d08b9d487d1ff07a8cc19f1456855a"
+    },
+    {
+      "file": "ariblk5_23.ttf",
+      "family": "Arial",
+      "subfamily": "Black",
+      "version": "Version 5.23",
+      "sha256": "10df702864b1f89cb29ba0d6b97c04228338d16807e13e8d8c74b91aba5e5f23"
+    },
+    {
+      "file": "bahnschrift2_07.ttf",
+      "family": "Bahnschrift",
+      "subfamily": "Regular",
+      "version": "Version 2.07;210929233650",
+      "sha256": "eaad201da94cb323401fdb8cc760650803ddf8fd704cb9fa56317e6c69bc6fd6"
+    },
+    {
+      "file": "calibri6_26.ttf",
+      "family": "Calibri",
+      "subfamily": "Regular",
+      "version": "Version 6.26",
+      "sha256": "df2c69a18a462e5cbc97d04a033f3bd7cd0abfe818381641f8c2dee7b7c43dbd"
+    },
+    {
+      "file": "calibrib6_26.ttf",
+      "family": "Calibri",
+      "subfamily": "Bold",
+      "version": "Version 6.26",
+      "sha256": "5e8b2eb430f543eb304f08f44f5eb02ccbc39ffdc95400aae96f5dcd2aea73d8"
+    },
+    {
+      "file": "calibrii6_26.ttf",
+      "family": "Calibri",
+      "subfamily": "Italic",
+      "version": "Version 6.26",
+      "sha256": "21390a7e84b61224916e810fd00344ad9ad4f1d9115151a551845a4387d20b10"
+    },
+    {
+      "file": "calibril6_26.ttf",
+      "family": "Calibri",
+      "subfamily": "Light",
+      "version": "Version 6.26",
+      "sha256": "744d3ec1b277e3652ba8f8d45c89f83c99b7ecf3eb2dfa27306d7be56d3ee030"
+    },
+    {
+      "file": "calibrili6_26.ttf",
+      "family": "Calibri",
+      "subfamily": "Light Italic",
+      "version": "Version 6.26",
+      "sha256": "67ac784ac390f6c48119e76f9e34589f9a86b8974f561a6159545b858ab4cd41"
+    },
+    {
+      "file": "calibriz6_26.ttf",
+      "family": "Calibri",
+      "subfamily": "Bold Italic",
+      "version": "Version 6.26",
+      "sha256": "b699a59faad65272ee48a4d118d6bc743d4cc4ba338cb1c6347deec58aa1e1a0"
+    },
+    {
+      "file": "cambria6_99.ttc",
+      "family": "Cambria",
+      "subfamily": "Regular",
+      "version": "Version 6.99",
+      "sha256": "84e70ccc1664482f4a960442c7a166c91a1b2cf98ff88c33cb73f79403f66d7b"
+    },
+    {
+      "file": "cambria6_99.ttc",
+      "family": "Cambria Math",
+      "subfamily": "Regular",
+      "version": "Version 6.99",
+      "sha256": "84e70ccc1664482f4a960442c7a166c91a1b2cf98ff88c33cb73f79403f66d7b"
+    },
+    {
+      "file": "cambriab6_98.ttf",
+      "family": "Cambria",
+      "subfamily": "Bold",
+      "version": "Version 6.98",
+      "sha256": "6685c657a7e292083e28f19bbf1a1e90509ce3e1130dbc4ed1c62ba3f9140543"
+    },
+    {
+      "file": "cambriai6_98.ttf",
+      "family": "Cambria",
+      "subfamily": "Italic",
+      "version": "Version 6.98",
+      "sha256": "6905f0ac846d1ec4326cd14a46cb7379204940aa293b098ee4c1a69723bbd165"
+    },
+    {
+      "file": "cambriaz6_98.ttf",
+      "family": "Cambria",
+      "subfamily": "Bold Italic",
+      "version": "Version 6.98",
+      "sha256": "fa90f376ad37f308a819b341c8185f788d30a1012829278592eab45a41818d1a"
+    },
+    {
+      "file": "candara5_64.ttf",
+      "family": "Candara",
+      "subfamily": "Regular",
+      "version": "Version 5.64",
+      "sha256": "002c1e3378d02ed7dbdb3df1c94d433413a56f3f2f3aa8315a57720ee851dc45"
+    },
+    {
+      "file": "candarab5_64.ttf",
+      "family": "Candara",
+      "subfamily": "Bold",
+      "version": "Version 5.64",
+      "sha256": "ec0dce5170aaaf2cf485d4ba39d86fbba1dd1c76d9140cbf75a6b84b50fb20de"
+    },
+    {
+      "file": "candarai5_64.ttf",
+      "family": "Candara",
+      "subfamily": "Italic",
+      "version": "Version 5.64",
+      "sha256": "c165dbbc35bbf1fefae865c3e6b02404c8d182074fe04e78e221bab7d35ce3f8"
+    },
+    {
+      "file": "candaral5_64.ttf",
+      "family": "Candara",
+      "subfamily": "Light",
+      "version": "Version 5.64",
+      "sha256": "c35742957794a81b6c73aa43d2f19e3d3d0c45a6dafbc2efcddd04ad6b3aeac8"
+    },
+    {
+      "file": "candarali5_64.ttf",
+      "family": "Candara",
+      "subfamily": "Light Italic",
+      "version": "Version 5.64",
+      "sha256": "ff22b2841bc0aa0664b50c9215e8440f1da4f74bedd27ab33865f63f433b2681"
+    },
+    {
+      "file": "candaraz5_64.ttf",
+      "family": "Candara",
+      "subfamily": "Bold Italic",
+      "version": "Version 5.64",
+      "sha256": "a873581d9f0886441bd45c5e425a734e86e063ef583b9cf8081b1aa03b871f1c"
+    },
+    {
+      "file": "comic5_15.ttf",
+      "family": "Comic Sans MS",
+      "subfamily": "Normal",
+      "version": "Version 5.15",
+      "sha256": "fc7fbc3fb456a363f1f719b0ec62ae093c78124bb6da046006ae7e217a6b8575"
+    },
+    {
+      "file": "comicbd5_15.ttf",
+      "family": "Comic Sans MS",
+      "subfamily": "Gras",
+      "version": "Version 5.15",
+      "sha256": "128fdcfdfdd358e1624c15dd1f84a4d0689e59afcdefb81f8105efb2253b9c00"
+    },
+    {
+      "file": "comici5_15.ttf",
+      "family": "Comic Sans MS",
+      "subfamily": "Italique",
+      "version": "Version 5.15",
+      "sha256": "872cdefea79e25ff1a8a814109593c23ed66ba46f5bb843815d49e1ab4e0be3c"
+    },
+    {
+      "file": "comicz5_15.ttf",
+      "family": "Comic Sans MS",
+      "subfamily": "Gras Italique",
+      "version": "Version 5.15",
+      "sha256": "36eb300a76582b7d39f3d34834ce1255f0b9b2830fb2e81485c4b85a5ff7f03b"
+    },
+    {
+      "file": "consola7_00.ttf",
+      "family": "Consolas",
+      "subfamily": "Regular",
+      "version": "Version 7.00",
+      "sha256": "c6e6ce8119fdd47ec6a5449a08e2d2ad7f41ea03143aae193068ed9fa58eaebc"
+    },
+    {
+      "file": "consolab7_00.ttf",
+      "family": "Consolas",
+      "subfamily": "Bold",
+      "version": "Version 7.00",
+      "sha256": "8fa803e5abc7fff0c78c62cd22d07c705f3273c53312380c36ff484246ed3c1b"
+    },
+    {
+      "file": "consolai7_00.ttf",
+      "family": "Consolas",
+      "subfamily": "Italic",
+      "version": "Version 7.00",
+      "sha256": "81e2a95d3c49468029c07e58f71a5f0ca4cfcb617eaf6bd77576fb03aa430bb2"
+    },
+    {
+      "file": "consolaz7_00.ttf",
+      "family": "Consolas",
+      "subfamily": "Bold Italic",
+      "version": "Version 7.00",
+      "sha256": "1df27cbcc8a9fb7f843bc24e257b78e8ff93de70e8c1ad2caab8379e7d6a1eab"
+    },
+    {
+      "file": "constan5_93.ttf",
+      "family": "Constantia",
+      "subfamily": "Regular",
+      "version": "Version 5.93",
+      "sha256": "495577bf8ef74deab6ecc2e7acf63cd966184148f9bc2044a1068cd58501577e"
+    },
+    {
+      "file": "constanb5_93.ttf",
+      "family": "Constantia",
+      "subfamily": "Bold",
+      "version": "Version 5.93",
+      "sha256": "b6c66a1858370fe575629e19d53c05350738bf5105e18ceac07fe9efc9cd008d"
+    },
+    {
+      "file": "constani5_93.ttf",
+      "family": "Constantia",
+      "subfamily": "Italic",
+      "version": "Version 5.93",
+      "sha256": "2314a03c53506fa79525bc479ea4be9c036d1ebd86a1ffb5837ca5b43ff51f07"
+    },
+    {
+      "file": "constanz5_93.ttf",
+      "family": "Constantia",
+      "subfamily": "Bold Italic",
+      "version": "Version 5.93",
+      "sha256": "9311aadcbd919746f50d222fa0215fb44266d6993221c14a196f0725fdae464f"
+    },
+    {
+      "file": "corbel6_01.ttf",
+      "family": "Corbel",
+      "subfamily": "Regular",
+      "version": "Version 6.01",
+      "sha256": "a183b77b655df66793639af7874828fb50f748dc4af57ae40f758156f7f34634"
+    },
+    {
+      "file": "corbelb6_01.ttf",
+      "family": "Corbel",
+      "subfamily": "Bold",
+      "version": "Version 6.01",
+      "sha256": "fa008372f8a94945d0daef9daf0bfb9e3fba3a25fd17f2607d47ac6861bd0303"
+    },
+    {
+      "file": "corbeli6_01.ttf",
+      "family": "Corbel",
+      "subfamily": "Italic",
+      "version": "Version 6.01",
+      "sha256": "9be778c9ed418770f6b5a02064d9c0b47a8fdea1137618f0bec9ac4072430a45"
+    },
+    {
+      "file": "corbell6_01.ttf",
+      "family": "Corbel",
+      "subfamily": "Light",
+      "version": "Version 6.01",
+      "sha256": "0e36ddf90102e476c6739ca4c8cc18ba8309d880c12558981d2e4d42de78fc00"
+    },
+    {
+      "file": "corbelli6_01.ttf",
+      "family": "Corbel",
+      "subfamily": "Light Italic",
+      "version": "Version 6.01",
+      "sha256": "a031500bccd32b5d6e819699b774fc679c696ed4965b643d51a94eb398475550"
+    },
+    {
+      "file": "corbelz6_01.ttf",
+      "family": "Corbel",
+      "subfamily": "Bold Italic",
+      "version": "Version 6.01",
+      "sha256": "588f090ae3a6d31370457312683d14ee3a5bfbdaaa0a070b7c80225b55b23e78"
+    },
+    {
+      "file": "cour6_94.ttf",
+      "family": "Courier New",
+      "subfamily": "Normal",
+      "version": "Version 6.94",
+      "sha256": "6aab1f79264ccda1e7129dba62dbe3750b10eaa27408a327dadb808724e62c84"
+    },
+    {
+      "file": "courbd6_94.ttf",
+      "family": "Courier New",
+      "subfamily": "Gras",
+      "version": "Version 6.94",
+      "sha256": "e376f24c9f27eb7370b25aa366d78da731834a1aea651858801c9a14e8906943"
+    },
+    {
+      "file": "courbi6_94.ttf",
+      "family": "Courier New",
+      "subfamily": "Gras Italique",
+      "version": "Version 6.94",
+      "sha256": "ac3b362cf998eb33475655e12ab7cb2f6a35d1f2eff6f76af00ebb6f81c53ee7"
+    },
+    {
+      "file": "couri6_94.ttf",
+      "family": "Courier New",
+      "subfamily": "Italique",
+      "version": "Version 6.94",
+      "sha256": "546406ddbb3e3f6b876a5e8a5dee62ac090d1448662e98d8844b22393813dd13"
+    },
+    {
+      "file": "ebrima5_19.ttf",
+      "family": "Ebrima",
+      "subfamily": "Normal",
+      "version": "Version 5.19",
+      "sha256": "1dcd304f0ba642dbc3c3f3ccb70c24e9fad7ada2e2d5d0061c7cacab86e8df92"
+    },
+    {
+      "file": "ebrimabd5_19.ttf",
+      "family": "Ebrima",
+      "subfamily": "Gras",
+      "version": "Version 5.19",
+      "sha256": "a7bc75937950d0f217f79313631d81f5b92459c414a4099d6ea3c0c0262a716b"
+    },
+    {
+      "file": "framd5_02.ttf",
+      "family": "Franklin Gothic Medium",
+      "subfamily": "Normal",
+      "version": "Version 5.02",
+      "sha256": "bac844bd41f847cf138737026d41c983387a1065535c32e78aa22c48708b52ad"
+    },
+    {
+      "file": "framdit5_01.ttf",
+      "family": "Franklin Gothic Medium",
+      "subfamily": "Italique",
+      "version": "Version 5.01",
+      "sha256": "df59f9ea915957b22a389d68580bf40dc5bd05822cc65b5fdcc188c706a694e7"
+    },
+    {
+      "file": "gabriola5_93.ttf",
+      "family": "Gabriola",
+      "subfamily": "Regular",
+      "version": "Version 5.93",
+      "sha256": "ddd852f9e43a5e81af62a3f6654324ba7553d7d66101ab848abc1bd2d626ac4b"
+    },
+    {
+      "file": "gadugi1_13.ttf",
+      "family": "Gadugi",
+      "subfamily": "Normal",
+      "version": "Version 1.13",
+      "sha256": "0ec2bdbfc2ba99d9fb05b6f7c511e7ab8b7c055e2d644570ad777455d6e9796d"
+    },
+    {
+      "file": "gadugib1_13.ttf",
+      "family": "Gadugi",
+      "subfamily": "Gras",
+      "version": "Version 1.13",
+      "sha256": "c96226cba7f50e94b534a5f8ade6a54f48a03be7c73360524eda5cbce4de34b6"
+    },
+    {
+      "file": "georgia5_59.ttf",
+      "family": "Georgia",
+      "subfamily": "Normal",
+      "version": "Version 5.59",
+      "sha256": "38dffcaf1fac89492f7c56c600a14daf36ae42f7c21985cd4134ae113124a58f"
+    },
+    {
+      "file": "georgiab5_59.ttf",
+      "family": "Georgia",
+      "subfamily": "Gras",
+      "version": "Version 5.59",
+      "sha256": "72a6cd94fab6c179392075d3fb361e269cdddfad41bb7ab385fa22a37e49a900"
+    },
+    {
+      "file": "georgiai5_59.ttf",
+      "family": "Georgia",
+      "subfamily": "Italique",
+      "version": "Version 5.59",
+      "sha256": "d3e4bad27651d120ac8f2cea42cf4b4f077264fb243f66b3caffcfd35465f49b"
+    },
+    {
+      "file": "georgiaz5_59.ttf",
+      "family": "Georgia",
+      "subfamily": "Gras Italique",
+      "version": "Version 5.59",
+      "sha256": "3f9e512f82eaf6f1b7869b82013fb79f6eaf1a41e75a0e7b96f31f35b1022ae4"
+    },
+    {
+      "file": "himalaya5_23.ttf",
+      "family": "Microsoft Himalaya",
+      "subfamily": "Regular",
+      "version": "Version 5.23",
+      "sha256": "fdec3a7efacd57913d3c14111837908ccbabea5b0b44ec62527eb73acf743afb"
+    },
+    {
+      "file": "impact5_11.ttf",
+      "family": "Impact",
+      "subfamily": "Normal",
+      "version": "Version 5.11",
+      "sha256": "d8bbdb72e3f930157824b2e59677d3a912d4512c14a948e6656a2e3fb0c935ad"
+    },
+    {
+      "file": "inkfree2_00.ttf",
+      "family": "Ink Free",
+      "subfamily": "Normal",
+      "version": "Version 2.00",
+      "sha256": "c8ab96bc49ec1dc36936b5973fc143ca222c1a33ab27b87071a3bbc44d34ca9a"
+    },
+    {
+      "file": "javatext1_10.ttf",
+      "family": "Javanese Text",
+      "subfamily": "Normal",
+      "version": "Version 1.10",
+      "sha256": "df8d94382f73e6d2197b60653c3d55c28ab5cf127a82e65b8af4ed1b52fdc412"
+    },
+    {
+      "file": "leelauib5_06.ttf",
+      "family": "Leelawadee UI",
+      "subfamily": "Bold",
+      "version": "Version 5.06",
+      "sha256": "c958f6d6c78a2234ba45a415a8288ab8e0b1aa17d59fc129c9814c5762bd3a20"
+    },
+    {
+      "file": "leelawui5_06.ttf",
+      "family": "Leelawadee UI",
+      "subfamily": "Regular",
+      "version": "Version 5.06",
+      "sha256": "f0d4f22c972e2f1df32bc5125408891abb5ba418b0fd4f4118085170e16fa822"
+    },
+    {
+      "file": "leeluisl5_06.ttf",
+      "family": "Leelawadee UI",
+      "subfamily": "Semilight",
+      "version": "Version 5.06",
+      "sha256": "7f3bfad2dbf4d3d70efa245df2949792a938181ca90bb0a0dc248485abf8a8d1"
+    },
+    {
+      "file": "malgun6_69.ttf",
+      "family": "\ub9d1\uc740 \uace0\ub515",
+      "subfamily": "Regular",
+      "version": "Version 6.69",
+      "sha256": "7a183cf1c6c56b9609fcc16eda8b5229fbc11758a21e669ec00343239b02192f"
+    },
+    {
+      "file": "marlett5_01.ttf",
+      "family": "Marlett",
+      "subfamily": "Regular",
+      "version": "Version 5.01",
+      "sha256": "b7397adf2dcc24ca790348a3c26deb2122b45e5728fd25fc588de4cf5a75b469"
+    },
+    {
+      "file": "micross7_03.ttf",
+      "family": "Microsoft Sans Serif",
+      "subfamily": "Normal",
+      "version": "Version 7.03",
+      "sha256": "9621f0043b451d266255ac6229e729d476b76dd908635924f0bcdc4bb6719de1"
+    },
+    {
+      "file": "mingliub7_10.ttc",
+      "family": "\u7d30\u660e\u9ad4-ExtB",
+      "subfamily": "Regular",
+      "version": "Version 7.10",
+      "sha256": "8f8afdb3ec7047118f6dc51b29d395e697ee6770d0afd0cd407457e2ad6e93cb"
+    },
+    {
+      "file": "mingliub7_10.ttc",
+      "family": "\u65b0\u7d30\u660e\u9ad4-ExtB",
+      "subfamily": "Regular",
+      "version": "Version 7.10",
+      "sha256": "8f8afdb3ec7047118f6dc51b29d395e697ee6770d0afd0cd407457e2ad6e93cb"
+    },
+    {
+      "file": "mingliub7_10.ttc",
+      "family": "\u7d30\u660e\u9ad4_HKSCS-ExtB",
+      "subfamily": "Regular",
+      "version": "Version 7.10",
+      "sha256": "8f8afdb3ec7047118f6dc51b29d395e697ee6770d0afd0cd407457e2ad6e93cb"
+    },
+    {
+      "file": "mingliub7_10.ttc",
+      "family": "\u7d30\u660e\u9ad4_MSCS-ExtB",
+      "subfamily": "Regular",
+      "version": "Version 8.10",
+      "sha256": "8f8afdb3ec7047118f6dc51b29d395e697ee6770d0afd0cd407457e2ad6e93cb"
+    },
+    {
+      "file": "mmrtext1_21.ttf",
+      "family": "Myanmar Text",
+      "subfamily": "Normal",
+      "version": "Version 1.21",
+      "sha256": "289bfc7da2a20102b0e00bc86d939cc1e3a41b2492bf61f87acdc49a493cb748"
+    },
+    {
+      "file": "mmrtextb1_21.ttf",
+      "family": "Myanmar Text",
+      "subfamily": "Gras",
+      "version": "Version 1.21",
+      "sha256": "8b20b869b1fb1ab26b8e7b90e28a34a575a097c41662a9f17cd9875e2688eaa3"
+    },
+    {
+      "file": "monbaiti5_54.ttf",
+      "family": "Mongolian Baiti",
+      "subfamily": "Regular",
+      "version": "Version 5.54",
+      "sha256": "b77cc080c4ad47f519c8317410b0346618ddd80c536acfd37879e29ba6b4eb93"
+    },
+    {
+      "file": "msgothic5_32.ttc",
+      "family": "\uff2d\uff33 \u30b4\u30b7\u30c3\u30af",
+      "subfamily": "\u6a19\u6e96",
+      "version": "Version 5.32",
+      "sha256": "4bde3e6392b96910fb59094c6c1a4dbfae18fee78d0bf13dc30616837c4f95db"
+    },
+    {
+      "file": "msgothic5_32.ttc",
+      "family": "MS UI Gothic",
+      "subfamily": "\u6a19\u6e96",
+      "version": "Version 5.32",
+      "sha256": "4bde3e6392b96910fb59094c6c1a4dbfae18fee78d0bf13dc30616837c4f95db"
+    },
+    {
+      "file": "msgothic5_32.ttc",
+      "family": "\uff2d\uff33 \uff30\u30b4\u30b7\u30c3\u30af",
+      "subfamily": "\u6a19\u6e96",
+      "version": "Version 5.32",
+      "sha256": "4bde3e6392b96910fb59094c6c1a4dbfae18fee78d0bf13dc30616837c4f95db"
+    },
+    {
+      "file": "msjh6_15.ttc",
+      "family": "\u5fae\u8edf\u6b63\u9ed1\u9ad4",
+      "subfamily": "Normal",
+      "version": "Version 6.15",
+      "sha256": "1fd5fc7046e0eea753988ee06d1a5a731df68475614e2174fbba9b4800f392ac"
+    },
+    {
+      "file": "msjh6_15.ttc",
+      "family": "Microsoft JhengHei UI",
+      "subfamily": "Normal",
+      "version": "Version 6.15",
+      "sha256": "1fd5fc7046e0eea753988ee06d1a5a731df68475614e2174fbba9b4800f392ac"
+    },
+    {
+      "file": "msyh6_31.ttc",
+      "family": "\u5fae\u8f6f\u96c5\u9ed1",
+      "subfamily": "Normal",
+      "version": "Version 6.31",
+      "sha256": "d79c55e68b1131eea0cc1c47be4f572d964f28c682e143db2ad09c1e4cb07a3f"
+    },
+    {
+      "file": "msyh6_31.ttc",
+      "family": "Microsoft YaHei UI",
+      "subfamily": "Normal",
+      "version": "Version 6.31",
+      "sha256": "d79c55e68b1131eea0cc1c47be4f572d964f28c682e143db2ad09c1e4cb07a3f"
+    },
+    {
+      "file": "msyi6_00.ttf",
+      "family": "Microsoft Yi Baiti",
+      "subfamily": "Regular",
+      "version": "Version 6.00",
+      "sha256": "80aef1c25135b945e9de7d09e6445c386405eb2e0ea7032d4cd00a2fe3eef0ae"
+    },
+    {
+      "file": "mvboli6_85.ttf",
+      "family": "MV Boli",
+      "subfamily": "Normal",
+      "version": "Version 6.85",
+      "sha256": "5dfd7a4c708caeefae42cdb9540946de042beeb8c069dfde0dbc14c2fa0705ae"
+    },
+    {
+      "file": "ntailu5_99.ttf",
+      "family": "Microsoft New Tai Lue",
+      "subfamily": "Regular",
+      "version": "Version 5.99",
+      "sha256": "de0b632015447f28c2db41c8e07c745cedb05ead5dbc2e73f19da14d2e5f2151"
+    },
+    {
+      "file": "ntailub5_99.ttf",
+      "family": "Microsoft New Tai Lue",
+      "subfamily": "Bold",
+      "version": "Version 5.99",
+      "sha256": "cfc2acbf9ae0205a0a258e564bdbf5466a4e49a95281a1d2e72690f149ec837b"
+    },
+    {
+      "file": "pala5_03.ttf",
+      "family": "Palatino Linotype",
+      "subfamily": "Normal",
+      "version": "Version 5.03",
+      "sha256": "e47d594e2e2bc31b28f87b6f66483d32f925843ceb002f919c7a403aca48813d"
+    },
+    {
+      "file": "palab5_03.ttf",
+      "family": "Palatino Linotype",
+      "subfamily": "Gras",
+      "version": "Version 5.03",
+      "sha256": "8e14668bbae03f78ed668dbe3261218881960dcd9fb80ad6c1d1dfb4226a57c3"
+    },
+    {
+      "file": "palabi5_03.ttf",
+      "family": "Palatino Linotype",
+      "subfamily": "Gras Italique",
+      "version": "Version 5.03",
+      "sha256": "d0e722b91ffd5391cc2e7d6e976f274d5aee9fe0b8d0fedfffe093763e695cde"
+    },
+    {
+      "file": "palai5_03.ttf",
+      "family": "Palatino Linotype",
+      "subfamily": "Italique",
+      "version": "Version 5.03",
+      "sha256": "99f0af2d1941707fecda23da38bafbed5144a73a3720d773c05b9d4c445920ed"
+    },
+    {
+      "file": "phagspa6_00.ttf",
+      "family": "Microsoft PhagsPa",
+      "subfamily": "Regular",
+      "version": "Version 6.00",
+      "sha256": "538949482d964e9f353a3a8d860bb3eda93b46b830f3b677e4f53eb2ff3a6e7d"
+    },
+    {
+      "file": "phagspab6_00.ttf",
+      "family": "Microsoft PhagsPa",
+      "subfamily": "Bold",
+      "version": "Version 6.00",
+      "sha256": "03e4e45bb8ebb6d055a5584166cc26712bf7e746ea29cb6e548341361d31dc85"
+    },
+    {
+      "file": "segmdl21_86.ttf",
+      "family": "Segoe MDL2 Assets",
+      "subfamily": "Normal",
+      "version": "Version 1.86",
+      "sha256": "a2efc8b8e51fbd031a7142a1ade8866fa904c0c349511abc579ee53f8a926f31"
+    },
+    {
+      "file": "segoeicons1_44.ttf",
+      "family": "Segoe Fluent Icons",
+      "subfamily": "Regular",
+      "version": "Version 1.44",
+      "sha256": "d4a0e1eb6b7101ce78c8ab33573085057123d2d2a790aaf5245bc62b764d4060"
+    },
+    {
+      "file": "segoepr5_04.ttf",
+      "family": "Segoe Print",
+      "subfamily": "Regular",
+      "version": "Version 5.04",
+      "sha256": "91046862e08fbade0bdd648e81c4efbe6a963947f8b6e32b64a28fe39073c468"
+    },
+    {
+      "file": "segoeprb5_04.ttf",
+      "family": "Segoe Print",
+      "subfamily": "Bold",
+      "version": "Version 5.04",
+      "sha256": "3cced0162ddb9e5f1e63ee1b36fd6e581c090318dce1a0af01b77f5ea9952c80"
+    },
+    {
+      "file": "segoesc5_03.ttf",
+      "family": "Segoe Script",
+      "subfamily": "Normal",
+      "version": "Version 5.03",
+      "sha256": "b24aa49a4bcb99a0ffc60cad77f00941e4b121153d8b0a519c03719d9be6004e"
+    },
+    {
+      "file": "segoescb5_03.ttf",
+      "family": "Segoe Script",
+      "subfamily": "Gras",
+      "version": "Version 5.03",
+      "sha256": "6cd482205e1390b32a2b6327e1e5039424e346172c187074eac12006bc51935e"
+    },
+    {
+      "file": "segoeui5_67.ttf",
+      "family": "Segoe UI",
+      "subfamily": "Normal",
+      "version": "Version 5.67",
+      "sha256": "73db31e13ef5151beb6a5272cff4c6de6ae2f0bbc3688f4046e5e63593f9953a"
+    },
+    {
+      "file": "segoeuib5_67.ttf",
+      "family": "Segoe UI",
+      "subfamily": "Gras",
+      "version": "Version 5.67",
+      "sha256": "34ed88e3895e0d6b17c862014b6ba4fc0113ec007453de3edf72619150cf4d2c"
+    },
+    {
+      "file": "segoeuii5_66.ttf",
+      "family": "Segoe UI",
+      "subfamily": "Italique",
+      "version": "Version 5.66",
+      "sha256": "9bdc0241dc3a37ee8b23468ec14d875bd9b94939a3cfefb635d02718a7c2f00f"
+    },
+    {
+      "file": "segoeuil5_67.ttf",
+      "family": "Segoe UI",
+      "subfamily": "Light",
+      "version": "Version 5.67",
+      "sha256": "3c574f3990c94e13823a6a9ed32fe42969181b8c707f7d949702ddbb068d1359"
+    },
+    {
+      "file": "segoeuisl5_67.ttf",
+      "family": "Segoe UI",
+      "subfamily": "Semilight",
+      "version": "Version 5.67",
+      "sha256": "0d7c47ad801fcfe8ab61353a39a076369fcdba46bb53212b1b104147609d2aa0"
+    },
+    {
+      "file": "segoeuiz5_66.ttf",
+      "family": "Segoe UI",
+      "subfamily": "Gras Italique",
+      "version": "Version 5.66",
+      "sha256": "4ce2a8f4ceb2058b01e073fab23991dcfdba76b9266283496b56484d8984c289"
+    },
+    {
+      "file": "seguibl2_02.ttf",
+      "family": "Segoe UI",
+      "subfamily": "Black",
+      "version": "Version 2.02",
+      "sha256": "e17738f092c8b02f4443867a7dfcdde66fb4cd6f6b10de8e40b2f3192f8a5835"
+    },
+    {
+      "file": "seguibli2_02.ttf",
+      "family": "Segoe UI",
+      "subfamily": "Black Italic",
+      "version": "Version 2.02",
+      "sha256": "33212faa85fad61785cd6917172378b798bc9f5d4c47c121437354f47980aa6f"
+    },
+    {
+      "file": "seguiemj1_60.ttf",
+      "family": "Segoe UI Emoji",
+      "subfamily": "Normal",
+      "version": "Version 1.60",
+      "sha256": "f07cbd7886f4a1a5255a1bdf4ca5ea29db3be3357414003a92bec5d1c3165578"
+    },
+    {
+      "file": "seguihis1_09.ttf",
+      "family": "Segoe UI Historic",
+      "subfamily": "Regular",
+      "version": "Version 1.09",
+      "sha256": "a162ceeaf701b55d11c542daf1c39c52bfaf686496505bff2eb75ca24814c136"
+    },
+    {
+      "file": "seguili5_66.ttf",
+      "family": "Segoe UI",
+      "subfamily": "Light Italic",
+      "version": "Version 5.66",
+      "sha256": "09bff29e9a15ab35e9b31390b1174fe495e8a1aa79ee7a45f2bed92b5374bbac"
+    },
+    {
+      "file": "seguisb5_67.ttf",
+      "family": "Segoe UI",
+      "subfamily": "Semibold",
+      "version": "Version 5.67",
+      "sha256": "5a7421ef8999c70e960b79d5806a96cd1a35349e759123e07b83631c80df398e"
+    },
+    {
+      "file": "seguisbi5_66.ttf",
+      "family": "Segoe UI",
+      "subfamily": "Semibold Italic",
+      "version": "Version 5.66",
+      "sha256": "ac45cce4abfdd8aba8498c2120795f5027e4ebf44a7b6f0b53f4609c8547f6ee"
+    },
+    {
+      "file": "seguisli5_66.ttf",
+      "family": "Segoe UI",
+      "subfamily": "Semilight Italic",
+      "version": "Version 5.66",
+      "sha256": "e7921e223e51281fe9e793133aba8bff0b3065b94818fc8c416e8598dde9b613"
+    },
+    {
+      "file": "seguisym6_24.ttf",
+      "family": "Segoe UI Symbol",
+      "subfamily": "Normal",
+      "version": "Version 6.24",
+      "sha256": "a4a35dcc62cd30e1a6c97b695ecef83e59d2b149e3af834f6a49f11851d56b37"
+    },
+    {
+      "file": "seguivar2_03.ttf",
+      "family": "Segoe UI Variable",
+      "subfamily": "Regular",
+      "version": "Version 2.03",
+      "sha256": "27ca1ab4bd5ad3b0404ee6a9a03b143408dbd7e5a4c9e4b2054639c03fc0f682"
+    },
+    {
+      "file": "simsun5_23.ttc",
+      "family": "\u5b8b\u4f53",
+      "subfamily": "\u5e38\u89c4",
+      "version": "Version 5.23",
+      "sha256": "120a51d2b14eb588700a21e15fc301f0ea55d7c1a4e1f3ae61db83b7c8d42cd6"
+    },
+    {
+      "file": "simsun5_23.ttc",
+      "family": "\u65b0\u5b8b\u4f53",
+      "subfamily": "\u5e38\u89c4",
+      "version": "Version 5.23",
+      "sha256": "120a51d2b14eb588700a21e15fc301f0ea55d7c1a4e1f3ae61db83b7c8d42cd6"
+    },
+    {
+      "file": "simsunb5_08.ttf",
+      "family": "SimSun-ExtB",
+      "subfamily": "Normal",
+      "version": "Version 5.08",
+      "sha256": "2a476ca00b5fbbbc12a4c5335634722b11a495ed87429284325701f1e36b596a"
+    },
+    {
+      "file": "sitkavf-italic2_02.ttf",
+      "family": "Sitka",
+      "subfamily": "Text Italic",
+      "version": "Version 2.02;240218033828",
+      "sha256": "b839437a6ccebeb4a52a14e31946977dde6dd8c58f153948713efc5dd96e5bc5"
+    },
+    {
+      "file": "sitkavf2_02.ttf",
+      "family": "Sitka",
+      "subfamily": "Text",
+      "version": "Version 2.02;240218033828",
+      "sha256": "1efaf55f0e688605b27ac86356aacf6f491cd379abc92d4bd984541770cba910"
+    },
+    {
+      "file": "sylfaen5_08.ttf",
+      "family": "Sylfaen",
+      "subfamily": "Normal",
+      "version": "Version 5.08",
+      "sha256": "ac278d932d59558a76817e98051b1dae53867aa81ad83e5198b1b4c4b8066a08"
+    },
+    {
+      "file": "symbol5_01.ttf",
+      "family": "Symbol",
+      "subfamily": "Regular",
+      "version": "Version 5.01",
+      "sha256": "bbf1192965e5266fbf23370416337d2861fc1e8bd349def93f2994ba67382fc3"
+    },
+    {
+      "file": "tahoma7_04.ttf",
+      "family": "Tahoma",
+      "subfamily": "Normal",
+      "version": "Version 7.04",
+      "sha256": "dbccddcd68ffa5f9e4d2b9f8ca2507145e0c1f02f8f03298cb1f6281fe3ad12e"
+    },
+    {
+      "file": "tahomabd7_04.ttf",
+      "family": "Tahoma",
+      "subfamily": "Gras",
+      "version": "Version 7.04",
+      "sha256": "13187d9b4746c442e0b0050809038fc78a23607c812baf612c07246e1ecbb8de"
+    },
+    {
+      "file": "taile6_00.ttf",
+      "family": "Microsoft Tai Le",
+      "subfamily": "Regular",
+      "version": "Version 6.00",
+      "sha256": "f5151d081f6afea4c26464e0cd5e695f57a99209cfeea2f483c3108684660eb6"
+    },
+    {
+      "file": "taileb6_00.ttf",
+      "family": "Microsoft Tai Le",
+      "subfamily": "Bold",
+      "version": "Version 6.00",
+      "sha256": "1878842d8dbdf8489794af0bace95a956db270dfa506ddcaabf94fa827b769ac"
+    },
+    {
+      "file": "times7_11.ttf",
+      "family": "Times New Roman",
+      "subfamily": "Normal",
+      "version": "Version 7.11",
+      "sha256": "fbb57cdb0079137adc0e478913ca134dfee02aa2ef443738ec5e839bf97a1f7f"
+    },
+    {
+      "file": "timesbd7_11.ttf",
+      "family": "Times New Roman",
+      "subfamily": "Gras",
+      "version": "Version 7.11",
+      "sha256": "e94ff9111656f17bd81e9f822f1e234edcd370bcbacfdebf998b8938f525ac77"
+    },
+    {
+      "file": "timesbi7_11.ttf",
+      "family": "Times New Roman",
+      "subfamily": "Gras Italique",
+      "version": "Version 7.11",
+      "sha256": "8d2c8d8d25d9fc529d08558c42effa771617914a455603881e212a26e2f2ddcd"
+    },
+    {
+      "file": "timesi7_11.ttf",
+      "family": "Times New Roman",
+      "subfamily": "Italique",
+      "version": "Version 7.11",
+      "sha256": "c2c134968be4259aaa78845d3aca5e91c4a0bd10d98e4d2e48ac3c12f3c63b89"
+    },
+    {
+      "file": "trebuc5_15.ttf",
+      "family": "Trebuchet MS",
+      "subfamily": "Normal",
+      "version": "Version 5.15",
+      "sha256": "fe3e8bdd64c1c9f3b9cf5189d06510c80d72cec28e03d04bffc560f77eec58d1"
+    },
+    {
+      "file": "trebucbd5_15.ttf",
+      "family": "Trebuchet MS",
+      "subfamily": "Gras",
+      "version": "Version 5.15",
+      "sha256": "dfcc306777a594d2815368547dd897e2ac82aff8073e55d9e682569939e49b81"
+    },
+    {
+      "file": "trebucbi5_15.ttf",
+      "family": "Trebuchet MS",
+      "subfamily": "Gras Italique",
+      "version": "Version 5.15",
+      "sha256": "87942234ab0cc4400088648bef8d1f7afc4c44e676c7ed6b32ca31462c18307d"
+    },
+    {
+      "file": "trebucit5_15.ttf",
+      "family": "Trebuchet MS",
+      "subfamily": "Italique",
+      "version": "Version 5.15",
+      "sha256": "9c9dc0cd0fd6b1a06e8f406d04bb15a88aaf20328d3e166c12d6bc7994b781d2"
+    },
+    {
+      "file": "verdana5_33.ttf",
+      "family": "Verdana",
+      "subfamily": "Normal",
+      "version": "Version 5.33",
+      "sha256": "6a8481fe107ee547893c018b13dba291c2020bec3de5da6525d9ac09f6bc2105"
+    },
+    {
+      "file": "verdanab5_33.ttf",
+      "family": "Verdana",
+      "subfamily": "Gras",
+      "version": "Version 5.33",
+      "sha256": "f3245f5f38f61bd1ceefb0f1338a5b88a21e6220832c2f43a38bbc7e1547c36f"
+    },
+    {
+      "file": "verdanai5_33.ttf",
+      "family": "Verdana",
+      "subfamily": "Italique",
+      "version": "Version 5.33",
+      "sha256": "14f2ebcdaa1b77e5993a8533662e4bd3ebfe2c5771b6daafd8ccb39b2ad588b9"
+    },
+    {
+      "file": "verdanaz5_33.ttf",
+      "family": "Verdana",
+      "subfamily": "Gras Italique",
+      "version": "Version 5.33",
+      "sha256": "d71f81c83ec63eaa32d36d5df7be1d9e71d3ea9150f47cebda2924923cbbf18a"
+    },
+    {
+      "file": "webdings5_01.ttf",
+      "family": "Webdings",
+      "subfamily": "Regular",
+      "version": "Version 5.01",
+      "sha256": "67461fabd8329d0d8ad62689cac642b34fac81c754ff9077ad211160ec62282d"
+    },
+    {
+      "file": "wingding5_01.ttf",
+      "family": "Wingdings",
+      "subfamily": "Regular",
+      "version": "Version 5.01",
+      "sha256": "9bcd6064e3b52fa30a347edd6e82506e2ec8b1602930b423c629a82c10468a5b"
+    },
+    {
+      "file": "yugothm1_95.ttc",
+      "family": "\u6e38\u30b4\u30b7\u30c3\u30af",
+      "subfamily": "Medium",
+      "version": "Version 1.95",
+      "sha256": "cb2021bbfe40b21ec564848b8d702125661594e1b4f1eb2e77fd8a98b485cf19"
+    },
+    {
+      "file": "yugothm1_95.ttc",
+      "family": "Yu Gothic UI",
+      "subfamily": "Regular",
+      "version": "Version 1.95",
+      "sha256": "cb2021bbfe40b21ec564848b8d702125661594e1b4f1eb2e77fd8a98b485cf19"
+    }
+  ]
+}

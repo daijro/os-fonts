@@ -13,6 +13,6 @@ manifest:
 clean-temp:
 	python3 win11/download_utils.py clean
 
-clean-all: clean
+clean-all: clean-temp
 	rm -rf win11/fonts win11/extraction.json win11/locales.json win11/fod-mapping.xlsx
 	rm -rf fonts-merged fonts.yml families.json
