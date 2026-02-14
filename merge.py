@@ -20,7 +20,8 @@ BASE_DIR = Path(__file__).parent
 SOURCES_PATH = BASE_DIR / "sources.yml"
 FONTS_YML_PATH = BASE_DIR / "fonts.yml"
 FAMILIES_JSON_PATH = BASE_DIR / "families.json"
-MERGED_DIR = BASE_DIR / "fonts-merged"
+FAMILIES_MIN_PATH = BASE_DIR / "families.min.json"
+MERGED_DIR = BASE_DIR / "merged"
 
 
 def _clean(s: str) -> str:
@@ -382,8 +383,8 @@ def main():
         source_dir = BASE_DIR / cfg["dir"]
 
         if not source_dir.exists():
-            print(f"[{name}] skipping, {source_dir} not found")
-            continue
+            print(f"[{name}] {source_dir} not found", file=sys.stderr)
+            sys.exit(1)
 
         families = scan_font_dir(source_dir)
         all_families[name] = families
@@ -437,12 +438,14 @@ def main():
     with open(FONTS_YML_PATH, "w") as f:
         yaml.dump(fonts_data, f, default_flow_style=False, allow_unicode=True, sort_keys=False)
 
-    # build families.json (minified)
+    # build families output
     families_data = {
         src: {loc: sorted(fams.keys()) for loc, fams in locales.items()}
         for src, locales in fonts_data.items()
     }
     with open(FAMILIES_JSON_PATH, "w") as f:
+        json.dump(families_data, f, indent=2, ensure_ascii=False)
+    with open(FAMILIES_MIN_PATH, "w") as f:
         json.dump(families_data, f, separators=(",", ":"))
 
     clashed_count = sum(
@@ -458,6 +461,7 @@ def main():
     print(f"\nOutput:")
     print(f"  {FONTS_YML_PATH.name}")
     print(f"  {FAMILIES_JSON_PATH.name}")
+    print(f"  {FAMILIES_MIN_PATH.name}")
     print(f"  {MERGED_DIR.name}/  {total_files} files")
     if clashed_count:
         print(f"  Clashed entries: {clashed_count}")
