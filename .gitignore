@@ -1,0 +1,6 @@
+temp/
+__pycache__/
+*.ttf
+*.ttc
+*.otf
+*.kate-swp

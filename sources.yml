@@ -1,0 +1,16 @@
+# Font sources to scan and merge
+# locales key points to a json mapping locale -> families. Sources without locales treat all fonts as core fonts
+
+win11:
+  dir: win11/fonts
+  locales: win11/locales.json
+
+macos:
+  dir: macos-tahoe
+
+linux:
+  dir: linux
+  locales: linux/locales.json
+
+extras:
+  dir: extras

@@ -1,0 +1,10 @@
+# Override locale mappings for font packages without official locale data.
+# Format: normalized package name -> list of locales
+#
+# PanEuropeanSupplementalFonts has no locale mapping in Microsoft's
+# FOD spreadsheet (listed as optional with target "n/a").
+# Families: Arial Nova, Georgia Pro, Gill Sans Nova,
+#           Neue Haas Grotesk Text Pro, Rockwell Nova, Verdana Pro
+
+Microsoft-Windows-LanguageFeatures-Fonts-PanEuropeanSupplementalFonts-Package:
+  - eu
