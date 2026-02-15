@@ -16,7 +16,7 @@ All of the latest Windows, MacOS, and common Linux system fonts, & additional la
   - All base Ubuntu 24.04 fonts & from the default packages
   - Fonts from other common language packages in the Ubuntu repos
 - **Extra fonts**
-  - Miscellaneous fonts from older Microsoft releases & other collections
+  - 150+ font families from commonly installed software & other collections
 
 Also includes FreeType configs for each OS's family defaults (serif, sans-serif, monospace, etc)
 
@@ -53,7 +53,7 @@ The Apple Color Emoji font was huge (188mb) so I converted each emoji to just si
 
 ### Extras
 
-Miscellaneous fonts from older Microsoft releases & other collections. These don't have any locale mapping.
+Miscellaneous fonts from commonly installed software and font collections. These were found by searching through massive font archives for families that appeared in the wild 10+ times in [fpgen](https://github.com/scrapfly/fingerprint-generator)'s font name dataset.
 
 ---
 
