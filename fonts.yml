@@ -17823,13 +17823,13 @@ macos:
         from: ubuntu
         original: Supplemental/NotoSansAdlam-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansAdlam-Regular.ttf
+            version: Version 3.000
           ubuntu:
             file: truetype/noto/NotoSansAdlam-Regular.ttf
             version: Version 3.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               adlm -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansAdlam-Regular.ttf
-            version: Version 3.000
     Noto Sans Armenian:
     - subfamily: Black
       file: NotoSansArmenian-Black-v15_0d1e2.ttc
@@ -17846,13 +17846,13 @@ macos:
         from: macos
         original: Fonts/NotoSansArmenian.ttc
         clashed:
+          macos:
+            file: Fonts/NotoSansArmenian.ttc
+            version: 15.0d1e2
           ubuntu:
             file: truetype/noto/NotoSansArmenian-Bold.ttf
             version: Version 2.005; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               armn -f none -a qsq -X ""
-          macos:
-            file: Fonts/NotoSansArmenian.ttc
-            version: 15.0d1e2
     - subfamily: ExtraBold
       file: NotoSansArmenian-Black-v15_0d1e2.ttc
       version: 15.0d1e2
@@ -17889,13 +17889,13 @@ macos:
         from: macos
         original: Fonts/NotoSansArmenian.ttc
         clashed:
+          macos:
+            file: Fonts/NotoSansArmenian.ttc
+            version: 15.0d1e2
           ubuntu:
             file: truetype/noto/NotoSansArmenian-Regular.ttf
             version: Version 2.005; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               armn -f none -a qsq -X ""
-          macos:
-            file: Fonts/NotoSansArmenian.ttc
-            version: 15.0d1e2
     - subfamily: SemiBold
       file: NotoSansArmenian-Black-v15_0d1e2.ttc
       version: 15.0d1e2
@@ -17919,13 +17919,13 @@ macos:
         from: macos
         original: Supplemental/NotoSansAvestan-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansAvestan-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansAvestan-Regular.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               avst -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansAvestan-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Bamum:
     - subfamily: Regular
       file: NotoSansBamum-Regular-v2_000.ttf
@@ -17935,27 +17935,27 @@ macos:
         from: macos
         original: Supplemental/NotoSansBamum-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansBamum-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansBamum-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               bamu -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansBamum-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Bassa Vah:
     - subfamily: Regular
       file: NotoSansBassaVah-Regular-v2_000.ttf
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSansBassaVah-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansBassaVah-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansBassaVah-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansBassaVah-Regular.ttf
             version: Version 2.000
     Noto Sans Batak:
     - subfamily: Regular
@@ -17966,12 +17966,12 @@ macos:
         from: macos
         original: Supplemental/NotoSansBatak-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansBatak-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansBatak-Regular.ttf
             version: Version 2.002
+          ubuntu:
+            file: truetype/noto/NotoSansBatak-Regular.ttf
+            version: Version 2.000
     Noto Sans Bhaiksuki:
     - subfamily: Regular
       file: NotoSansBhaiksuki-Regular-v2_001.ttf
@@ -17981,12 +17981,12 @@ macos:
         from: ubuntu
         original: Supplemental/NotoSansBhaiksuki-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansBhaiksuki-Regular.ttf
-            version: Version 2.001
           macos:
             file: Supplemental/NotoSansBhaiksuki-Regular.ttf
             version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansBhaiksuki-Regular.ttf
+            version: Version 2.001
     Noto Sans Brahmi:
     - subfamily: Regular
       file: NotoSansBrahmi-Regular-v2_000.ttf
@@ -17996,12 +17996,12 @@ macos:
         from: macos
         original: Supplemental/NotoSansBrahmi-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansBrahmi-Regular.ttf
-            version: Version 2.001
           macos:
             file: Supplemental/NotoSansBrahmi-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansBrahmi-Regular.ttf
+            version: Version 2.001
     Noto Sans Buginese:
     - subfamily: Regular
       file: NotoSansBuginese-Regular-v2_000.ttf
@@ -18011,12 +18011,12 @@ macos:
         from: macos
         original: Supplemental/NotoSansBuginese-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansBuginese-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansBuginese-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansBuginese-Regular.ttf
+            version: Version 2.000
     Noto Sans Buhid:
     - subfamily: Regular
       file: NotoSansBuhid-Regular-v2_000.ttf
@@ -18026,13 +18026,13 @@ macos:
         from: macos
         original: Supplemental/NotoSansBuhid-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansBuhid-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansBuhid-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               buhd -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansBuhid-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Canadian Aboriginal:
     - subfamily: Regular
       file: NotoSansCanadianAboriginal-Regular-v2_000.ttf
@@ -18043,13 +18043,13 @@ macos:
         from: ubuntu
         original: Supplemental/NotoSansCanadianAboriginal-Regular.otf
         clashed:
+          macos:
+            file: Supplemental/NotoSansCanadianAboriginal-Regular.otf
+            version: Version 2.001
           ubuntu:
             file: truetype/noto/NotoSansCanadianAboriginal-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               cans -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansCanadianAboriginal-Regular.otf
-            version: Version 2.001
     Noto Sans Carian:
     - subfamily: Regular
       file: NotoSansCarian-Regular-v2_000.ttf
@@ -18059,27 +18059,27 @@ macos:
         from: macos
         original: Supplemental/NotoSansCarian-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansCarian-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansCarian-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               cari -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansCarian-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Caucasian Albanian:
     - subfamily: Regular
       file: NotoSansCaucasianAlbanian-Regular-v2_001.ttf
       version: Version 2.001
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSansCaucasianAlbanian-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansCaucasianAlbanian-Regular.ttf
-            version: Version 2.001
           macos:
             file: Supplemental/NotoSansCaucasianAlbanian-Regular.ttf
+            version: Version 2.001
+          ubuntu:
+            file: truetype/noto/NotoSansCaucasianAlbanian-Regular.ttf
             version: Version 2.001
     Noto Sans Chakma:
     - subfamily: Regular
@@ -18090,13 +18090,13 @@ macos:
         from: macos
         original: Supplemental/NotoSansChakma-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansChakma-Regular.ttf
+            version: Version 2.001;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansChakma-Regular.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               cakm -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansChakma-Regular.ttf
-            version: Version 2.001;GOOG;noto-source:20181019:f8f3770
     Noto Sans Cham:
     - subfamily: Regular
       file: NotoSansCham-Regular-v2_000.ttf
@@ -18106,12 +18106,12 @@ macos:
         from: macos
         original: Supplemental/NotoSansCham-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansCham-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansCham-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansCham-Regular.ttf
+            version: Version 2.000
     Noto Sans Coptic:
     - subfamily: Regular
       file: NotoSansCoptic-Regular-v2_000.ttf
@@ -18121,13 +18121,13 @@ macos:
         from: macos
         original: Supplemental/NotoSansCoptic-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansCoptic-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansCoptic-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               copt -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansCoptic-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Cuneiform:
     - subfamily: Regular
       file: NotoSansCuneiform-Regular-v2_000.ttf
@@ -18137,12 +18137,12 @@ macos:
         from: macos
         original: Supplemental/NotoSansCuneiform-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansCuneiform-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansCuneiform-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansCuneiform-Regular.ttf
+            version: Version 2.000
     Noto Sans Cypriot:
     - subfamily: Regular
       file: NotoSansCypriot-Regular-v2_000.ttf
@@ -18152,27 +18152,27 @@ macos:
         from: macos
         original: Supplemental/NotoSansCypriot-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansCypriot-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansCypriot-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               cprt -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansCypriot-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Duployan:
     - subfamily: Regular
       file: NotoSansDuployan-Regular-v2_000.ttf
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSansDuployan-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansDuployan-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansDuployan-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansDuployan-Regular.ttf
             version: Version 2.000
     Noto Sans Egyptian Hieroglyphs:
     - subfamily: Regular
@@ -18183,12 +18183,12 @@ macos:
         from: macos
         original: Supplemental/NotoSansEgyptianHieroglyphs-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansEgyptianHieroglyphs-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansEgyptianHieroglyphs-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansEgyptianHieroglyphs-Regular.ttf
+            version: Version 2.000
     Noto Sans Elbasan:
     - subfamily: Regular
       file: NotoSansElbasan-Regular-v2_000.ttf
@@ -18199,13 +18199,13 @@ macos:
         from: ubuntu
         original: Supplemental/NotoSansElbasan-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansElbasan-Regular.ttf
+            version: Version 2.000
           ubuntu:
             file: truetype/noto/NotoSansElbasan-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               latn -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansElbasan-Regular.ttf
-            version: Version 2.000
     Noto Sans Glagolitic:
     - subfamily: Regular
       file: NotoSansGlagolitic-Regular-v2_000.ttf
@@ -18215,13 +18215,13 @@ macos:
         from: macos
         original: Supplemental/NotoSansGlagolitic-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansGlagolitic-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansGlagolitic-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               glag -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansGlagolitic-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Gothic:
     - subfamily: Regular
       file: NotoSansGothic-Regular-v2_000.ttf
@@ -18231,27 +18231,27 @@ macos:
         from: macos
         original: Supplemental/NotoSansGothic-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansGothic-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansGothic-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               goth -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansGothic-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Gunjala Gondi:
     - subfamily: Regular
-      file: NotoSansGunjalaGondi-Regular-v1_002.ttf
+      file: NotoSansGunjalaGondi-Regular-v1_002.otf
       version: Version 1.002
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSansGunjalaGondi-Regular.otf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansGunjalaGondi-Regular.ttf
-            version: Version 1.002
           macos:
             file: Supplemental/NotoSansGunjalaGondi-Regular.otf
+            version: Version 1.002
+          ubuntu:
+            file: truetype/noto/NotoSansGunjalaGondi-Regular.ttf
             version: Version 1.002
     Noto Sans Hanifi Rohingya:
     - subfamily: Regular
@@ -18263,13 +18263,13 @@ macos:
         from: ubuntu
         original: Supplemental/NotoSansHanifiRohingya-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansHanifiRohingya-Regular.ttf
+            version: Version 2.002
           ubuntu:
             file: truetype/noto/NotoSansHanifiRohingya-Regular.ttf
             version: Version 2.100; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               latn -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansHanifiRohingya-Regular.ttf
-            version: Version 2.002
     Noto Sans Hanunoo:
     - subfamily: Regular
       file: NotoSansHanunoo-Regular-v2_000.ttf
@@ -18279,26 +18279,26 @@ macos:
         from: macos
         original: Supplemental/NotoSansHanunoo-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansHanunoo-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansHanunoo-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansHanunoo-Regular.ttf
+            version: Version 2.000
     Noto Sans Hatran:
     - subfamily: Regular
       file: NotoSansHatran-Regular-v2_000.ttf
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSansHatran-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansHatran-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansHatran-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansHatran-Regular.ttf
             version: Version 2.000
     Noto Sans Imperial Aramaic:
     - subfamily: Regular
@@ -18309,12 +18309,12 @@ macos:
         from: macos
         original: Supplemental/NotoSansImperialAramaic-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansImperialAramaic-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansImperialAramaic-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansImperialAramaic-Regular.ttf
+            version: Version 2.000
     Noto Sans Inscriptional Pahlavi:
     - subfamily: Regular
       file: NotoSansInscriptionalPahlavi-Regular-v2_000.ttf
@@ -18324,12 +18324,12 @@ macos:
         from: macos
         original: Supplemental/NotoSansInscriptionalPahlavi-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansInscriptionalPahlavi-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansInscriptionalPahlavi-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansInscriptionalPahlavi-Regular.ttf
+            version: Version 2.000
     Noto Sans Inscriptional Parthian:
     - subfamily: Regular
       file: NotoSansInscriptionalParthian-Regular-v2_000.ttf
@@ -18339,26 +18339,26 @@ macos:
         from: macos
         original: Supplemental/NotoSansInscriptionalParthian-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansInscriptionalParthian-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansInscriptionalParthian-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansInscriptionalParthian-Regular.ttf
+            version: Version 2.000
     Noto Sans Javanese:
     - subfamily: Regular
-      file: NotoSansJavanese-Regular-v2_000.ttf
+      file: NotoSansJavanese-Regular-v2_000.otf
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSansJavanese-Regular.otf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansJavanese-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansJavanese-Regular.otf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansJavanese-Regular.ttf
             version: Version 2.000
     Noto Sans Kaithi:
     - subfamily: Regular
@@ -18369,13 +18369,13 @@ macos:
         from: macos
         original: Supplemental/NotoSansKaithi-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansKaithi-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansKaithi-Regular.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               latn -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansKaithi-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Kayah Li:
     - subfamily: Regular
       file: NotoSansKayahLi-Regular-v2_000.ttf
@@ -18385,13 +18385,13 @@ macos:
         from: macos
         original: Supplemental/NotoSansKayahLi-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansKayahLi-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansKayahLi-Regular.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               kali -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansKayahLi-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Kharoshthi:
     - subfamily: Regular
       file: NotoSansKharoshthi-Regular-v2_000.ttf
@@ -18401,12 +18401,12 @@ macos:
         from: macos
         original: Supplemental/NotoSansKharoshthi-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansKharoshthi-Regular.ttf
-            version: Version 2.001
           macos:
             file: Supplemental/NotoSansKharoshthi-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansKharoshthi-Regular.ttf
+            version: Version 2.001
     Noto Sans Khojki:
     - subfamily: Regular
       file: NotoSansKhojki-Regular-v2_001.ttf
@@ -18417,27 +18417,27 @@ macos:
         from: ubuntu
         original: Supplemental/NotoSansKhojki-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansKhojki-Regular.ttf
+            version: Version 2.001
           ubuntu:
             file: truetype/noto/NotoSansKhojki-Regular.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               latn -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansKhojki-Regular.ttf
-            version: Version 2.001
     Noto Sans Khudawadi:
     - subfamily: Regular
       file: NotoSansKhudawadi-Regular-v2_000.ttf
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSansKhudawadi-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansKhudawadi-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansKhudawadi-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansKhudawadi-Regular.ttf
             version: Version 2.000
     Noto Sans Lepcha:
     - subfamily: Regular
@@ -18448,12 +18448,12 @@ macos:
         from: macos
         original: Supplemental/NotoSansLepcha-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansLepcha-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansLepcha-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansLepcha-Regular.ttf
+            version: Version 2.000
     Noto Sans Limbu:
     - subfamily: Regular
       file: NotoSansLimbu-Regular-v2_000.ttf
@@ -18463,26 +18463,26 @@ macos:
         from: macos
         original: Supplemental/NotoSansLimbu-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansLimbu-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansLimbu-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansLimbu-Regular.ttf
+            version: Version 2.000
     Noto Sans Linear A:
     - subfamily: Regular
       file: NotoSansLinearA-Regular-v2_000.ttf
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSansLinearA-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansLinearA-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansLinearA-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansLinearA-Regular.ttf
             version: Version 2.000
     Noto Sans Linear B:
     - subfamily: Regular
@@ -18493,12 +18493,12 @@ macos:
         from: macos
         original: Supplemental/NotoSansLinearB-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansLinearB-Regular.ttf
-            version: Version 2.001
           macos:
             file: Supplemental/NotoSansLinearB-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansLinearB-Regular.ttf
+            version: Version 2.001
     Noto Sans Lisu:
     - subfamily: Regular
       file: NotoSansLisu-Regular-v2_000.ttf
@@ -18508,13 +18508,13 @@ macos:
         from: macos
         original: Supplemental/NotoSansLisu-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansLisu-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansLisu-Regular.ttf
             version: Version 2.100; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               lisu -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansLisu-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Lycian:
     - subfamily: Regular
       file: NotoSansLycian-Regular-v2_000.ttf
@@ -18524,12 +18524,12 @@ macos:
         from: macos
         original: Supplemental/NotoSansLycian-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansLycian-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansLycian-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansLycian-Regular.ttf
+            version: Version 2.000
     Noto Sans Lydian:
     - subfamily: Regular
       file: NotoSansLydian-Regular-v2_000.ttf
@@ -18539,12 +18539,12 @@ macos:
         from: macos
         original: Supplemental/NotoSansLydian-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansLydian-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansLydian-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansLydian-Regular.ttf
+            version: Version 2.000
     Noto Sans Mahajani:
     - subfamily: Regular
       file: NotoSansMahajani-Regular-v2_000.ttf
@@ -18555,13 +18555,13 @@ macos:
         from: ubuntu
         original: Supplemental/NotoSansMahajani-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansMahajani-Regular.ttf
+            version: Version 2.000
           ubuntu:
             file: truetype/noto/NotoSansMahajani-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               latn -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansMahajani-Regular.ttf
-            version: Version 2.000
     Noto Sans Mandaic:
     - subfamily: Regular
       file: NotoSansMandaic-Regular-v2_000.ttf
@@ -18571,13 +18571,13 @@ macos:
         from: macos
         original: Supplemental/NotoSansMandaic-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansMandaic-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansMandaic-Regular.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               latn -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansMandaic-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Manichaean:
     - subfamily: Regular
       file: NotoSansManichaean-Regular-v2_000.ttf
@@ -18588,13 +18588,13 @@ macos:
         from: ubuntu
         original: Supplemental/NotoSansManichaean-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansManichaean-Regular.ttf
+            version: Version 2.000
           ubuntu:
             file: truetype/noto/NotoSansManichaean-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               latn -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansManichaean-Regular.ttf
-            version: Version 2.000
     Noto Sans Marchen:
     - subfamily: Regular
       file: NotoSansMarchen-Regular-v2_002.ttf
@@ -18604,26 +18604,26 @@ macos:
         from: ubuntu
         original: Supplemental/NotoSansMarchen-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansMarchen-Regular.ttf
-            version: Version 2.002
           macos:
             file: Supplemental/NotoSansMarchen-Regular.ttf
             version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansMarchen-Regular.ttf
+            version: Version 2.002
     Noto Sans Masaram Gondi:
     - subfamily: Regular
-      file: NotoSansMasaramGondi-Regular-v1_003.ttf
+      file: NotoSansMasaramGondi-Regular-v1_003.otf
       version: Version 1.003
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSansMasaramGondi-Regular.otf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansMasaramGondi-Regular.ttf
-            version: Version 1.003
           macos:
             file: Supplemental/NotoSansMasaramGondi-Regular.otf
+            version: Version 1.003
+          ubuntu:
+            file: truetype/noto/NotoSansMasaramGondi-Regular.ttf
             version: Version 1.003
     Noto Sans Meetei Mayek:
     - subfamily: Regular
@@ -18634,26 +18634,26 @@ macos:
         from: macos
         original: Supplemental/NotoSansMeeteiMayek-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansMeeteiMayek-Regular.ttf
-            version: Version 2.001
           macos:
             file: Supplemental/NotoSansMeeteiMayek-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansMeeteiMayek-Regular.ttf
+            version: Version 2.001
     Noto Sans Mende Kikakui:
     - subfamily: Regular
       file: NotoSansMendeKikakui-Regular-v2_000.ttf
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSansMendeKikakui-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansMendeKikakui-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansMendeKikakui-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansMendeKikakui-Regular.ttf
             version: Version 2.000
     Noto Sans Meroitic:
     - subfamily: Regular
@@ -18661,14 +18661,14 @@ macos:
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSansMeroitic-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansMeroitic-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansMeroitic-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansMeroitic-Regular.ttf
             version: Version 2.000
     Noto Sans Miao:
     - subfamily: Regular
@@ -18676,14 +18676,14 @@ macos:
       version: Version 2.001
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSansMiao-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansMiao-Regular.ttf
-            version: Version 2.001
           macos:
             file: Supplemental/NotoSansMiao-Regular.ttf
+            version: Version 2.001
+          ubuntu:
+            file: truetype/noto/NotoSansMiao-Regular.ttf
             version: Version 2.001
     Noto Sans Modi:
     - subfamily: Regular
@@ -18691,14 +18691,14 @@ macos:
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSansModi-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansModi-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansModi-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansModi-Regular.ttf
             version: Version 2.000
     Noto Sans Mongolian:
     - subfamily: Regular
@@ -18709,27 +18709,27 @@ macos:
         from: macos
         original: Supplemental/NotoSansMongolian-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansMongolian-Regular.ttf
+            version: Version 3.002
           ubuntu:
             file: truetype/noto/NotoSansMongolian-Regular.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               mong -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansMongolian-Regular.ttf
-            version: Version 3.002
     Noto Sans Mro:
     - subfamily: Regular
       file: NotoSansMro-Regular-v2_000.ttf
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSansMro-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansMro-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansMro-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansMro-Regular.ttf
             version: Version 2.000
     Noto Sans Multani:
     - subfamily: Regular
@@ -18741,13 +18741,13 @@ macos:
         from: ubuntu
         original: Supplemental/NotoSansMultani-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansMultani-Regular.ttf
+            version: Version 2.000
           ubuntu:
             file: truetype/noto/NotoSansMultani-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               latn -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansMultani-Regular.ttf
-            version: Version 2.000
     Noto Sans Myanmar:
     - subfamily: Black
       file: NotoSansMyanmar_NotoSansZawgyi-v17_0d1e2.ttc
@@ -18764,13 +18764,13 @@ macos:
         from: macos
         original: Fonts/NotoSansMyanmar.ttc
         clashed:
+          macos:
+            file: Fonts/NotoSansMyanmar.ttc
+            version: 17.0d1e2
           ubuntu:
             file: truetype/noto/NotoSansMyanmar-Bold.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               mymr -f none -a qsq -X ""
-          macos:
-            file: Fonts/NotoSansMyanmar.ttc
-            version: 17.0d1e2
     - subfamily: ExtraBold
       file: NotoSansMyanmar_NotoSansZawgyi-v17_0d1e2.ttc
       version: 17.0d1e2
@@ -18807,13 +18807,13 @@ macos:
         from: macos
         original: Fonts/NotoSansMyanmar.ttc
         clashed:
+          macos:
+            file: Fonts/NotoSansMyanmar.ttc
+            version: 17.0d1e2
           ubuntu:
             file: truetype/noto/NotoSansMyanmar-Regular.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               mymr -f none -a qsq -X ""
-          macos:
-            file: Fonts/NotoSansMyanmar.ttc
-            version: 17.0d1e2
     - subfamily: SemiBold
       file: NotoSansMyanmar_NotoSansZawgyi-v17_0d1e2.ttc
       version: 17.0d1e2
@@ -18838,27 +18838,27 @@ macos:
         from: ubuntu
         original: Supplemental/NotoSansNKo-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansNKo-Regular.ttf
+            version: Version 2.004
           ubuntu:
             file: truetype/noto/NotoSansNKo-Regular.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               nkoo -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansNKo-Regular.ttf
-            version: Version 2.004
     Noto Sans Nabataean:
     - subfamily: Regular
       file: NotoSansNabataean-Regular-v2_000.ttf
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSansNabataean-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansNabataean-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansNabataean-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansNabataean-Regular.ttf
             version: Version 2.000
     Noto Sans Nag Mundari:
     - subfamily: Regular
@@ -18874,14 +18874,14 @@ macos:
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSansNewTaiLue-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansNewTaiLue-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansNewTaiLue-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansNewTaiLue-Regular.ttf
             version: Version 2.000
     Noto Sans Newa:
     - subfamily: Regular
@@ -18892,12 +18892,12 @@ macos:
         from: ubuntu
         original: Supplemental/NotoSansNewa-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansNewa-Regular.ttf
-            version: Version 2.003
           macos:
             file: Supplemental/NotoSansNewa-Regular.ttf
             version: Version 2.002
+          ubuntu:
+            file: truetype/noto/NotoSansNewa-Regular.ttf
+            version: Version 2.003
     Noto Sans Ol Chiki:
     - subfamily: Regular
       file: NotoSansOlChiki-Regular-v2_000.ttf
@@ -18907,13 +18907,13 @@ macos:
         from: macos
         original: Supplemental/NotoSansOlChiki-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansOlChiki-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansOlChiki-Regular.ttf
             version: Version 2.002; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               olck -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansOlChiki-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Old Hungarian:
     - subfamily: Regular
       file: NotoSansOldHungarian-Regular-v2_002.ttf
@@ -18923,26 +18923,26 @@ macos:
         from: ubuntu
         original: Supplemental/NotoSansOldHungarian-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansOldHungarian-Regular.ttf
-            version: Version 2.002
           macos:
             file: Supplemental/NotoSansOldHungarian-Regular.ttf
             version: Version 2.001
+          ubuntu:
+            file: truetype/noto/NotoSansOldHungarian-Regular.ttf
+            version: Version 2.002
     Noto Sans Old Italic:
     - subfamily: Regular
       file: NotoSansOldItalic-Regular-v2_002.ttf
       version: Version 2.002
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSansOldItalic-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansOldItalic-Regular.ttf
-            version: Version 2.002
           macos:
             file: Supplemental/NotoSansOldItalic-Regular.ttf
+            version: Version 2.002
+          ubuntu:
+            file: truetype/noto/NotoSansOldItalic-Regular.ttf
             version: Version 2.002
     Noto Sans Old North Arabian:
     - subfamily: Regular
@@ -18950,14 +18950,14 @@ macos:
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSansOldNorthArabian-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansOldNorthArabian-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansOldNorthArabian-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansOldNorthArabian-Regular.ttf
             version: Version 2.000
     Noto Sans Old Permic:
     - subfamily: Regular
@@ -18965,14 +18965,14 @@ macos:
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSansOldPermic-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansOldPermic-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansOldPermic-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansOldPermic-Regular.ttf
             version: Version 2.000
     Noto Sans Old Persian:
     - subfamily: Regular
@@ -18983,12 +18983,12 @@ macos:
         from: macos
         original: Supplemental/NotoSansOldPersian-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansOldPersian-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansOldPersian-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansOldPersian-Regular.ttf
+            version: Version 2.000
     Noto Sans Old South Arabian:
     - subfamily: Regular
       file: NotoSansOldSouthArabian-Regular-v2_000.ttf
@@ -18998,12 +18998,12 @@ macos:
         from: macos
         original: Supplemental/NotoSansOldSouthArabian-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansOldSouthArabian-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansOldSouthArabian-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansOldSouthArabian-Regular.ttf
+            version: Version 2.000
     Noto Sans Old Turkic:
     - subfamily: Regular
       file: NotoSansOldTurkic-Regular-v2_000.ttf
@@ -19013,13 +19013,13 @@ macos:
         from: macos
         original: Supplemental/NotoSansOldTurkic-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansOldTurkic-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansOldTurkic-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               orkh -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansOldTurkic-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Osage:
     - subfamily: Regular
       file: NotoSansOsage-Regular-v2_000.ttf
@@ -19030,13 +19030,13 @@ macos:
         from: ubuntu
         original: Supplemental/NotoSansOsage-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansOsage-Regular.ttf
+            version: Version 2.000
           ubuntu:
             file: truetype/noto/NotoSansOsage-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               osge -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansOsage-Regular.ttf
-            version: Version 2.000
     Noto Sans Osmanya:
     - subfamily: Regular
       file: NotoSansOsmanya-Regular-v2_000.ttf
@@ -19046,27 +19046,27 @@ macos:
         from: macos
         original: Supplemental/NotoSansOsmanya-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansOsmanya-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansOsmanya-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               osma -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansOsmanya-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Pahawh Hmong:
     - subfamily: Regular
       file: NotoSansPahawhHmong-Regular-v2_000.ttf
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSansPahawhHmong-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansPahawhHmong-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansPahawhHmong-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansPahawhHmong-Regular.ttf
             version: Version 2.000
     Noto Sans Palmyrene:
     - subfamily: Regular
@@ -19074,14 +19074,14 @@ macos:
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSansPalmyrene-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansPalmyrene-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansPalmyrene-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansPalmyrene-Regular.ttf
             version: Version 2.000
     Noto Sans Pau Cin Hau:
     - subfamily: Regular
@@ -19089,14 +19089,14 @@ macos:
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSansPauCinHau-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansPauCinHau-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansPauCinHau-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansPauCinHau-Regular.ttf
             version: Version 2.000
     Noto Sans PhagsPa:
     - subfamily: Regular
@@ -19107,12 +19107,12 @@ macos:
         from: macos
         original: Supplemental/NotoSansPhagsPa-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansPhagsPa-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansPhagsPa-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansPhagsPa-Regular.ttf
+            version: Version 2.000
     Noto Sans Phoenician:
     - subfamily: Regular
       file: NotoSansPhoenician-Regular-v2_000.ttf
@@ -19122,12 +19122,12 @@ macos:
         from: macos
         original: Supplemental/NotoSansPhoenician-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansPhoenician-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansPhoenician-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansPhoenician-Regular.ttf
+            version: Version 2.000
     Noto Sans Psalter Pahlavi:
     - subfamily: Regular
       file: NotoSansPsalterPahlavi-Regular-v2_000.ttf
@@ -19138,13 +19138,13 @@ macos:
         from: ubuntu
         original: Supplemental/NotoSansPsalterPahlavi-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansPsalterPahlavi-Regular.ttf
+            version: Version 2.000
           ubuntu:
             file: truetype/noto/NotoSansPsalterPahlavi-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               latn -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansPsalterPahlavi-Regular.ttf
-            version: Version 2.000
     Noto Sans Rejang:
     - subfamily: Regular
       file: NotoSansRejang-Regular-v2_000.ttf
@@ -19154,12 +19154,12 @@ macos:
         from: macos
         original: Supplemental/NotoSansRejang-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansRejang-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansRejang-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansRejang-Regular.ttf
+            version: Version 2.000
     Noto Sans Samaritan:
     - subfamily: Regular
       file: NotoSansSamaritan-Regular-v2_000.ttf
@@ -19169,12 +19169,12 @@ macos:
         from: macos
         original: Supplemental/NotoSansSamaritan-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansSamaritan-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansSamaritan-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansSamaritan-Regular.ttf
+            version: Version 2.000
     Noto Sans Saurashtra:
     - subfamily: Regular
       file: NotoSansSaurashtra-Regular-v2_000.ttf
@@ -19184,13 +19184,13 @@ macos:
         from: macos
         original: Supplemental/NotoSansSaurashtra-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansSaurashtra-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansSaurashtra-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               saur -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansSaurashtra-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Sharada:
     - subfamily: Regular
       file: NotoSansSharada-Regular-v2_002.ttf
@@ -19200,26 +19200,26 @@ macos:
         from: ubuntu
         original: Supplemental/NotoSansSharada-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansSharada-Regular.ttf
-            version: Version 2.002
           macos:
             file: Supplemental/NotoSansSharada-Regular.ttf
             version: Version 2.001
+          ubuntu:
+            file: truetype/noto/NotoSansSharada-Regular.ttf
+            version: Version 2.002
     Noto Sans Siddham:
     - subfamily: Regular
-      file: NotoSansSiddham-Regular-v2_001.ttf
+      file: NotoSansSiddham-Regular-v2_001.otf
       version: Version 2.001
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSansSiddham-Regular.otf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansSiddham-Regular.ttf
-            version: Version 2.001
           macos:
             file: Supplemental/NotoSansSiddham-Regular.otf
+            version: Version 2.001
+          ubuntu:
+            file: truetype/noto/NotoSansSiddham-Regular.ttf
             version: Version 2.001
     Noto Sans Sora Sompeng:
     - subfamily: Regular
@@ -19230,12 +19230,12 @@ macos:
         from: ubuntu
         original: Supplemental/NotoSansSoraSompeng-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansSoraSompeng-Regular.ttf
-            version: Version 2.100
           macos:
             file: Supplemental/NotoSansSoraSompeng-Regular.ttf
             version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansSoraSompeng-Regular.ttf
+            version: Version 2.100
     Noto Sans Sundanese:
     - subfamily: Regular
       file: NotoSansSundanese-Regular-v2_000.ttf
@@ -19245,13 +19245,13 @@ macos:
         from: macos
         original: Supplemental/NotoSansSundanese-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansSundanese-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansSundanese-Regular.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               sund -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansSundanese-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Syloti Nagri:
     - subfamily: Regular
       file: NotoSansSylotiNagri-Regular-v2_001.ttf
@@ -19262,13 +19262,13 @@ macos:
         from: ubuntu
         original: Supplemental/NotoSansSylotiNagri-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansSylotiNagri-Regular.ttf
+            version: Version 2.001
           ubuntu:
             file: truetype/noto/NotoSansSylotiNagri-Regular.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               latn -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansSylotiNagri-Regular.ttf
-            version: Version 2.001
     Noto Sans Syriac:
     - subfamily: Regular
       file: NotoSansSyriac-Regular-v3_000.ttf
@@ -19278,13 +19278,13 @@ macos:
         from: macos
         original: Supplemental/NotoSansSyriac-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansSyriac-Regular.ttf
+            version: Version 3.000
           ubuntu:
             file: truetype/noto/NotoSansSyriac-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               latn -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansSyriac-Regular.ttf
-            version: Version 3.000
     Noto Sans Tagalog:
     - subfamily: Regular
       file: NotoSansTagalog-Regular-v2_002.ttf
@@ -19294,12 +19294,12 @@ macos:
         from: macos
         original: Supplemental/NotoSansTagalog-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansTagalog-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansTagalog-Regular.ttf
             version: Version 2.002
+          ubuntu:
+            file: truetype/noto/NotoSansTagalog-Regular.ttf
+            version: Version 2.000
     Noto Sans Tagbanwa:
     - subfamily: Regular
       file: NotoSansTagbanwa-Regular-v2_000.ttf
@@ -19309,12 +19309,12 @@ macos:
         from: macos
         original: Supplemental/NotoSansTagbanwa-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansTagbanwa-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansTagbanwa-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansTagbanwa-Regular.ttf
+            version: Version 2.000
     Noto Sans Tai Le:
     - subfamily: Regular
       file: NotoSansTaiLe-Regular-v2_000.ttf
@@ -19324,13 +19324,13 @@ macos:
         from: macos
         original: Supplemental/NotoSansTaiLe-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansTaiLe-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansTaiLe-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               latn -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansTaiLe-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Tai Tham:
     - subfamily: Regular
       file: NotoSansTaiTham-Regular-v2_001.ttf
@@ -19340,12 +19340,12 @@ macos:
         from: ubuntu
         original: Supplemental/NotoSansTaiTham-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansTaiTham-Regular.ttf
-            version: Version 2.001
           macos:
             file: Supplemental/NotoSansTaiTham-Regular.ttf
             version: Version 1.04 uh
+          ubuntu:
+            file: truetype/noto/NotoSansTaiTham-Regular.ttf
+            version: Version 2.001
     Noto Sans Tai Viet:
     - subfamily: Regular
       file: NotoSansTaiViet-Regular-v2_000.ttf
@@ -19355,13 +19355,13 @@ macos:
         from: macos
         original: Supplemental/NotoSansTaiViet-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansTaiViet-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansTaiViet-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               tavt -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansTaiViet-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Takri:
     - subfamily: Regular
       file: NotoSansTakri-Regular-v2_002.ttf
@@ -19371,26 +19371,26 @@ macos:
         from: ubuntu
         original: Supplemental/NotoSansTakri-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansTakri-Regular.ttf
-            version: Version 2.002
           macos:
             file: Supplemental/NotoSansTakri-Regular.ttf
             version: Version 2.001
+          ubuntu:
+            file: truetype/noto/NotoSansTakri-Regular.ttf
+            version: Version 2.002
     Noto Sans Thaana:
     - subfamily: Regular
       file: NotoSansThaana-Regular-v2_000.ttf
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSansThaana-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansThaana-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansThaana-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansThaana-Regular.ttf
             version: Version 2.000
     Noto Sans Tifinagh:
     - subfamily: Regular
@@ -19402,13 +19402,13 @@ macos:
         from: ubuntu
         original: Supplemental/NotoSansTifinagh-Regular.otf
         clashed:
+          macos:
+            file: Supplemental/NotoSansTifinagh-Regular.otf
+            version: Version 2.006
           ubuntu:
             file: truetype/noto/NotoSansTifinagh-Regular.ttf
             version: Version 2.002; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               tfng -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansTifinagh-Regular.otf
-            version: Version 2.006
     Noto Sans Tirhuta:
     - subfamily: Regular
       file: NotoSansTirhuta-Regular-v2_001.ttf
@@ -19419,13 +19419,13 @@ macos:
         from: ubuntu
         original: Supplemental/NotoSansTirhuta-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansTirhuta-Regular.ttf
+            version: Version 2.001
           ubuntu:
             file: truetype/noto/NotoSansTirhuta-Regular.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               latn -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansTirhuta-Regular.ttf
-            version: Version 2.001
     Noto Sans Ugaritic:
     - subfamily: Regular
       file: NotoSansUgaritic-Regular-v2_000.ttf
@@ -19435,12 +19435,12 @@ macos:
         from: macos
         original: Supplemental/NotoSansUgaritic-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansUgaritic-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansUgaritic-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansUgaritic-Regular.ttf
+            version: Version 2.000
     Noto Sans Vai:
     - subfamily: Regular
       file: NotoSansVai-Regular-v2_000.ttf
@@ -19450,27 +19450,27 @@ macos:
         from: macos
         original: Supplemental/NotoSansVai-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansVai-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansVai-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               vaii -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansVai-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Wancho:
     - subfamily: Regular
       file: NotoSansWancho-Regular-v2_000.ttf
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSansWancho-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansWancho-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansWancho-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansWancho-Regular.ttf
             version: Version 2.000
     Noto Sans Warang Citi:
     - subfamily: Regular
@@ -19478,14 +19478,14 @@ macos:
       version: Version 3.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSansWarangCiti-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansWarangCiti-Regular.ttf
-            version: Version 3.000
           macos:
             file: Supplemental/NotoSansWarangCiti-Regular.ttf
+            version: Version 3.000
+          ubuntu:
+            file: truetype/noto/NotoSansWarangCiti-Regular.ttf
             version: Version 3.000
     Noto Sans Yi:
     - subfamily: Regular
@@ -19496,12 +19496,12 @@ macos:
         from: macos
         original: Supplemental/NotoSansYi-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansYi-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansYi-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansYi-Regular.ttf
+            version: Version 2.000
     Noto Sans Zawgyi:
     - subfamily: Black
       file: NotoSansMyanmar_NotoSansZawgyi-v17_0d1e2.ttc
@@ -19572,14 +19572,14 @@ macos:
       version: Version 2.003
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSerifAhom-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSerifAhom-Regular.ttf
-            version: Version 2.003
           macos:
             file: Supplemental/NotoSerifAhom-Regular.ttf
+            version: Version 2.003
+          ubuntu:
+            file: truetype/noto/NotoSerifAhom-Regular.ttf
             version: Version 2.003
     Noto Serif Balinese:
     - subfamily: Regular
@@ -19590,26 +19590,26 @@ macos:
         from: macos
         original: Supplemental/NotoSerifBalinese-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSerifBalinese-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSerifBalinese-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSerifBalinese-Regular.ttf
+            version: Version 2.000
     Noto Serif Hmong Nyiakeng:
     - subfamily: Regular
       file: NotoSerifHmongNyiakeng-Regular-v1_000.ttf
       version: Version 1.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSerifNyiakengPuachueHmong-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSerifNyiakengPuachueHmong-Regular.ttf
-            version: Version 1.000
           macos:
             file: Supplemental/NotoSerifNyiakengPuachueHmong-Regular.ttf
+            version: Version 1.000
+          ubuntu:
+            file: truetype/noto/NotoSerifNyiakengPuachueHmong-Regular.ttf
             version: Version 1.000
     Noto Serif Myanmar:
     - subfamily: Black
@@ -19627,13 +19627,13 @@ macos:
         from: macos
         original: Fonts/NotoSerifMyanmar.ttc
         clashed:
+          macos:
+            file: Fonts/NotoSerifMyanmar.ttc
+            version: 14.0d1e5
           ubuntu:
             file: truetype/noto/NotoSerifMyanmar-Bold.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               mymr -f none -a qsq -X ""
-          macos:
-            file: Fonts/NotoSerifMyanmar.ttc
-            version: 14.0d1e5
     - subfamily: ExtraBold
       file: NotoSerifMyanmar-Black-v14_0d1e5.ttc
       version: 14.0d1e5
@@ -19670,13 +19670,13 @@ macos:
         from: macos
         original: Fonts/NotoSerifMyanmar.ttc
         clashed:
+          macos:
+            file: Fonts/NotoSerifMyanmar.ttc
+            version: 14.0d1e5
           ubuntu:
             file: truetype/noto/NotoSerifMyanmar-Regular.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               mymr -f none -a qsq -X ""
-          macos:
-            file: Fonts/NotoSerifMyanmar.ttc
-            version: 14.0d1e5
     - subfamily: SemiBold
       file: NotoSerifMyanmar-Black-v14_0d1e5.ttc
       version: 14.0d1e5
@@ -19693,18 +19693,18 @@ macos:
         original: Fonts/NotoSerifMyanmar.ttc
     Noto Serif Yezidi:
     - subfamily: Regular
-      file: NotoSerifYezidi-Regular-v1_000.ttf
+      file: NotoSerifYezidi-Regular-v1_000.otf
       version: Version 1.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: Supplemental/NotoSerifYezidi-Regular.otf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSerifYezidi-Regular.ttf
-            version: Version 1.000
           macos:
             file: Supplemental/NotoSerifYezidi-Regular.otf
+            version: Version 1.000
+          ubuntu:
+            file: truetype/noto/NotoSerifYezidi-Regular.ttf
             version: Version 1.000
     Optima:
     - subfamily: Cursiva
@@ -22639,13 +22639,13 @@ ubuntu:
         from: ubuntu
         original: truetype/noto/NotoSansAdlam-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansAdlam-Regular.ttf
+            version: Version 3.000
           ubuntu:
             file: truetype/noto/NotoSansAdlam-Regular.ttf
             version: Version 3.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               adlm -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansAdlam-Regular.ttf
-            version: Version 3.000
     Noto Sans Adlam Unjoined:
     - subfamily: Bold
       file: NotoSansAdlamUnjoined-Bold-v3_000.ttf
@@ -22697,13 +22697,13 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansArmenian-Bold.ttf
         clashed:
+          macos:
+            file: Fonts/NotoSansArmenian.ttc
+            version: 15.0d1e2
           ubuntu:
             file: truetype/noto/NotoSansArmenian-Bold.ttf
             version: Version 2.005; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               armn -f none -a qsq -X ""
-          macos:
-            file: Fonts/NotoSansArmenian.ttc
-            version: 15.0d1e2
     - subfamily: Regular
       file: NotoSansArmenian-Black-v15_0d1e2.ttc
       version: 15.0d1e2
@@ -22712,13 +22712,13 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansArmenian-Regular.ttf
         clashed:
+          macos:
+            file: Fonts/NotoSansArmenian.ttc
+            version: 15.0d1e2
           ubuntu:
             file: truetype/noto/NotoSansArmenian-Regular.ttf
             version: Version 2.005; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               armn -f none -a qsq -X ""
-          macos:
-            file: Fonts/NotoSansArmenian.ttc
-            version: 15.0d1e2
     Noto Sans Avestan:
     - subfamily: Regular
       file: NotoSansAvestan-Regular-v2_000.ttf
@@ -22728,13 +22728,13 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansAvestan-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansAvestan-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansAvestan-Regular.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               avst -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansAvestan-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Balinese:
     - subfamily: Bold
       file: NotoSansBalinese-Bold-v2_002.ttf
@@ -22767,27 +22767,27 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansBamum-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansBamum-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansBamum-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               bamu -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansBamum-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Bassa Vah:
     - subfamily: Regular
       file: NotoSansBassaVah-Regular-v2_000.ttf
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSansBassaVah-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansBassaVah-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansBassaVah-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansBassaVah-Regular.ttf
             version: Version 2.000
     Noto Sans Batak:
     - subfamily: Regular
@@ -22798,12 +22798,12 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansBatak-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansBatak-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansBatak-Regular.ttf
             version: Version 2.002
+          ubuntu:
+            file: truetype/noto/NotoSansBatak-Regular.ttf
+            version: Version 2.000
     Noto Sans Bengali:
     - subfamily: Bold
       file: NotoSansBengali-Bold-v2_001.ttf
@@ -22830,12 +22830,12 @@ ubuntu:
         from: ubuntu
         original: truetype/noto/NotoSansBhaiksuki-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansBhaiksuki-Regular.ttf
-            version: Version 2.001
           macos:
             file: Supplemental/NotoSansBhaiksuki-Regular.ttf
             version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansBhaiksuki-Regular.ttf
+            version: Version 2.001
     Noto Sans Brahmi:
     - subfamily: Regular
       file: NotoSansBrahmi-Regular-v2_000.ttf
@@ -22845,12 +22845,12 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansBrahmi-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansBrahmi-Regular.ttf
-            version: Version 2.001
           macos:
             file: Supplemental/NotoSansBrahmi-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansBrahmi-Regular.ttf
+            version: Version 2.001
     Noto Sans Buginese:
     - subfamily: Regular
       file: NotoSansBuginese-Regular-v2_000.ttf
@@ -22860,12 +22860,12 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansBuginese-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansBuginese-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansBuginese-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansBuginese-Regular.ttf
+            version: Version 2.000
     Noto Sans Buhid:
     - subfamily: Regular
       file: NotoSansBuhid-Regular-v2_000.ttf
@@ -22875,13 +22875,13 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansBuhid-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansBuhid-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansBuhid-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               buhd -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansBuhid-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans CJK HK:
     - subfamily: Bold
       file: NotoSans-x10-v2_004.ttc
@@ -22975,13 +22975,13 @@ ubuntu:
         from: ubuntu
         original: truetype/noto/NotoSansCanadianAboriginal-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansCanadianAboriginal-Regular.otf
+            version: Version 2.001
           ubuntu:
             file: truetype/noto/NotoSansCanadianAboriginal-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               cans -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansCanadianAboriginal-Regular.otf
-            version: Version 2.001
     Noto Sans Carian:
     - subfamily: Regular
       file: NotoSansCarian-Regular-v2_000.ttf
@@ -22991,27 +22991,27 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansCarian-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansCarian-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansCarian-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               cari -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansCarian-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Caucasian Albanian:
     - subfamily: Regular
       file: NotoSansCaucasianAlbanian-Regular-v2_001.ttf
       version: Version 2.001
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSansCaucasianAlbanian-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansCaucasianAlbanian-Regular.ttf
-            version: Version 2.001
           macos:
             file: Supplemental/NotoSansCaucasianAlbanian-Regular.ttf
+            version: Version 2.001
+          ubuntu:
+            file: truetype/noto/NotoSansCaucasianAlbanian-Regular.ttf
             version: Version 2.001
     Noto Sans Chakma:
     - subfamily: Regular
@@ -23022,13 +23022,13 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansChakma-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansChakma-Regular.ttf
+            version: Version 2.001;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansChakma-Regular.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               cakm -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansChakma-Regular.ttf
-            version: Version 2.001;GOOG;noto-source:20181019:f8f3770
     Noto Sans Cham:
     - subfamily: Bold
       file: NotoSansCham-Bold-v2_000.ttf
@@ -23045,12 +23045,12 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansCham-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansCham-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansCham-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansCham-Regular.ttf
+            version: Version 2.000
     Noto Sans Cherokee:
     - subfamily: Bold
       file: NotoSansCherokee-Bold-v2_000.ttf
@@ -23077,13 +23077,13 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansCoptic-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansCoptic-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansCoptic-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               copt -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansCoptic-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Cuneiform:
     - subfamily: Regular
       file: NotoSansCuneiform-Regular-v2_000.ttf
@@ -23093,12 +23093,12 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansCuneiform-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansCuneiform-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansCuneiform-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansCuneiform-Regular.ttf
+            version: Version 2.000
     Noto Sans Cypriot:
     - subfamily: Regular
       file: NotoSansCypriot-Regular-v2_000.ttf
@@ -23108,13 +23108,13 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansCypriot-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansCypriot-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansCypriot-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               cprt -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansCypriot-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Deseret:
     - subfamily: Regular
       file: NotoSansDeseret-Regular-v2_000.ttf
@@ -23180,14 +23180,14 @@ ubuntu:
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSansDuployan-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansDuployan-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansDuployan-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansDuployan-Regular.ttf
             version: Version 2.000
     Noto Sans Egyptian Hieroglyphs:
     - subfamily: Regular
@@ -23198,12 +23198,12 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansEgyptianHieroglyphs-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansEgyptianHieroglyphs-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansEgyptianHieroglyphs-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansEgyptianHieroglyphs-Regular.ttf
+            version: Version 2.000
     Noto Sans Elbasan:
     - subfamily: Regular
       file: NotoSansElbasan-Regular-v2_000.ttf
@@ -23214,13 +23214,13 @@ ubuntu:
         from: ubuntu
         original: truetype/noto/NotoSansElbasan-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansElbasan-Regular.ttf
+            version: Version 2.000
           ubuntu:
             file: truetype/noto/NotoSansElbasan-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               latn -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansElbasan-Regular.ttf
-            version: Version 2.000
     Noto Sans Elymaic:
     - subfamily: Regular
       file: NotoSansElymaic-Regular-v1_000.ttf
@@ -23272,13 +23272,13 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansGlagolitic-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansGlagolitic-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansGlagolitic-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               glag -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansGlagolitic-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Gothic:
     - subfamily: Regular
       file: NotoSansGothic-Regular-v2_000.ttf
@@ -23288,13 +23288,13 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansGothic-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansGothic-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansGothic-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               goth -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansGothic-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Grantha:
     - subfamily: Regular
       file: NotoSansGrantha-Regular-v2_001.ttf
@@ -23323,18 +23323,18 @@ ubuntu:
         original: truetype/noto/NotoSansGujarati-Regular.ttf
     Noto Sans Gunjala Gondi:
     - subfamily: Regular
-      file: NotoSansGunjalaGondi-Regular-v1_002.ttf
+      file: NotoSansGunjalaGondi-Regular-v1_002.otf
       version: Version 1.002
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSansGunjalaGondi-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansGunjalaGondi-Regular.ttf
-            version: Version 1.002
           macos:
             file: Supplemental/NotoSansGunjalaGondi-Regular.otf
+            version: Version 1.002
+          ubuntu:
+            file: truetype/noto/NotoSansGunjalaGondi-Regular.ttf
             version: Version 1.002
     Noto Sans Gurmukhi:
     - subfamily: Bold
@@ -23371,13 +23371,13 @@ ubuntu:
         from: ubuntu
         original: truetype/noto/NotoSansHanifiRohingya-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansHanifiRohingya-Regular.ttf
+            version: Version 2.002
           ubuntu:
             file: truetype/noto/NotoSansHanifiRohingya-Regular.ttf
             version: Version 2.100; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               latn -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansHanifiRohingya-Regular.ttf
-            version: Version 2.002
     Noto Sans Hanunoo:
     - subfamily: Regular
       file: NotoSansHanunoo-Regular-v2_000.ttf
@@ -23387,26 +23387,26 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansHanunoo-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansHanunoo-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansHanunoo-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansHanunoo-Regular.ttf
+            version: Version 2.000
     Noto Sans Hatran:
     - subfamily: Regular
       file: NotoSansHatran-Regular-v2_000.ttf
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSansHatran-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansHatran-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansHatran-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansHatran-Regular.ttf
             version: Version 2.000
     Noto Sans Hebrew:
     - subfamily: Bold
@@ -23434,12 +23434,12 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansImperialAramaic-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansImperialAramaic-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansImperialAramaic-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansImperialAramaic-Regular.ttf
+            version: Version 2.000
     Noto Sans Indic Siyaq Numbers:
     - subfamily: Regular
       file: NotoSansIndicSiyaqNumbers-Regular-v2_000.ttf
@@ -23458,12 +23458,12 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansInscriptionalPahlavi-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansInscriptionalPahlavi-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansInscriptionalPahlavi-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansInscriptionalPahlavi-Regular.ttf
+            version: Version 2.000
     Noto Sans Inscriptional Parthian:
     - subfamily: Regular
       file: NotoSansInscriptionalParthian-Regular-v2_000.ttf
@@ -23473,12 +23473,12 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansInscriptionalParthian-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansInscriptionalParthian-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansInscriptionalParthian-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansInscriptionalParthian-Regular.ttf
+            version: Version 2.000
     Noto Sans Javanese:
     - subfamily: Bold
       file: NotoSansJavanese-Bold-v2_000.ttf
@@ -23488,18 +23488,18 @@ ubuntu:
         from: ubuntu
         original: truetype/noto/NotoSansJavanese-Bold.ttf
     - subfamily: Regular
-      file: NotoSansJavanese-Regular-v2_000.ttf
+      file: NotoSansJavanese-Regular-v2_000.otf
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSansJavanese-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansJavanese-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansJavanese-Regular.otf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansJavanese-Regular.ttf
             version: Version 2.000
     Noto Sans Kaithi:
     - subfamily: Regular
@@ -23510,13 +23510,13 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansKaithi-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansKaithi-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansKaithi-Regular.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               latn -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansKaithi-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Kannada:
     - subfamily: Bold
       file: NotoSansKannada-Bold-v2_001.ttf
@@ -23551,13 +23551,13 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansKayahLi-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansKayahLi-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansKayahLi-Regular.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               kali -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansKayahLi-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Kharoshthi:
     - subfamily: Regular
       file: NotoSansKharoshthi-Regular-v2_000.ttf
@@ -23567,12 +23567,12 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansKharoshthi-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansKharoshthi-Regular.ttf
-            version: Version 2.001
           macos:
             file: Supplemental/NotoSansKharoshthi-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansKharoshthi-Regular.ttf
+            version: Version 2.001
     Noto Sans Khmer:
     - subfamily: Bold
       file: NotoSansKhmer-Bold-v2_001.ttf
@@ -23600,27 +23600,27 @@ ubuntu:
         from: ubuntu
         original: truetype/noto/NotoSansKhojki-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansKhojki-Regular.ttf
+            version: Version 2.001
           ubuntu:
             file: truetype/noto/NotoSansKhojki-Regular.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               latn -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansKhojki-Regular.ttf
-            version: Version 2.001
     Noto Sans Khudawadi:
     - subfamily: Regular
       file: NotoSansKhudawadi-Regular-v2_000.ttf
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSansKhudawadi-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansKhudawadi-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansKhudawadi-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansKhudawadi-Regular.ttf
             version: Version 2.000
     Noto Sans Lao:
     - subfamily: Bold
@@ -23648,12 +23648,12 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansLepcha-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansLepcha-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansLepcha-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansLepcha-Regular.ttf
+            version: Version 2.000
     Noto Sans Limbu:
     - subfamily: Regular
       file: NotoSansLimbu-Regular-v2_000.ttf
@@ -23663,26 +23663,26 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansLimbu-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansLimbu-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansLimbu-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansLimbu-Regular.ttf
+            version: Version 2.000
     Noto Sans Linear A:
     - subfamily: Regular
       file: NotoSansLinearA-Regular-v2_000.ttf
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSansLinearA-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansLinearA-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansLinearA-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansLinearA-Regular.ttf
             version: Version 2.000
     Noto Sans Linear B:
     - subfamily: Regular
@@ -23693,12 +23693,12 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansLinearB-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansLinearB-Regular.ttf
-            version: Version 2.001
           macos:
             file: Supplemental/NotoSansLinearB-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansLinearB-Regular.ttf
+            version: Version 2.001
     Noto Sans Lisu:
     - subfamily: Bold
       file: NotoSansLisu-Bold-v2_100.ttf
@@ -23716,13 +23716,13 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansLisu-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansLisu-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansLisu-Regular.ttf
             version: Version 2.100; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               lisu -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansLisu-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Lycian:
     - subfamily: Regular
       file: NotoSansLycian-Regular-v2_000.ttf
@@ -23732,12 +23732,12 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansLycian-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansLycian-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansLycian-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansLycian-Regular.ttf
+            version: Version 2.000
     Noto Sans Lydian:
     - subfamily: Regular
       file: NotoSansLydian-Regular-v2_000.ttf
@@ -23747,12 +23747,12 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansLydian-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansLydian-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansLydian-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansLydian-Regular.ttf
+            version: Version 2.000
     Noto Sans Mahajani:
     - subfamily: Regular
       file: NotoSansMahajani-Regular-v2_000.ttf
@@ -23763,13 +23763,13 @@ ubuntu:
         from: ubuntu
         original: truetype/noto/NotoSansMahajani-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansMahajani-Regular.ttf
+            version: Version 2.000
           ubuntu:
             file: truetype/noto/NotoSansMahajani-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               latn -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansMahajani-Regular.ttf
-            version: Version 2.000
     Noto Sans Malayalam:
     - subfamily: Bold
       file: NotoSansMalayalam-Bold-v2_001.ttf
@@ -23796,13 +23796,13 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansMandaic-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansMandaic-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansMandaic-Regular.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               latn -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansMandaic-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Manichaean:
     - subfamily: Regular
       file: NotoSansManichaean-Regular-v2_000.ttf
@@ -23813,13 +23813,13 @@ ubuntu:
         from: ubuntu
         original: truetype/noto/NotoSansManichaean-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansManichaean-Regular.ttf
+            version: Version 2.000
           ubuntu:
             file: truetype/noto/NotoSansManichaean-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               latn -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansManichaean-Regular.ttf
-            version: Version 2.000
     Noto Sans Marchen:
     - subfamily: Regular
       file: NotoSansMarchen-Regular-v2_002.ttf
@@ -23829,26 +23829,26 @@ ubuntu:
         from: ubuntu
         original: truetype/noto/NotoSansMarchen-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansMarchen-Regular.ttf
-            version: Version 2.002
           macos:
             file: Supplemental/NotoSansMarchen-Regular.ttf
             version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansMarchen-Regular.ttf
+            version: Version 2.002
     Noto Sans Masaram Gondi:
     - subfamily: Regular
-      file: NotoSansMasaramGondi-Regular-v1_003.ttf
+      file: NotoSansMasaramGondi-Regular-v1_003.otf
       version: Version 1.003
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSansMasaramGondi-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansMasaramGondi-Regular.ttf
-            version: Version 1.003
           macos:
             file: Supplemental/NotoSansMasaramGondi-Regular.otf
+            version: Version 1.003
+          ubuntu:
+            file: truetype/noto/NotoSansMasaramGondi-Regular.ttf
             version: Version 1.003
     Noto Sans Math:
     - subfamily: Regular
@@ -23898,26 +23898,26 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansMeeteiMayek-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansMeeteiMayek-Regular.ttf
-            version: Version 2.001
           macos:
             file: Supplemental/NotoSansMeeteiMayek-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansMeeteiMayek-Regular.ttf
+            version: Version 2.001
     Noto Sans Mende Kikakui:
     - subfamily: Regular
       file: NotoSansMendeKikakui-Regular-v2_000.ttf
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSansMendeKikakui-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansMendeKikakui-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansMendeKikakui-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansMendeKikakui-Regular.ttf
             version: Version 2.000
     Noto Sans Meroitic:
     - subfamily: Regular
@@ -23925,14 +23925,14 @@ ubuntu:
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSansMeroitic-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansMeroitic-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansMeroitic-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansMeroitic-Regular.ttf
             version: Version 2.000
     Noto Sans Miao:
     - subfamily: Regular
@@ -23940,14 +23940,14 @@ ubuntu:
       version: Version 2.001
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSansMiao-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansMiao-Regular.ttf
-            version: Version 2.001
           macos:
             file: Supplemental/NotoSansMiao-Regular.ttf
+            version: Version 2.001
+          ubuntu:
+            file: truetype/noto/NotoSansMiao-Regular.ttf
             version: Version 2.001
     Noto Sans Modi:
     - subfamily: Regular
@@ -23955,14 +23955,14 @@ ubuntu:
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSansModi-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansModi-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansModi-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansModi-Regular.ttf
             version: Version 2.000
     Noto Sans Mongolian:
     - subfamily: Regular
@@ -23973,13 +23973,13 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansMongolian-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansMongolian-Regular.ttf
+            version: Version 3.002
           ubuntu:
             file: truetype/noto/NotoSansMongolian-Regular.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               mong -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansMongolian-Regular.ttf
-            version: Version 3.002
     Noto Sans Mono:
     - subfamily: Bold
       file: NotoSansMono-Bold-v2_006.ttf
@@ -24078,14 +24078,14 @@ ubuntu:
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSansMro-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansMro-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansMro-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansMro-Regular.ttf
             version: Version 2.000
     Noto Sans Multani:
     - subfamily: Regular
@@ -24097,13 +24097,13 @@ ubuntu:
         from: ubuntu
         original: truetype/noto/NotoSansMultani-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansMultani-Regular.ttf
+            version: Version 2.000
           ubuntu:
             file: truetype/noto/NotoSansMultani-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               latn -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansMultani-Regular.ttf
-            version: Version 2.000
     Noto Sans Myanmar:
     - subfamily: Bold
       file: NotoSansMyanmar_NotoSansZawgyi-v17_0d1e2.ttc
@@ -24113,13 +24113,13 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansMyanmar-Bold.ttf
         clashed:
+          macos:
+            file: Fonts/NotoSansMyanmar.ttc
+            version: 17.0d1e2
           ubuntu:
             file: truetype/noto/NotoSansMyanmar-Bold.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               mymr -f none -a qsq -X ""
-          macos:
-            file: Fonts/NotoSansMyanmar.ttc
-            version: 17.0d1e2
     - subfamily: Regular
       file: NotoSansMyanmar_NotoSansZawgyi-v17_0d1e2.ttc
       version: 17.0d1e2
@@ -24128,13 +24128,13 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansMyanmar-Regular.ttf
         clashed:
+          macos:
+            file: Fonts/NotoSansMyanmar.ttc
+            version: 17.0d1e2
           ubuntu:
             file: truetype/noto/NotoSansMyanmar-Regular.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               mymr -f none -a qsq -X ""
-          macos:
-            file: Fonts/NotoSansMyanmar.ttc
-            version: 17.0d1e2
     Noto Sans NKo:
     - subfamily: Regular
       file: NotoSansNKo-Regular-v2_001.ttf
@@ -24145,27 +24145,27 @@ ubuntu:
         from: ubuntu
         original: truetype/noto/NotoSansNKo-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansNKo-Regular.ttf
+            version: Version 2.004
           ubuntu:
             file: truetype/noto/NotoSansNKo-Regular.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               nkoo -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansNKo-Regular.ttf
-            version: Version 2.004
     Noto Sans Nabataean:
     - subfamily: Regular
       file: NotoSansNabataean-Regular-v2_000.ttf
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSansNabataean-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansNabataean-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansNabataean-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansNabataean-Regular.ttf
             version: Version 2.000
     Noto Sans New Tai Lue:
     - subfamily: Regular
@@ -24173,14 +24173,14 @@ ubuntu:
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSansNewTaiLue-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansNewTaiLue-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansNewTaiLue-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansNewTaiLue-Regular.ttf
             version: Version 2.000
     Noto Sans Newa:
     - subfamily: Regular
@@ -24191,12 +24191,12 @@ ubuntu:
         from: ubuntu
         original: truetype/noto/NotoSansNewa-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansNewa-Regular.ttf
-            version: Version 2.003
           macos:
             file: Supplemental/NotoSansNewa-Regular.ttf
             version: Version 2.002
+          ubuntu:
+            file: truetype/noto/NotoSansNewa-Regular.ttf
+            version: Version 2.003
     Noto Sans Nushu:
     - subfamily: Regular
       file: NotoSansNushu-Regular-v1_002.ttf
@@ -24230,13 +24230,13 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansOlChiki-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansOlChiki-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansOlChiki-Regular.ttf
             version: Version 2.002; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               olck -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansOlChiki-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Old Hungarian:
     - subfamily: Regular
       file: NotoSansOldHungarian-Regular-v2_002.ttf
@@ -24246,26 +24246,26 @@ ubuntu:
         from: ubuntu
         original: truetype/noto/NotoSansOldHungarian-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansOldHungarian-Regular.ttf
-            version: Version 2.002
           macos:
             file: Supplemental/NotoSansOldHungarian-Regular.ttf
             version: Version 2.001
+          ubuntu:
+            file: truetype/noto/NotoSansOldHungarian-Regular.ttf
+            version: Version 2.002
     Noto Sans Old Italic:
     - subfamily: Regular
       file: NotoSansOldItalic-Regular-v2_002.ttf
       version: Version 2.002
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSansOldItalic-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansOldItalic-Regular.ttf
-            version: Version 2.002
           macos:
             file: Supplemental/NotoSansOldItalic-Regular.ttf
+            version: Version 2.002
+          ubuntu:
+            file: truetype/noto/NotoSansOldItalic-Regular.ttf
             version: Version 2.002
     Noto Sans Old North Arabian:
     - subfamily: Regular
@@ -24273,14 +24273,14 @@ ubuntu:
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSansOldNorthArabian-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansOldNorthArabian-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansOldNorthArabian-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansOldNorthArabian-Regular.ttf
             version: Version 2.000
     Noto Sans Old Permic:
     - subfamily: Regular
@@ -24288,14 +24288,14 @@ ubuntu:
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSansOldPermic-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansOldPermic-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansOldPermic-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansOldPermic-Regular.ttf
             version: Version 2.000
     Noto Sans Old Persian:
     - subfamily: Regular
@@ -24306,12 +24306,12 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansOldPersian-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansOldPersian-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansOldPersian-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansOldPersian-Regular.ttf
+            version: Version 2.000
     Noto Sans Old Sogdian:
     - subfamily: Regular
       file: NotoSansOldSogdian-Regular-v2_000.ttf
@@ -24329,12 +24329,12 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansOldSouthArabian-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansOldSouthArabian-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansOldSouthArabian-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansOldSouthArabian-Regular.ttf
+            version: Version 2.000
     Noto Sans Old Turkic:
     - subfamily: Regular
       file: NotoSansOldTurkic-Regular-v2_000.ttf
@@ -24344,13 +24344,13 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansOldTurkic-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansOldTurkic-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansOldTurkic-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               orkh -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansOldTurkic-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Oriya:
     - subfamily: Bold
       file: NotoSansOriya-Bold-v2_000.ttf
@@ -24376,13 +24376,13 @@ ubuntu:
         from: ubuntu
         original: truetype/noto/NotoSansOsage-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansOsage-Regular.ttf
+            version: Version 2.000
           ubuntu:
             file: truetype/noto/NotoSansOsage-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               osge -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansOsage-Regular.ttf
-            version: Version 2.000
     Noto Sans Osmanya:
     - subfamily: Regular
       file: NotoSansOsmanya-Regular-v2_000.ttf
@@ -24392,27 +24392,27 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansOsmanya-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansOsmanya-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansOsmanya-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               osma -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansOsmanya-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Pahawh Hmong:
     - subfamily: Regular
       file: NotoSansPahawhHmong-Regular-v2_000.ttf
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSansPahawhHmong-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansPahawhHmong-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansPahawhHmong-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansPahawhHmong-Regular.ttf
             version: Version 2.000
     Noto Sans Palmyrene:
     - subfamily: Regular
@@ -24420,14 +24420,14 @@ ubuntu:
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSansPalmyrene-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansPalmyrene-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansPalmyrene-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansPalmyrene-Regular.ttf
             version: Version 2.000
     Noto Sans Pau Cin Hau:
     - subfamily: Regular
@@ -24435,14 +24435,14 @@ ubuntu:
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSansPauCinHau-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansPauCinHau-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansPauCinHau-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansPauCinHau-Regular.ttf
             version: Version 2.000
     Noto Sans PhagsPa:
     - subfamily: Regular
@@ -24453,12 +24453,12 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansPhagsPa-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansPhagsPa-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansPhagsPa-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansPhagsPa-Regular.ttf
+            version: Version 2.000
     Noto Sans Phoenician:
     - subfamily: Regular
       file: NotoSansPhoenician-Regular-v2_000.ttf
@@ -24468,12 +24468,12 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansPhoenician-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansPhoenician-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansPhoenician-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansPhoenician-Regular.ttf
+            version: Version 2.000
     Noto Sans Psalter Pahlavi:
     - subfamily: Regular
       file: NotoSansPsalterPahlavi-Regular-v2_000.ttf
@@ -24484,13 +24484,13 @@ ubuntu:
         from: ubuntu
         original: truetype/noto/NotoSansPsalterPahlavi-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansPsalterPahlavi-Regular.ttf
+            version: Version 2.000
           ubuntu:
             file: truetype/noto/NotoSansPsalterPahlavi-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               latn -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansPsalterPahlavi-Regular.ttf
-            version: Version 2.000
     Noto Sans Rejang:
     - subfamily: Regular
       file: NotoSansRejang-Regular-v2_000.ttf
@@ -24500,12 +24500,12 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansRejang-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansRejang-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansRejang-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansRejang-Regular.ttf
+            version: Version 2.000
     Noto Sans Runic:
     - subfamily: Regular
       file: NotoSansRunic-Regular-v2_000.ttf
@@ -24523,12 +24523,12 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansSamaritan-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansSamaritan-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansSamaritan-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansSamaritan-Regular.ttf
+            version: Version 2.000
     Noto Sans Saurashtra:
     - subfamily: Regular
       file: NotoSansSaurashtra-Regular-v2_000.ttf
@@ -24538,13 +24538,13 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansSaurashtra-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansSaurashtra-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansSaurashtra-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               saur -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansSaurashtra-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Sharada:
     - subfamily: Regular
       file: NotoSansSharada-Regular-v2_002.ttf
@@ -24554,12 +24554,12 @@ ubuntu:
         from: ubuntu
         original: truetype/noto/NotoSansSharada-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansSharada-Regular.ttf
-            version: Version 2.002
           macos:
             file: Supplemental/NotoSansSharada-Regular.ttf
             version: Version 2.001
+          ubuntu:
+            file: truetype/noto/NotoSansSharada-Regular.ttf
+            version: Version 2.002
     Noto Sans Shavian:
     - subfamily: Regular
       file: NotoSansShavian-Regular-v2_000.ttf
@@ -24571,18 +24571,18 @@ ubuntu:
         original: truetype/noto/NotoSansShavian-Regular.ttf
     Noto Sans Siddham:
     - subfamily: Regular
-      file: NotoSansSiddham-Regular-v2_001.ttf
+      file: NotoSansSiddham-Regular-v2_001.otf
       version: Version 2.001
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSansSiddham-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansSiddham-Regular.ttf
-            version: Version 2.001
           macos:
             file: Supplemental/NotoSansSiddham-Regular.otf
+            version: Version 2.001
+          ubuntu:
+            file: truetype/noto/NotoSansSiddham-Regular.ttf
             version: Version 2.001
     Noto Sans SignWriting:
     - subfamily: Regular
@@ -24634,12 +24634,12 @@ ubuntu:
         from: ubuntu
         original: truetype/noto/NotoSansSoraSompeng-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansSoraSompeng-Regular.ttf
-            version: Version 2.100
           macos:
             file: Supplemental/NotoSansSoraSompeng-Regular.ttf
             version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansSoraSompeng-Regular.ttf
+            version: Version 2.100
     Noto Sans Soyombo:
     - subfamily: Regular
       file: NotoSansSoyombo-Regular-v2_000.ttf
@@ -24665,13 +24665,13 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansSundanese-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansSundanese-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansSundanese-Regular.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               sund -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansSundanese-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Syloti Nagri:
     - subfamily: Regular
       file: NotoSansSylotiNagri-Regular-v2_001.ttf
@@ -24682,13 +24682,13 @@ ubuntu:
         from: ubuntu
         original: truetype/noto/NotoSansSylotiNagri-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansSylotiNagri-Regular.ttf
+            version: Version 2.001
           ubuntu:
             file: truetype/noto/NotoSansSylotiNagri-Regular.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               latn -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansSylotiNagri-Regular.ttf
-            version: Version 2.001
     Noto Sans Symbols:
     - subfamily: Bold
       file: NotoSansSymbols-Bold-v2_001.ttf
@@ -24723,13 +24723,13 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansSyriac-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansSyriac-Regular.ttf
+            version: Version 3.000
           ubuntu:
             file: truetype/noto/NotoSansSyriac-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               latn -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansSyriac-Regular.ttf
-            version: Version 3.000
     Noto Sans Tagalog:
     - subfamily: Regular
       file: NotoSansTagalog-Regular-v2_002.ttf
@@ -24739,12 +24739,12 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansTagalog-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansTagalog-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansTagalog-Regular.ttf
             version: Version 2.002
+          ubuntu:
+            file: truetype/noto/NotoSansTagalog-Regular.ttf
+            version: Version 2.000
     Noto Sans Tagbanwa:
     - subfamily: Regular
       file: NotoSansTagbanwa-Regular-v2_000.ttf
@@ -24754,12 +24754,12 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansTagbanwa-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansTagbanwa-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansTagbanwa-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansTagbanwa-Regular.ttf
+            version: Version 2.000
     Noto Sans Tai Le:
     - subfamily: Regular
       file: NotoSansTaiLe-Regular-v2_000.ttf
@@ -24769,13 +24769,13 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansTaiLe-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansTaiLe-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansTaiLe-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               latn -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansTaiLe-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Tai Tham:
     - subfamily: Bold
       file: NotoSansTaiTham-Bold-v2_001.ttf
@@ -24792,12 +24792,12 @@ ubuntu:
         from: ubuntu
         original: truetype/noto/NotoSansTaiTham-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansTaiTham-Regular.ttf
-            version: Version 2.001
           macos:
             file: Supplemental/NotoSansTaiTham-Regular.ttf
             version: Version 1.04 uh
+          ubuntu:
+            file: truetype/noto/NotoSansTaiTham-Regular.ttf
+            version: Version 2.001
     Noto Sans Tai Viet:
     - subfamily: Regular
       file: NotoSansTaiViet-Regular-v2_000.ttf
@@ -24807,13 +24807,13 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansTaiViet-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansTaiViet-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansTaiViet-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               tavt -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansTaiViet-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Takri:
     - subfamily: Regular
       file: NotoSansTakri-Regular-v2_002.ttf
@@ -24823,12 +24823,12 @@ ubuntu:
         from: ubuntu
         original: truetype/noto/NotoSansTakri-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansTakri-Regular.ttf
-            version: Version 2.002
           macos:
             file: Supplemental/NotoSansTakri-Regular.ttf
             version: Version 2.001
+          ubuntu:
+            file: truetype/noto/NotoSansTakri-Regular.ttf
+            version: Version 2.002
     Noto Sans Tamil:
     - subfamily: Bold
       file: NotoSansTamil-Bold-v2_001.ttf
@@ -24884,14 +24884,14 @@ ubuntu:
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSansThaana-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansThaana-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansThaana-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansThaana-Regular.ttf
             version: Version 2.000
     Noto Sans Thai:
     - subfamily: Bold
@@ -24920,13 +24920,13 @@ ubuntu:
         from: ubuntu
         original: truetype/noto/NotoSansTifinagh-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansTifinagh-Regular.otf
+            version: Version 2.006
           ubuntu:
             file: truetype/noto/NotoSansTifinagh-Regular.ttf
             version: Version 2.002; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               tfng -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansTifinagh-Regular.otf
-            version: Version 2.006
     Noto Sans Tifinagh APT:
     - subfamily: Regular
       file: NotoSansTifinaghAPT-Regular-v2_002.ttf
@@ -25036,13 +25036,13 @@ ubuntu:
         from: ubuntu
         original: truetype/noto/NotoSansTirhuta-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansTirhuta-Regular.ttf
+            version: Version 2.001
           ubuntu:
             file: truetype/noto/NotoSansTirhuta-Regular.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               latn -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansTirhuta-Regular.ttf
-            version: Version 2.001
     Noto Sans Ugaritic:
     - subfamily: Regular
       file: NotoSansUgaritic-Regular-v2_000.ttf
@@ -25052,12 +25052,12 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansUgaritic-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansUgaritic-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansUgaritic-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansUgaritic-Regular.ttf
+            version: Version 2.000
     Noto Sans Vai:
     - subfamily: Regular
       file: NotoSansVai-Regular-v2_000.ttf
@@ -25067,27 +25067,27 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansVai-Regular.ttf
         clashed:
+          macos:
+            file: Supplemental/NotoSansVai-Regular.ttf
+            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
           ubuntu:
             file: truetype/noto/NotoSansVai-Regular.ttf
             version: Version 2.000; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               vaii -f none -a qsq -X ""
-          macos:
-            file: Supplemental/NotoSansVai-Regular.ttf
-            version: Version 2.000;GOOG;noto-source:20181019:f8f3770
     Noto Sans Wancho:
     - subfamily: Regular
       file: NotoSansWancho-Regular-v2_000.ttf
       version: Version 2.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSansWancho-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansWancho-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansWancho-Regular.ttf
+            version: Version 2.000
+          ubuntu:
+            file: truetype/noto/NotoSansWancho-Regular.ttf
             version: Version 2.000
     Noto Sans Warang Citi:
     - subfamily: Regular
@@ -25095,14 +25095,14 @@ ubuntu:
       version: Version 3.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSansWarangCiti-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansWarangCiti-Regular.ttf
-            version: Version 3.000
           macos:
             file: Supplemental/NotoSansWarangCiti-Regular.ttf
+            version: Version 3.000
+          ubuntu:
+            file: truetype/noto/NotoSansWarangCiti-Regular.ttf
             version: Version 3.000
     Noto Sans Yi:
     - subfamily: Regular
@@ -25113,12 +25113,12 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSansYi-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSansYi-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSansYi-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSansYi-Regular.ttf
+            version: Version 2.000
     Noto Sans Zanabazar Square:
     - subfamily: Regular
       file: NotoSansZanabazarSquare-Regular-v2_001.ttf
@@ -25166,14 +25166,14 @@ ubuntu:
       version: Version 2.003
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSerifAhom-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSerifAhom-Regular.ttf
-            version: Version 2.003
           macos:
             file: Supplemental/NotoSerifAhom-Regular.ttf
+            version: Version 2.003
+          ubuntu:
+            file: truetype/noto/NotoSerifAhom-Regular.ttf
             version: Version 2.003
     Noto Serif Armenian:
     - subfamily: Bold
@@ -25201,12 +25201,12 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSerifBalinese-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSerifBalinese-Regular.ttf
-            version: Version 2.000
           macos:
             file: Supplemental/NotoSerifBalinese-Regular.ttf
             version: Version 2.000;GOOG;noto-source:20181019:f8f3770
+          ubuntu:
+            file: truetype/noto/NotoSerifBalinese-Regular.ttf
+            version: Version 2.000
     Noto Serif Bengali:
     - subfamily: Bold
       file: NotoSerifBengali-Bold-v2_001.ttf
@@ -25464,14 +25464,14 @@ ubuntu:
       version: Version 1.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSerifNyiakengPuachueHmong-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSerifNyiakengPuachueHmong-Regular.ttf
-            version: Version 1.000
           macos:
             file: Supplemental/NotoSerifNyiakengPuachueHmong-Regular.ttf
+            version: Version 1.000
+          ubuntu:
+            file: truetype/noto/NotoSerifNyiakengPuachueHmong-Regular.ttf
             version: Version 1.000
     Noto Serif Kannada:
     - subfamily: Bold
@@ -25567,13 +25567,13 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSerifMyanmar-Bold.ttf
         clashed:
+          macos:
+            file: Fonts/NotoSerifMyanmar.ttc
+            version: 14.0d1e5
           ubuntu:
             file: truetype/noto/NotoSerifMyanmar-Bold.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               mymr -f none -a qsq -X ""
-          macos:
-            file: Fonts/NotoSerifMyanmar.ttc
-            version: 14.0d1e5
     - subfamily: Regular
       file: NotoSerifMyanmar-Black-v14_0d1e5.ttc
       version: 14.0d1e5
@@ -25582,13 +25582,13 @@ ubuntu:
         from: macos
         original: truetype/noto/NotoSerifMyanmar-Regular.ttf
         clashed:
+          macos:
+            file: Fonts/NotoSerifMyanmar.ttc
+            version: 14.0d1e5
           ubuntu:
             file: truetype/noto/NotoSerifMyanmar-Regular.ttf
             version: Version 2.001; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D
               mymr -f none -a qsq -X ""
-          macos:
-            file: Fonts/NotoSerifMyanmar.ttc
-            version: 14.0d1e5
     Noto Serif Sinhala:
     - subfamily: Bold
       file: NotoSerifSinhala-Bold-v2_002.ttf
@@ -25706,18 +25706,18 @@ ubuntu:
         from: ubuntu
         original: truetype/noto/NotoSerifYezidi-Bold.ttf
     - subfamily: Regular
-      file: NotoSerifYezidi-Regular-v1_000.ttf
+      file: NotoSerifYezidi-Regular-v1_000.otf
       version: Version 1.000
       source:
         was_clashed: true
-        from: ubuntu
+        from: macos
         original: truetype/noto/NotoSerifYezidi-Regular.ttf
         clashed:
-          ubuntu:
-            file: truetype/noto/NotoSerifYezidi-Regular.ttf
-            version: Version 1.000
           macos:
             file: Supplemental/NotoSerifYezidi-Regular.otf
+            version: Version 1.000
+          ubuntu:
+            file: truetype/noto/NotoSerifYezidi-Regular.ttf
             version: Version 1.000
     Noto Traditional Nushu:
     - subfamily: Regular

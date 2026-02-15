@@ -13,7 +13,6 @@ import sys
 from pathlib import Path
 
 import yaml
-
 from fontutil import FONT_EXTENSIONS, build_file_index, scan_font_dir
 
 BASE_DIR = Path(__file__).parent
@@ -98,7 +97,7 @@ def _make_merged_name(rel_path: str, file_index: dict) -> str:
 # clash detection and version comparison
 
 
-def build_clash_report(all_sources: dict[str, dict[str, list[dict]]]) -> dict:
+def find_clashes(all_sources: dict[str, dict[str, list[dict]]]) -> dict:
     """
     find font families present in multiple sources
     all_sources is {source_name: {family: [entries]}}
@@ -106,11 +105,15 @@ def build_clash_report(all_sources: dict[str, dict[str, list[dict]]]) -> dict:
     """
     file_indexes = {name: build_file_index(fams) for name, fams in all_sources.items()}
 
-    # find families present in 2+ sources
-    family_sources: dict[str, set[str]] = {}
+    # find families present in 2+ sources (preserve sources.yml order)
+    source_order = list(all_sources.keys())
+    family_sources: dict[str, list[str]] = {}
     for name, fams in all_sources.items():
         for fam in fams:
-            family_sources.setdefault(fam, set()).add(name)
+            if fam not in family_sources:
+                family_sources[fam] = []
+            if name not in family_sources[fam]:
+                family_sources[fam].append(name)
 
     clashes = {}
     for family in sorted(family_sources):
@@ -118,9 +121,10 @@ def build_clash_report(all_sources: dict[str, dict[str, list[dict]]]) -> dict:
         if len(sources) < 2:
             continue
 
-        # group by subfamily per source
+        # group by subfamily per source (in sources.yml order)
+        ordered_sources = [s for s in source_order if s in sources]
         sub_by_source: dict[str, dict[str, list[dict]]] = {}
-        for src in sources:
+        for src in ordered_sources:
             sub_by_source[src] = {}
             for e in all_sources[src][family]:
                 sub = e.get("subfamily", "Regular") or "Regular"
@@ -134,7 +138,7 @@ def build_clash_report(all_sources: dict[str, dict[str, list[dict]]]) -> dict:
 
         for sub in sorted(all_subs):
             present_in = {
-                src: sub_by_source[src][sub] for src in sources if sub in sub_by_source[src]
+                src: sub_by_source[src][sub] for src in ordered_sources if sub in sub_by_source[src]
             }
             if len(present_in) < 2:
                 continue
@@ -417,7 +421,7 @@ def main():
         sys.exit(1)
 
     # clash detection
-    clashes = build_clash_report(all_families) if len(all_families) >= 2 else {}
+    clashes = find_clashes(all_families) if len(all_families) >= 2 else {}
     if clashes:
         print(f"\nClashing families: {len(clashes)}")
 
