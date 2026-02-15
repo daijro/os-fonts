@@ -71,10 +71,10 @@ Miscellaneous fonts from commonly installed software and font collections. These
 ## Output
 
 - `merged/` - flat directory with all font files. Fonts are deduped by taking the latest version per family.
-- `fonts.yml` - debug output of which fonts were deduped, and each family's file source
-- `families.json` - maps locales to avaliable font families
+- `merge.yml` - debug output of which fonts were deduped, and each family's file source
+- `font-map.json` - maps locales to available font families
 
-### families.json structure
+### font-map.json structure
 
 ```json
 {

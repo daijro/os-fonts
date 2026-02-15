@@ -1,10 +1,9 @@
 """
-Merge fonts from multiple sources (sources.yml) into a unified directory
+Reads sources.yml to find font directories and locale mapping jsons
+also detects clashing families across sources, with tie breaking by version
 
-reads sources.yml to find font directories and optional locale mapping jsons
-detects clashing families across sources, resolves by version, and produces
-fonts.yml - source -> locale -> families with merged filenames and clash info
-families.json - source -> locale -> list of family names
+merge.yml - source -> locale -> families with merged filenames and clash info
+font-map.json - source -> locale -> list of family names
 """
 
 import json
@@ -17,9 +16,9 @@ from fontutil import FONT_EXTENSIONS, build_file_index, scan_font_dir
 
 BASE_DIR = Path(__file__).parent
 SOURCES_PATH = BASE_DIR / "sources.yml"
-FONTS_YML_PATH = BASE_DIR / "fonts.yml"
-FAMILIES_JSON_PATH = BASE_DIR / "families.json"
-FAMILIES_MIN_PATH = BASE_DIR / "families.min.json"
+FONTS_YML_PATH = BASE_DIR / "merge.yml"
+FAMILIES_JSON_PATH = BASE_DIR / "font-map.json"
+FAMILIES_MIN_PATH = BASE_DIR / "font-map.min.json"
 MERGED_DIR = BASE_DIR / "merged"
 
 
@@ -283,7 +282,7 @@ def build_merged(
     return {"winners": winners, "stats": stats, "used_names": used_names}
 
 
-# fonts.yml and families.json output
+# merge.yml and font-map.json output
 
 
 def build_fonts_data(locale_maps: dict[str, dict], clash_report: dict, used_names: dict) -> dict:
@@ -436,7 +435,7 @@ def main():
         versions = ", ".join(f"{s}={v}" for s, v in w["versions"].items())
         print(f"  {w['family']} / {w['subfamily']}: {w['winner']} wins ({versions})")
 
-    # build fonts.yml
+    # build merge.yml
     fonts_data = build_fonts_data(locale_maps, clashes, merge_result["used_names"])
 
     with open(FONTS_YML_PATH, "w") as f:
