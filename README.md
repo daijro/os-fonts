@@ -30,20 +30,31 @@ Windows 11 fonts are downloaded from the language feature packs from the UUP dum
 
 The downloader is included in `win11/`
 
-
 ### Ubuntu
 
 Base fonts are extracted from a fresh Ubuntu 24.04 system with all of the default office packages.
 
-Other locale-specific fonts for Indic, Thai, Arabic, etc were installed using this command:
+Other locale-specific fonts for Indic, Thai, Arabic, etc were extracted from these Debian packages:
 
-```bash
-sudo apt install fonts-indic fonts-thai-tlwg fonts-kacst fonts-kacst-one \
-  fonts-khmeros fonts-sil-padauk fonts-lao fonts-noto-cjk fonts-noto-core \
-  fonts-noto-color-emoji fonts-sil-abyssinica fonts-lklug-sinhala
-```
+<details>
+<summary>
+See list
+</summary>
 
-Fonts were then extracted from `/usr/share/fonts/`
+- [fonts-indic](https://packages.debian.org/sid/fonts/fonts-indic)
+- [fonts-thai-tlwg](https://packages.debian.org/sid/fonts/fonts-thai-tlwg)
+- [fonts-kacst](https://packages.debian.org/sid/fonts/fonts-kacst)
+- [fonts-kacst-one](https://packages.debian.org/sid/fonts/fonts-kacst-one)
+- [fonts-khmeros](https://packages.debian.org/sid/fonts/fonts-khmeros)
+- [fonts-sil-padauk](https://packages.debian.org/sid/fonts/fonts-sil-padauk)
+- [fonts-lao](https://packages.debian.org/sid/fonts/fonts-lao)
+- [fonts-noto-cjk](https://packages.debian.org/sid/fonts/fonts-noto-cjk)
+- [fonts-noto-core](https://packages.debian.org/sid/fonts/fonts-noto-core)
+- [fonts-noto-color-emoji](https://packages.debian.org/sid/fonts/fonts-noto-color-emoji)
+- [fonts-sil-abyssinica](https://packages.debian.org/sid/fonts/fonts-sil-abyssinica)
+- [fonts-lklug-sinhala](https://packages.debian.org/sid/fonts/fonts-lklug-sinhala)
+
+</details>
 
 ### MacOS
 
@@ -89,16 +100,19 @@ make build-locales
 ```
 
 Create the merged output folder:
+
 ```
 make merge
 ```
 
 Run everything:
+
 ```
 make all
 ```
 
 Clean up:
+
 ```
 make clean-temp     # remove temp files
 make clean-all      # remove all generated files
