@@ -8,9 +8,9 @@ win11:
 macos:
   dir: macos
 
-linux:
-  dir: linux
-  locales: linux/locales.json
+ubuntu:
+  dir: ubuntu
+  locales: ubuntu/locales.json
 
 extras:
   dir: extras
