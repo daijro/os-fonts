@@ -4,7 +4,7 @@ All of the latest Windows, MacOS, and common Linux system fonts, & additional la
 
 <hr width=50>
 
-### Includes
+## Fonts
 
 - **Windows 11 26H1**
   - All of the latest bundled fonts
@@ -17,6 +17,9 @@ All of the latest Windows, MacOS, and common Linux system fonts, & additional la
   - Fonts from other common language packages in the Ubuntu repos
 - **Extra fonts**
   - Miscellaneous fonts from older Microsoft releases & other collections
+
+Also includes FreeType configs for each OS's family defaults (serif, sans-serif, monospace, etc)
+
 ---
 
 # Sources
@@ -97,7 +100,7 @@ make all
 
 Clean up:
 ```
-make clean-temp     # remove win11 temp download files
+make clean-temp     # remove temp files
 make clean-all      # remove all generated files
 ```
 
