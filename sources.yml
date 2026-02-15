@@ -6,7 +6,7 @@ win11:
   locales: win11/locales.json
 
 macos:
-  dir: macos-tahoe
+  dir: macos
 
 linux:
   dir: linux
