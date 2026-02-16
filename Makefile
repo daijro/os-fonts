@@ -13,20 +13,20 @@ build-locales:
 merge: build-locales
 	python3 merge.py
 
-zip:
-	rm -rf _zip os-fonts.zip
-	mkdir -p _zip/fonts _zip/fontconfigs
-	cp -r merged/* _zip/fonts/
-	cp -r fontconfigs/* _zip/fontconfigs/
-	cp font-map.min.json _zip/
-	cd _zip && 7z a -tzip -mx=9 ../os-fonts.zip .
-	rm -rf _zip
+package:
+	rm -rf _package package.zip
+	mkdir -p _package/fonts _package/fontconfigs
+	cp -r merged/* _package/fonts/
+	cp -r fontconfigs/* _package/fontconfigs/
+	cp font-map.min.json _package/
+	cd _package && 7z a -tzip -mx=9 ../package.zip .
+	rm -rf _package
 
 clean-temp:
 	python3 win11/download_utils.py clean
 
 clean: clean-temp
-	rm -rf merged merge.yml font-map.json font-map.min.json _zip os-fonts.zip
+	rm -rf merged merge.yml font-map.json font-map.min.json _package package.zip
 
 clean-all: clean
 	rm -rf win11/fonts win11/fod-mapping.xlsx win11/extraction.json win11/locales.json ubuntu/locales.json

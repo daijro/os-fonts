@@ -3,5 +3,5 @@ __pycache__/
 *.kate-swp
 *.old
 test/
-_zip/
+_package/
 *.zip
